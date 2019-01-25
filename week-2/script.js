@@ -11,6 +11,9 @@ Promise.all([
 	])
 	.then(([migration, countryCode, metadata]) => {
 
+        //console.log(migration);
+        //console.log(countryCode);
+        //console.log(metadata);
 		//Convert metadata to a map
 		const metadata_tmp = metadata.map(a => {
 			return [a.iso_num, a]
@@ -45,9 +48,145 @@ Promise.all([
 			return d;
 		});
 		
-		console.log(migrationAugmented);
+		//console.log(migrationAugmented);
+    
+    
+    //Migration from the US (840) to any other place in the world
+    
+    const USdata = d3.nest()
+        .key(d => d.year)
+        .entries(migrationAugmented.filter(d => d.origin_code === "840"))
+        .map(d => {
+            return {
+                year: +d.key,
+                total: d3.sum(d.values, e => e.value),
+                max: d3.max(d.values, e => e.value),
+                min: d3.min(d.values, e => e.value)
+            }
+        })
+        //.filter(d => d.origin_code === "840")
+        //.filter(function(d){return d.origin_code === "840"})
+    
+    //console.log(data);
+    
+    /*lineChart(
+        data, //this is the US migration data
+        d3.select('.module').node() //<div> element with class "module"
+    )*/
+    
+    //group by subregion
+    const subregionData = d3.nest()
+        .key(d => d.dest_subregion)    
+        .key(d => d.year)
+        .rollup(values => d3.sum(values, d => d.value))
+        .entries(migrationAugmented);
+    
+    d3.select('.main')
+        .selectAll('.chart') //0
+        .data(subregionData)
+        .enter()
+        .append('div')
+        .attr('class','chart')
+        .each(function(d){
+            console.group()
+            console.log(this);
+            console.log(d);
+            console.groupEnd();
+            lineChart(
+                d.values,
+                this
+            );
+    })
+    
+    console.log(subregionData);
+    
+        
 
 	})
+
+//Drawing line chart based on serial x-y data
+//Function 'signature': what aruments are expected, how many, and hwat they should look like
+function lineChart(data, rootDOM){
+    //console.log('Line chart');
+    //console.log(data);
+    //console.log(rootDOM);
+    
+    data.pop();
+    
+    const W = rootDOM.clientWidth;
+    const H = rootDOM.clientHeight;
+    const margin = {t:32,r:32,b:64,l:64};
+    const innerWidth = W - margin.l - margin.r;
+    const innerHeight = H - margin.t - margin.b;
+    
+    const scaleX = d3.scaleLinear().domain([1985,2020]).range([0,innerWidth]);
+    const scaleY = d3.scaleLinear().domain([0,25000000]).range([innerHeight,0]);//flipping 0 and innerHeight lets us flip the directionality since the web has the top at 0 and counts down
+    
+    //take array of xy values and produce a shape attribute for a <path> element
+    const lineGenerator = d3.line()
+        //.x(d => scaleX(d.year))
+        //.y(d => scaleY(d.total));
+        .x(d => scaleX(+d.key))
+        .y(d => scaleY(d.value));
+    
+    const areaGenerator = d3.area()
+        //.x(d => scaleX(d.year))
+        .x(d => scaleX(+d.key))
+        .y0(innerHeight)
+        //.y1(d => scaleY(d.total));
+        .y1(d => scaleY(d.value));
+    
+    const axisX = d3.axisBottom()
+        .scale(scaleX)
+        .tickFormat(function(value){return "'" + String(value).slice(-2)})
+    
+    const axisY = d3.axisLeft()
+        .scale(scaleY)
+        .tickSize(-innerWidth)
+        .ticks(3)
+    
+    console.log(lineGenerator(data));
+    
+    const svg = d3.select(rootDOM)
+        .append('svg')
+        .attr('width',W)
+        .attr('height',H);
+    const plot = svg.append('g')
+        .attr('class','plot')
+        .attr('transform',`translate(${margin.l},${margin.t})`);
+    
+    plot.append('path')
+        .attr('class','line')
+        .datum(data)
+        //some visual attributes ie shape ie geometry, "d" in svg
+        //.attr('d', function(array8){
+            //return lineGenerator(array8)
+            //console.log(array8);
+    //)}
+        .attr('d', data => lineGenerator(data))
+        .style('fill','none')
+        .style('stroke','#333')
+        .style('stroke-width','2px')
+    
+    plot.append('path')
+        .attr('class','area')
+        .datum(data)
+        .attr('d',data => areaGenerator(data))
+        .style('fill-opacity',0.03);
+    
+    plot.append('g')
+        .attr('class','axis axis-x')
+        .attr('transform',`translate(0,${innerHeight})`)
+        .call(axisX);
+    
+    plot.append('g')
+        .attr('class','axis axis-y')
+        .call(axisY);
+    
+    
+    
+    
+}
 
 
 //Utility functions for parsing metadata, migration data, and country code
