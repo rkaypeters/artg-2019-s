@@ -4,7 +4,6 @@ const countryCodePromise = d3.csv('../data/un-migration/ANNEX-Table 1.csv', pars
 	.then(data => new Map(data));
 const metadataPromise = d3.csv('../data/country-metadata.csv', parseMetadata);
 
-
 //Import all data via parallel promises
 Promise.all([
 		migrationDataPromise,
@@ -22,19 +21,49 @@ Promise.all([
 
 		//Let's pick a year, say 2000, and filter the migration data
 		const migration_2000 = migration.filter(d => d.year === 2000);
-		console.log(migration_2000);
+		//console.log(migration_2000);
+    
 
 		//YOUR CODE HERE
 		//Nest/group migration_2000 by origin_country
 		//Then sum up the total value, using either nest.rollup or array.map
-		let migration_origin_by_country = d3.nest() //COMPLETE HERE
+		let migration_origin_by_country = d3.nest()
+        .key(d => d.origin_name)
+        .entries(migration_2000)
+        .map( d=>{
+            return{
+                origin_name: d.key,
+                total: d3.sum(d.values, e => e.value)
+            }
+        });
+        //console.log(migration_origin_by_country);
+        //COMPLETE HERE
 
 		//YOUR CODE HERE
 		//Then, join the transformed migration data to the lngLat values in the metadata
+        
+        //console.log(metadataMap);
+        const migration_origin_by_country_aug = migration_origin_by_country.map(d =>{
+            const origin_code = countryCode.get(d.origin_name);
+            
+            d.origin_code = origin_code;
+            
+            const origin_metadata = metadataMap.get(origin_code);
+            if(!origin_metadata){
+			console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
+			};
+            
+            if(origin_metadata){
+				d.origin_lngLat = origin_metadata.lngLat;
+			};
+            
+            return d;
+        });
+        console.log(migration_origin_by_country_aug);
 
 
 		//REPRESENT
-		drawCartogram(d3.select('.cartogram').node(), migration_origin_by_country);
+		drawCartogram(d3.select('.cartogram').node(), migration_origin_by_country_aug);
 
 	})
 
@@ -57,6 +86,41 @@ function drawCartogram(rootDom, data){
 
 	//Complete the rest of the code here
 	//Build the DOM structure using enter / exit / update
+    
+    const plot = d3.select(rootDom)
+        .append('svg') //adds svg element in main then full-width-catogram
+        .attr('width', w)
+        .attr('height', h)
+        .append('g'); //adds g element in svg
+    
+    const nodes = plot.selectAll('.node')
+        .data(data,d => d.key); //not sure what this does
+    const nodesEnter = nodes.enter().append ('g')
+        .attr('class','node'); //now there's a g node for each origin country
+    nodesEnter.append('circle');
+    nodesEnter.append('text').attr('text-anchor','middle');
+    //now each node has circle and text elements
+    
+    nodes.merge(nodesEnter)
+		.filter(d => d.lngLat)
+		.attr('transform', d => {
+			const xy = projection(d.origin_lngLat);
+			return `translate(${xy[0]}, ${xy[1]})`;
+		})//not sure what this does
+    nodes.merge(nodesEnter)
+		.select('circle')
+		.attr('r', d => scaleSize(d.total))
+		.style('fill-opacity', .03)
+		.style('stroke', '#000')
+		.style('stroke-width', '1px')
+		.style('stroke-opacity', .2) //gives the circle visual elements
+    nodes.merge(nodesEnter)
+		.select('text')
+		.filter(d => d.value > 1000000)
+		.text(d => d.origin_name)
+		.style('font-family', 'sans-serif')
+		.style('font-size', '10px')
+
 
 }
 

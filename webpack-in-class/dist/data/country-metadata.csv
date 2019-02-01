@@ -1,0 +1,237 @@
+ISO_A3,ISO_num,developed_or_developing,region,subregion,name_formal,name_display,lng,lat
+AFG,004,Developing,Asia,Southern Asia,the Islamic Republic of Afghanistan,Afghanistan,65.92950623591709,33.81971288955854
+ALB,008,Developed,Europe,Southern Europe,the Republic of Albania,Albania,20.05582590068803,41.13486766726118
+DZA,012,Developing,Africa,Northern Africa,the People's Democratic Republic of Algeria,Algeria,2.665808151497131,28.044456819121088
+ASM,016,Developing,Oceania,Polynesia,,American Samoa,-170.39899891753294,-14.25518111009397
+AND,020,Developed,Europe,Southern Europe,the Principality of Andorra,Andorra,1.56073706086547,42.54131525236483
+AGO,024,Developing,Africa,Sub-Saharan Africa,the Republic of Angola,Angola,17.531465139225705,-12.269565872574479
+AIA,660,Developing,Americas,Latin America and the Caribbean,,Anguilla,-63.05857974633932,18.225693306885038
+ATG,028,Developing,Americas,Latin America and the Caribbean,Antigua and Barbuda,Antigua & Barbuda,-61.79172006383591,17.28397968430135
+ARG,032,Developing,Americas,Latin America and the Caribbean,the Argentine Republic,Argentina,-64.76085380013933,-34.689208096361504
+ARM,051,Developing,Asia,Western Asia,the Republic of Armenia,Armenia,44.94070246601974,40.28594141725816
+ABW,533,Developing,Americas,Latin America and the Caribbean,,Aruba,-69.97418382641978,12.516931408742733
+AUS,036,Developed,Oceania,Australia and New Zealand,Australia,Australia,134.30380407691032,-25.76336396181924
+AUT,040,Developed,Europe,Western Europe,the Republic of Austria,Austria,14.114629264238102,47.59236418311721
+AZE,031,Developing,Asia,Western Asia,the Republic of Azerbaijan,Azerbaijan,47.54386910482845,40.287436758457076
+BHS,044,Developing,Americas,Latin America and the Caribbean,the Commonwealth of the Bahamas,Bahamas,-76.51174245442161,24.21312827038147
+BHR,048,Developing,Asia,Western Asia,the Kingdom of Bahrain,Bahrain,50.54663855955117,26.05268971022782
+BGD,050,Developing,Asia,Southern Asia,the People's Republic of Bangladesh,Bangladesh,90.25095722280227,23.838909113165005
+BRB,052,Developing,Americas,Latin America and the Caribbean,Barbados,Barbados,-59.56120166181846,13.181041215874654
+BLR,112,Developed,Europe,Eastern Europe,the Republic of Belarus,Belarus,28.016366841241524,53.520054866643726
+BEL,056,Developed,Europe,Western Europe,the Kingdom of Belgium,Belgium,4.647194101819663,50.636746628885646
+BLZ,084,Developing,Americas,Latin America and the Caribbean,Belize,Belize,-88.69482810446593,17.206304756883753
+BEN,204,Developing,Africa,Sub-Saharan Africa,the Republic of Benin,Benin,2.3274989248327995,9.635060023836878
+BMU,060,Developed,Americas,Northern America,,Bermuda,-64.763539397006,32.310137631493234
+BTN,064,Developing,Asia,Southern Asia,the Kingdom of Bhutan,Bhutan,90.40478396552089,27.42271174051712
+BOL,068,Developing,Americas,Latin America and the Caribbean,the Plurinational State of Bolivia,Bolivia,-64.69780469334243,-16.68067874431776
+BIH,070,Developed,Europe,Southern Europe,Bosnia and Herzegovina,Bosnia,17.77950459017893,44.168659520476005
+BWA,072,Developing,Africa,Sub-Saharan Africa,the Republic of Botswana,Botswana,23.809129442781433,-22.166903129847157
+BRA,076,Developing,Americas,Latin America and the Caribbean,the Federative Republic of Brazil,Brazil,-53.210123337295826,-10.632064820872491
+IOT,086,Developing,Africa,Sub-Saharan Africa,,British Indian Ocean Territory,72.29823103061611,-7.144003111155462
+VGB,092,Developing,Americas,Latin America and the Caribbean,,British Virgin Islands,-64.50302587537021,18.509846707150956
+BRN,096,Developing,Asia,South-eastern Asia,Brunei Darussalam,Brunei,114.72718317585581,4.516494018999225
+BGR,100,Developed,Europe,Eastern Europe,the Republic of Bulgaria,Bulgaria,25.211124056522287,42.77083387720839
+BFA,854,Developing,Africa,Sub-Saharan Africa,Burkina Faso,Burkina Faso,-1.7621008409974273,12.27073138522289
+BDI,108,Developing,Africa,Sub-Saharan Africa,the Republic of Burundi,Burundi,29.87518579038776,-3.357242825473788
+CPV,132,Developing,Africa,Sub-Saharan Africa,the Republic of Cabo Verde,Cape Verde,-23.96415842710887,15.934173941865282
+KHM,116,Developing,Asia,South-eastern Asia,the Kingdom of Cambodia,Cambodia,104.90116065464147,12.715002546661761
+CMR,120,Developing,Africa,Sub-Saharan Africa,the Republic of Cameroon,Cameroon,12.731261545010804,5.683110423645689
+CAN,124,Developed,Americas,Northern America,Canada,Canada,-96.53677089688702,60.42713207477198
+CYM,136,Developing,Americas,Latin America and the Caribbean,,Cayman Islands,-80.87834803690347,19.427154094570433
+CAF,140,Developing,Africa,Sub-Saharan Africa,the Central African Republic,Central African Republic,20.458347372973993,6.5703790126041
+TCD,148,Developing,Africa,Sub-Saharan Africa,the Republic of Chad,Chad,18.636332597022204,15.274996639604302
+CHL,152,Developing,Americas,Latin America and the Caribbean,the Republic of Chile,Chile,-71.04518076431964,-36.080112874639596
+CHN,156,Developing,Asia,Eastern Asia,the People's Republic of China,China,103.39190493614082,36.68939230089396
+HKG,344,Developing,Asia,Eastern Asia,,Hong Kong,114.1313976295981,22.38462843211332
+MAC,446,Developing,Asia,Eastern Asia,,Macau,113.55020057853986,22.157778551838444
+COL,170,Developing,Americas,Latin America and the Caribbean,the Republic of Colombia,Colombia,-73.07976421736424,3.899077316892233
+COM,174,Developing,Africa,Sub-Saharan Africa,the Union of the Comoros,Comoros,43.67927523001208,-11.88425439068015
+COG,178,Developing,Africa,Sub-Saharan Africa,the Republic of the Congo,Congo - Brazzaville,15.219821878736674,-0.8379936586471232
+COK,184,Developing,Oceania,Polynesia,the Cook Islands,Cook Islands,-158.79490742744565,-19.77078375256512
+CRI,188,Developing,Americas,Latin America and the Caribbean,the Republic of Costa Rica,Costa Rica,-84.1914249689,9.97308498900565
+HRV,191,Developed,Europe,Southern Europe,the Republic of Croatia,Croatia,16.395325052059306,45.062871562201764
+CUB,192,Developing,Americas,Latin America and the Caribbean,the Republic of Cuba,Cuba,-79.00622255868332,21.640291926726544
+CUW,531,Developing,Americas,Latin America and the Caribbean,,Curaçao,-68.97123013828707,12.19381518072327
+CYP,196,Developed,Asia,Western Asia,the Republic of Cyprus,Cyprus,32.98987752617872,34.9156447607652
+CZE,203,Developed,Europe,Eastern Europe,the Czech Republic,Czechia,15.321142444367368,49.737020058546335
+CIV,384,Developing,Africa,Sub-Saharan Africa,the Republic of Côte d'Ivoire,Côte d’Ivoire,-5.568881804978149,7.6254069426637106
+PRK,408,Developing,Asia,Eastern Asia,the Democratic People's Republic of Korea,North Korea,127.15048481452808,40.137216567764796
+COD,180,Developing,Africa,Sub-Saharan Africa,the Democratic Republic of the Congo,Congo - Kinshasa,23.63884206189604,-2.867786467950764
+DNK,208,Developed,Europe,Northern Europe,the Kingdom of Denmark,Denmark,10.066005529438439,55.958977255966104
+DJI,262,Developing,Africa,Sub-Saharan Africa,the Republic of Djibouti,Djibouti,42.565834582188934,11.749748774816755
+DMA,212,Developing,Americas,Latin America and the Caribbean,the Commonwealth of Dominica,Dominica,-61.35689041487951,15.436395936687385
+DOM,214,Developing,Americas,Latin America and the Caribbean,the Dominican Republic,Dominican Republic,-70.49611453334286,18.89717409135933
+ECU,218,Developing,Americas,Latin America and the Caribbean,the Republic of Ecuador,Ecuador,-78.76945494905371,-1.4265843633986917
+EGY,818,Developing,Africa,Northern Africa,the Arab Republic of Egypt,Egypt,29.877630538018778,26.45683824016511
+SLV,222,Developing,Americas,Latin America and the Caribbean,the Republic of El Salvador,El Salvador,-88.87023319193425,13.73626130703667
+GNQ,226,Developing,Africa,Sub-Saharan Africa,the Republic of Equatorial Guinea,Equatorial Guinea,10.333242567758921,1.7068180638181094
+ERI,232,Developing,Africa,Sub-Saharan Africa,the State of Eritrea,Eritrea,38.86401379918562,15.356787039949797
+EST,233,Developed,Europe,Northern Europe,the Republic of Estonia,Estonia,25.538385035706114,58.67196673909478
+SWZ,748,Developing,Africa,Sub-Saharan Africa,,Eswatini,31.479965882310292,-26.56098326935429
+ETH,231,Developing,Africa,Sub-Saharan Africa,the Federal Democratic Republic of Ethiopia,Ethiopia,39.60955547557098,8.614533715983656
+FLK,238,Developing,Americas,Latin America and the Caribbean,,Falkland Islands,-59.37359939279979,-51.73485043604436
+FRO,234,Developed,Europe,Northern Europe,,Faroe Islands,-6.870365501173233,62.072346488908295
+FJI,242,Developing,Oceania,Melanesia,the Republic of Fiji,Fiji,178.52613270997816,-17.446515735370316
+FIN,246,Developed,Europe,Northern Europe,the Republic of Finland,Finland,26.190871084356854,64.25166546705108
+FRA,250,Developed,Europe,Western Europe,the French Republic,France,-6.662012215944035,42.96323965913795
+PYF,258,Developing,Oceania,Polynesia,,French Polynesia,-144.94413371112194,-15.15788414583898
+ATF,260,Developing,Africa,Sub-Saharan Africa,,French Southern Territories,68.90574158904761,-49.07933355433256
+GAB,266,Developing,Africa,Sub-Saharan Africa,the Gabonese Republic,Gabon,11.789685073527648,-0.5914973577112806
+GMB,270,Developing,Africa,Sub-Saharan Africa,the Republic of the Gambia,Gambia,-15.397875082424523,13.45104278899843
+GEO,268,Developing,Asia,Western Asia,Georgia,Georgia,43.52413798749978,42.173204583043145
+DEU,276,Developed,Europe,Western Europe,the Federal Republic of Germany,Germany,10.360713980006535,51.050008931987456
+GHA,288,Developing,Africa,Sub-Saharan Africa,the Republic of Ghana,Ghana,-1.2167432986307885,7.948194146289136
+GIB,292,Developed,Europe,Southern Europe,,Gibraltar,-5.346538175256998,36.12855082452971
+GRC,300,Developed,Europe,Southern Europe,the Hellenic Republic,Greece,22.98469992404336,39.02446821332255
+GRL,304,Developed,Americas,Northern America,,Greenland,-41.77729444349937,73.12688767124573
+GRD,308,Developing,Americas,Latin America and the Caribbean,Grenada,Grenada,-61.65674646633274,12.153326870489158
+GUM,316,Developing,Oceania,Micronesia,,Guam,144.7718808936432,13.443760948445782
+GTM,320,Developing,Americas,Latin America and the Caribbean,the Republic of Guatemala,Guatemala,-90.36263371147909,15.692008896873329
+GGY,831,Developed,Europe,Northern Europe,,Guernsey,-2.5307888919421084,49.48432111570185
+GIN,324,Developing,Africa,Sub-Saharan Africa,the Republic of Guinea,Guinea,-10.936666490464585,10.435771056338547
+GNB,624,Developing,Africa,Sub-Saharan Africa,the Republic of Guinea-Bissau,Guinea-Bissau,-14.977838153016439,12.02722636825385
+GUY,328,Developing,Americas,Latin America and the Caribbean,the Republic of Guyana,Guyana,-58.978022506195074,4.789325961562113
+HTI,332,Developing,Americas,Latin America and the Caribbean,the Republic of Haiti,Haiti,-72.69231307673009,18.93792092914666
+HMD,334,Developed,Oceania,Australia and New Zealand,,Heard & McDonald Islands,73.50507948452919,-53.08880770153748
+VAT,336,Developed,Europe,Southern Europe,the Holy See,Vatican City,12.453437475596218,41.903313345906575
+HND,340,Developing,Americas,Latin America and the Caribbean,the Republic of Honduras,Honduras,-86.62761457395375,14.82316471200538
+HUN,348,Developed,Europe,Eastern Europe,Hungary,Hungary,19.3804465872987,47.166368346247815
+ISL,352,Developed,Europe,Northern Europe,the Republic of Iceland,Iceland,-18.60166569983377,65.000465298661
+IND,356,Developing,Asia,Southern Asia,the Republic of India,India,79.56751386429306,22.77866491553763
+IDN,360,Developing,Asia,South-eastern Asia,the Republic of Indonesia,Indonesia,117.21051867114834,-2.272012642552529
+IRN,364,Developing,Asia,Southern Asia,the Islamic Republic of Iran,Iran,54.44377179577311,32.52269395914846
+IRQ,368,Developing,Asia,Western Asia,the Republic of Iraq,Iraq,43.77507795198216,33.00972814499344
+IRL,372,Developed,Europe,Northern Europe,Ireland,Ireland,-8.152708503932212,53.165213024024375
+IMN,833,Developed,Europe,Northern Europe,,Isle of Man,-4.53400858434742,54.22896882700626
+ISR,376,Developed,Asia,Western Asia,the State of Israel,Israel,34.99188419014381,31.43430317982317
+ITA,380,Developed,Europe,Southern Europe,the Republic of Italy,Italy,12.20277165174056,42.70537693174019
+JAM,388,Developing,Americas,Latin America and the Caribbean,Jamaica,Jamaica,-77.31838757692789,18.155719151462
+JPN,392,Developed,Asia,Eastern Asia,Japan,Japan,137.60498728586515,37.41985172438577
+JEY,832,Developed,Europe,Northern Europe,,Jersey,-2.127416712414184,49.2210723197879
+JOR,400,Developing,Asia,Western Asia,the Hashemite Kingdom of Jordan,Jordan,36.75723916362458,31.238442475724458
+KAZ,398,Developing,Asia,Central Asia,the Republic of Kazakhstan,Kazakhstan,67.2509757022404,48.36646004441393
+KEN,404,Developing,Africa,Sub-Saharan Africa,the Republic of Kenya,Kenya,37.8225731080639,0.5504575222284493
+KIR,296,Developing,Oceania,Micronesia,the Republic of Kiribati,Kiribati,-167.0491283260613,0.6403740944513641
+KWT,414,Developing,Asia,Western Asia,the State of Kuwait,Kuwait,47.595351052120854,29.33901479790944
+KGZ,417,Developing,Asia,Central Asia,the Kyrgyz Republic,Kyrgyzstan,74.50914370825372,41.47403813755311
+LAO,418,Developing,Asia,South-eastern Asia,the Lao People's Democratic Republic,Laos,103.77510456590566,18.48750802880217
+LVA,428,Developed,Europe,Northern Europe,the Republic of Latvia,Latvia,24.916747851871328,56.860487758531384
+LBN,422,Developing,Asia,Western Asia,the Lebanese Republic,Lebanon,35.877479725102724,33.91888402173737
+LSO,426,Developing,Africa,Sub-Saharan Africa,the Kingdom of Lesotho,Lesotho,28.230356180796058,-29.578759405572224
+LBR,430,Developing,Africa,Sub-Saharan Africa,the Republic of Liberia,Liberia,-9.317619379131072,6.451363206991684
+LBY,434,Developing,Africa,Northern Africa,Libya,Libya,18.067654429847526,27.015988485880296
+LIE,438,Developed,Europe,Western Europe,the Principality of Liechtenstein,Liechtenstein,9.5409217958045,47.13815812624399
+LTU,440,Developed,Europe,Northern Europe,the Republic of Lithuania,Lithuania,23.89818119453099,55.32462661816368
+LUX,442,Developed,Europe,Western Europe,the Grand Duchy of Luxembourg,Luxembourg,6.072101228466124,49.766346961541224
+MDG,450,Developing,Africa,Sub-Saharan Africa,the Republic of Madagascar,Madagascar,46.74415983566336,-19.317670236336717
+MWI,454,Developing,Africa,Sub-Saharan Africa,the Republic of Malawi,Malawi,34.28339139161915,-13.203518968480553
+MYS,458,Developing,Asia,South-eastern Asia,Malaysia,Malaysia,109.70046366332897,3.813699936304783
+MDV,462,Developing,Asia,Southern Asia,the Republic of Maldives,Maldives,73.30248018306465,3.8232959242846727
+MLI,466,Developing,Africa,Sub-Saharan Africa,the Republic of Mali,Mali,-3.5869260774050704,17.313441809496368
+MLT,470,Developed,Europe,Southern Europe,the Republic of Malta,Malta,14.403898478596505,35.920998761395865
+MHL,584,Developing,Oceania,Micronesia,the Republic of the Marshall Islands,Marshall Islands,170.10537814994842,7.110439089247519
+MRT,478,Developing,Africa,Sub-Saharan Africa,the Islamic Republic of Mauritania,Mauritania,-10.36547956076364,20.21955377349013
+MUS,480,Developing,Africa,Sub-Saharan Africa,the Republic of Mauritius,Mauritius,57.850434338919655,-20.187104922344673
+MEX,484,Developing,Americas,Latin America and the Caribbean,the United Mexican States,Mexico,-102.17819436597867,23.925655987280074
+FSM,583,Developing,Oceania,Micronesia,the Federated States of Micronesia,Micronesia,155.3371865996382,7.026817343410707
+MCO,492,Developed,Europe,Western Europe,the Principality of Monaco,Monaco,7.399249389952177,43.739538508834606
+MNG,496,Developing,Asia,Eastern Asia,Mongolia,Mongolia,103.12703629252916,46.95524460409536
+MNE,499,Developed,Europe,Southern Europe,Montenegro,Montenegro,19.23827102287778,42.784873453916866
+MSR,500,Developing,Americas,Latin America and the Caribbean,,Montserrat,-62.18739712444533,16.737518876465707
+MAR,504,Developing,Africa,Northern Africa,the Kingdom of Morocco,Morocco,-8.663771476599727,29.773045373457204
+MOZ,508,Developing,Africa,Sub-Saharan Africa,the Republic of Mozambique,Mozambique,35.607129605207575,-17.192099481128206
+MMR,104,Developing,Asia,South-eastern Asia,the Republic of the Union of Myanmar,Myanmar,96.49564687948671,21.09435066529796
+NAM,516,Developing,Africa,Sub-Saharan Africa,the Republic of Namibia,Namibia,17.196621973425074,-22.068591254395926
+NRU,520,Developing,Oceania,Micronesia,the Republic of Nauru,Nauru,166.93313193741483,-0.5207828717946293
+NPL,524,Developing,Asia,Southern Asia,the Federal Democratic Republic of Nepal,Nepal,83.94729802321046,28.257015966964843
+NLD,528,Developed,Europe,Western Europe,the Kingdom of the Netherlands,Netherlands,4.874417951227833,52.220669786513255
+NCL,540,Developing,Oceania,Melanesia,,New Caledonia,165.69759490054386,-21.304954241024877
+NZL,554,Developed,Oceania,Australia and New Zealand,New Zealand,New Zealand,172.90673033193468,-41.71897940681157
+NIC,558,Developing,Americas,Latin America and the Caribbean,the Republic of Nicaragua,Nicaragua,-85.03476323497134,12.843279489211678
+NER,562,Developing,Africa,Sub-Saharan Africa,the Republic of the Niger,Niger,9.332173257851428,17.4112768301781
+NGA,566,Developing,Africa,Sub-Saharan Africa,the Federal Republic of Nigeria,Nigeria,8.081384357745375,9.592137483463604
+NIU,570,Developing,Oceania,Polynesia,Niue,Niue,-169.86934330198036,-19.04891328418178
+NFK,574,Developed,Oceania,Australia and New Zealand,,Norfolk Island,167.9551681027027,-29.03497408425997
+MNP,580,Developing,Oceania,Micronesia,,Northern Mariana Islands,145.5991418075653,16.23303549359794
+NOR,578,Developed,Europe,Northern Europe,the Kingdom of Norway,Norway,12.800463445025182,66.38959745808555
+OMN,512,Developing,Asia,Western Asia,the Sultanate of Oman,Oman,56.06316737497129,20.582406747647823
+PAK,586,Developing,Asia,Southern Asia,the Islamic Republic of Pakistan,Pakistan,69.17019092149744,29.882604866205984
+PLW,585,Developing,Oceania,Micronesia,the Republic of Palau,Palau,134.34554521079562,7.196665975459422
+PAN,591,Developing,Americas,Latin America and the Caribbean,the Republic of Panama,Panama,-80.1209481576083,8.517242083243005
+PNG,598,Developing,Oceania,Melanesia,Independent State of Papua New Guinea,Papua New Guinea,145.2244911358708,-6.474563497831761
+PRY,600,Developing,Americas,Latin America and the Caribbean,the Republic of Paraguay,Paraguay,-58.441746994376246,-23.20817280995927
+PER,604,Developing,Americas,Latin America and the Caribbean,the Republic of Peru,Peru,-74.41637699703614,-9.108678603042978
+PHL,608,Developing,Asia,South-eastern Asia,the Republic of the Philippines,Philippines,122.90928747366422,11.716885420314943
+PCN,612,Developing,Oceania,Polynesia,,Pitcairn Islands,-128.47819333355076,-24.41361162924711
+POL,616,Developed,Europe,Eastern Europe,the Republic of Poland,Poland,19.423712870544513,52.109005739181825
+PRT,620,Developed,Europe,Southern Europe,the Portuguese Republic,Portugal,-8.620204040635269,39.60444153255919
+PRI,630,Developing,Americas,Latin America and the Caribbean,,Puerto Rico,-66.46758976292988,18.2242382947988
+QAT,634,Developing,Asia,Western Asia,the State of Qatar,Qatar,51.186673989045346,25.3119033140475
+KOR,410,Developing,Asia,Eastern Asia,the Republic of Korea,South Korea,127.81465065663131,36.36120639532416
+MDA,498,Developed,Europe,Eastern Europe,the Republic of Moldova,Moldova,28.470219007950195,47.18733005885089
+ROU,642,Developed,Europe,Eastern Europe,Romania,Romania,24.98313890849476,45.849418896830116
+RUS,643,Developed,Europe,Eastern Europe,the Russian Federation,Russia,95.80092525025032,66.03757804109274
+RWA,646,Developing,Africa,Sub-Saharan Africa,the Republic of Rwanda,Rwanda,29.91915769783798,-1.9927360637341889
+BLM,652,Developing,Americas,Latin America and the Caribbean,,St. Barthélemy,-62.83261878294578,17.905585648333176
+SHN,654,Developing,Africa,Sub-Saharan Africa,,St. Helena,-10.035364208110598,-23.461474672801693
+KNA,659,Developing,Americas,Latin America and the Caribbean,Saint Kitts and Nevis,St. Kitts & Nevis,-62.698453740683675,17.271021247872763
+LCA,662,Developing,Americas,Latin America and the Caribbean,Saint Lucia,St. Lucia,-60.97032801076778,13.90263996106874
+MAF,663,Developing,Americas,Latin America and the Caribbean,,St. Martin,-63.05507218417839,18.077621463809006
+SPM,666,Developed,Americas,Northern America,,St. Pierre & Miquelon,-56.30769713266068,46.93023761840603
+VCT,670,Developing,Americas,Latin America and the Caribbean,Saint Vincent and the Grenadines,St. Vincent & Grenadines,-61.203394754095555,13.21613997860469
+WSM,882,Developing,Oceania,Polynesia,the Independent State of Samoa,Samoa,-172.16171153760774,-13.754741595632451
+SMR,674,Developed,Europe,Southern Europe,the Republic of San Marino,San Marino,12.442216249518616,43.93646174005231
+STP,678,Developing,Africa,Sub-Saharan Africa,the Democratic Republic of Sao Tome and Principe,São Tomé & Príncipe,6.726361599328323,0.4441840848417709
+SAU,682,Developing,Asia,Western Asia,the Kingdom of Saudi Arabia,Saudi Arabia,44.66319141173168,24.086399174146045
+SEN,686,Developing,Africa,Sub-Saharan Africa,the Republic of Senegal,Senegal,-14.467232741809603,14.366337458242697
+SRB,688,Developed,Europe,Southern Europe,the Republic of Serbia,Serbia,20.807436695941124,44.21116371145517
+SYC,690,Developing,Africa,Sub-Saharan Africa,the Republic of Seychelles,Seychelles,52.10804719382704,-6.497439518499126
+SLE,694,Developing,Africa,Sub-Saharan Africa,the Republic of Sierra Leone,Sierra Leone,-11.794914921724772,8.56228899241473
+SGP,702,Developing,Asia,South-eastern Asia,the Republic of Singapore,Singapore,103.81346762596536,1.3589218439874389
+SXM,534,Developing,Americas,Latin America and the Caribbean,,Sint Maarten,-63.070127980824495,18.040631993457527
+SVK,703,Developed,Europe,Eastern Europe,the Slovak Republic,Slovakia,19.47027207957044,48.710730225062214
+SVN,705,Developed,Europe,Southern Europe,the Republic of Slovenia,Slovenia,14.804142840438328,46.11642552179654
+SLB,090,Developing,Oceania,Melanesia,Solomon Islands,Solomon Islands,159.6264575525427,-8.911440884429277
+SOM,706,Developing,Africa,Sub-Saharan Africa,the Federal Republic of Somalia,Somalia,45.67827705477706,4.737571961764233
+ZAF,710,Developing,Africa,Sub-Saharan Africa,the Republic of South Africa,South Africa,25.19647068817646,-28.97446762747731
+SGS,239,Developing,Americas,Latin America and the Caribbean,,South Georgia & South Sandwich Islands,-36.02751043545264,-54.67494837793536
+SSD,728,Developing,Africa,Sub-Saharan Africa,the Republic of South Sudan,South Sudan,30.304953557699317,7.283579640126629
+ESP,724,Developed,Europe,Southern Europe,the Kingdom of Spain,Spain,-3.710596155204256,40.190002726089936
+LKA,144,Developing,Asia,Southern Asia,the Democratic Socialist Republic of Sri Lanka,Sri Lanka,80.70372112282777,7.614242769842368
+PSE,275,Developing,Asia,Western Asia,State of Palestine,Palestine,35.19704986767469,31.91513438846671
+SDN,729,Developing,Africa,Northern Africa,the Republic of the Sudan,Sudan,29.9065610985918,15.964423341365904
+SUR,740,Developing,Americas,Latin America and the Caribbean,the Republic of Suriname,Suriname,-55.91115882650021,4.1305294218921755
+SWE,752,Developed,Europe,Northern Europe,the Kingdom of Sweden,Sweden,16.27722504205249,62.38119411480144
+CHE,756,Developed,Europe,Western Europe,the Swiss Confederation,Switzerland,8.212907318334125,46.79994450886026
+SYR,760,Developing,Asia,Western Asia,the Syrian Arab Republic,Syria,38.4843726641743,35.0165530717197
+TJK,762,Developing,Asia,Central Asia,the Republic of Tajikistan,Tajikistan,71.02907793411104,38.53599357987253
+THA,764,Developing,Asia,South-eastern Asia,the Kingdom of Thailand,Thailand,101.00096868465809,15.078760774722376
+MKD,807,Developed,Europe,Southern Europe,the former Yugoslav Republic of Macedonia,Macedonia,21.682347084003386,41.594862001146424
+TLS,626,Developing,Asia,South-eastern Asia,the Democratic Republic of Timor-Leste,Timor-Leste,125.85180600978764,-8.824213742682405
+TGO,768,Developing,Africa,Sub-Saharan Africa,the Togolese Republic,Togo,0.9638099656363944,8.52222849267348
+TON,776,Developing,Oceania,Polynesia,the Kingdom of Tonga,Tonga,-174.86549911645875,-20.052204519406313
+TTO,780,Developing,Americas,Latin America and the Caribbean,the Republic of Trinidad and Tobago,Trinidad & Tobago,-61.25871694259353,10.468637402579848
+TUN,788,Developing,Africa,Northern Africa,the Republic of Tunisia,Tunisia,9.557782951782215,34.08882035256632
+TUR,792,Developing,Asia,Western Asia,the Republic of Turkey,Turkey,35.17133752096117,39.13649988920036
+TKM,795,Developing,Asia,Central Asia,Turkmenistan,Turkmenistan,59.45160175277293,39.12576539383974
+TCA,796,Developing,Americas,Latin America and the Caribbean,,Turks & Caicos Islands,-71.87304934621466,21.780236738129894
+TUV,798,Developing,Oceania,Polynesia,Tuvalu,Tuvalu,178.5160072053808,-7.757958366257783
+UGA,800,Developing,Africa,Sub-Saharan Africa,the Republic of Uganda,Uganda,32.36662600111068,1.2752289838321451
+UKR,804,Developed,Europe,Eastern Europe,Ukraine,Ukraine,31.465141460959572,49.02253973909525
+ARE,784,Developing,Asia,Western Asia,the United Arab Emirates,United Arab Emirates,54.29332996231563,23.905758239959052
+GBR,826,Developed,Europe,Northern Europe,the United Kingdom of Great Britain and Northern Ireland,UK,-2.7777190304163466,54.03366948458903
+TZA,834,Developing,Africa,Sub-Saharan Africa,the United Republic of Tanzania,Tanzania,34.802287815970395,-6.267694592245203
+UMI,581,Developing,Oceania,Micronesia,,U.S. Outlying Islands,-158.65971860829163,15.773090622203712
+VIR,850,Developing,Americas,Latin America and the Caribbean,,U.S. Virgin Islands,-64.79751397211326,17.980106728613983
+USA,840,Developed,Americas,Northern America,the United States of America,US,-103.65231267276201,44.75800039604863
+URY,858,Developing,Americas,Latin America and the Caribbean,the Eastern Republic of Uruguay,Uruguay,-56.024343229521506,-32.78998028996447
+UZB,860,Developing,Asia,Central Asia,the Republic of Uzbekistan,Uzbekistan,63.302996533633156,41.775848456208834
+VUT,548,Developing,Oceania,Melanesia,the Republic of Vanuatu,Vanuatu,167.6896780475754,-16.19132347092617
+VEN,862,Developing,Americas,Latin America and the Caribbean,the Bolivarian Republic of Venezuela,Venezuela,-66.1576405344735,7.12580201172511
+VNM,704,Developing,Asia,South-eastern Asia,the Socialist Republic of Viet Nam,Vietnam,106.34805956354391,16.54030523244785
+WLF,876,Developing,Oceania,Polynesia,,Wallis & Futuna,-177.0548013361257,-13.738966787750371
+ESH,732,Developing,Africa,Northern Africa,,Western Sahara,-12.266507416246052,24.214761737195445
+YEM,887,Developing,Asia,Western Asia,the Republic of Yemen,Yemen,47.57174097057961,15.913404387190484
+ZMB,894,Developing,Africa,Sub-Saharan Africa,the Republic of Zambia,Zambia,27.808104648782344,-13.45742051085745
+ZWE,716,Developing,Africa,Sub-Saharan Africa,the Republic of Zimbabwe,Zimbabwe,29.851448787558667,-18.99534892448353
+ALA,248,Developed,Europe,Northern Europe,,Åland Islands,20.056085047677886,60.18646979385873
