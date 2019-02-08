@@ -1,0 +1,23 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+
+.module{
+	min-height:600px;
+}
+
+.axis .domain{
+	display:none;
+}
+
+.axis line{
+	opacity:0.2;
+}
+
+.chart{
+	width:400px;
+	height:300px;
+	float:left;
+	margin:20px;
+}

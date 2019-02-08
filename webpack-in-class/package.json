@@ -35,7 +35,8 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "d3": "^5.7.0",
+    "bootstrap": "^4.2.1",
+    "d3": "^5.8.0",
     "react": "^16.6.0"
   }
 }
