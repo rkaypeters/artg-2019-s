@@ -10,11 +10,47 @@ html,body,div{
 
 .nav{
 	height:144px;
-	background:yellow;
+	padding:32px 0;
 }
 
+/* Font */
+.country-view h1{
+	font-size:3.75rem;
+	line-height:1.2;
+	font-weight: bold;
+}
+.chart h3{
+	font-size:0.75rem;
+	line-height:1.33333;
+}
+
+/* Line chart module */
 .chart{
-    width:320px;
-    height:240px;
-    float:left;
+	width:240px;
+	height:160px;
+	float:left;
+}
+.line-chart .axis .domain{
+	display: none;
+}
+.line-chart .axis .tick line{
+	stroke-opacity: 0.2;
+}
+.line-chart .axis .tick text{
+	fill: #333;
+}
+.line-chart .tool-tip circle{
+	stroke-width:3px;
+	stroke:#333;
+	fill:white;
+}
+.line-chart .tool-tip text{
+	fill: #333;
+	font-size:10px;
+}
+.line-chart .tool-tip line{
+	stroke:#333;
+	stroke-opacity: 0.8;
+	stroke-width:1px;
+	stroke-dasharray: 2px 2px;
 }

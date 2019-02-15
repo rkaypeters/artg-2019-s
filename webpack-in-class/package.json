@@ -37,6 +37,7 @@
   "dependencies": {
     "bootstrap": "^4.2.1",
     "d3": "^5.8.0",
+    "lodash": "^4.17.11",
     "react": "^16.6.0"
   }
 }

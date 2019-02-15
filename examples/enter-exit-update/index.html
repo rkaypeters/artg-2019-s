@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<style>
+			body,html{margin:0; padding:0;}
+			.main{width:960px;margin:auto;}
+			.plot{width:100%;margin:20px 0;background:rgb(250,250,250);min-height:400px;}
+		</style>
+	</head>
+	<body>
+		<div class='main'>
+			<h2>Simple data binding</h1>
+			<button id='generate-simple-data-btn'>Update simple data</button>
+			<div class='plot' id='plot-1'></div>
+			<div class='plot' id='plot-2'></div>
+			<h2>Nested data binding</h2>
+			<button id='generate-nested-data-btn'>Update nested data</button>
+			<div class='plot' id='plot-3'></div>
+			<div class='plot' id='plot-4'></div>
+		</div>
+		<script src='../../../lib/d3/d3.min.js'></script>
+		<script src='./script.js'></script>
+	</body>
+</html>
