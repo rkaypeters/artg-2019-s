@@ -77,48 +77,49 @@ function updatePlot1(data){
 }
 
 function updatePlot2(data){
+
+	console.group('Update plot 2');
 	//YOUR CODE HERE
-    console.group('Update plot 2');
-    
-    const nodes = plot2.selectAll('.node') //selection of size 8
-        .data(data, d => d.name); // update selection
-    
-    const nodesEnter = nodes.enter() //'empty spaces' corresponding to the deficit
-        .append('g')
-        .attr('class','node');
-    
-    const nodesExit = nodes.exit();
-    
-    console.log(nodes);
-    nodes.select('circle')
-        .attr('fill','green');
-    
-    nodesExit.select('circle')
-        .attr('fill','red');
-    
-    nodesEnter
-        .append('circle')
-        .attr('fill','yellow');
-    nodes.merge(nodesEnter)
-        .select('circle')
-        .transition()
-        .attr('r',d=> d.value);
-    
-    nodesEnter
-        .append('text')
-        .attr('text-anchor','middle');
-    nodes.merge(nodesEnter)
-        .select('text')
-        .text(d => d.name);
-        //.attr('text-anchor','middle');
-    
-    nodes.merge(nodesEnter)
-        .transition()
-        .attr('transform', d=> `translate(${d.x}, ${d.y})`)
-    
-    console.groupEnd();
-    
-    
+	const nodes = plot2.selectAll('.node') //selection of size of 0
+		.data(data, d => d.name); //update selection
+
+	const nodesEnter = nodes.enter()
+		.append('g')
+		.attr('class','node');
+
+	const nodesCombined = nodes.merge(nodesEnter);
+
+	const nodesExit = nodes.exit();
+
+	//nodes selection size?
+	nodes.select('circle')
+		.attr('fill', 'green');
+
+	nodesExit.select('circle')
+		.attr('fill', 'red');
+
+	nodesEnter
+		.append('circle')
+		.attr('fill','yellow');
+	nodes.merge(nodesEnter)
+		.select('circle')
+		.transition()
+		.attr('r', d => d.value)
+
+	nodesEnter
+		.append('text')
+		.attr('text-anchor', 'middle')
+	nodes.merge(nodesEnter)
+		.select('text')
+		.text(d => d.name)
+
+	nodes.merge(nodesEnter)
+		.transition()
+		.attr('transform', d => `translate(${d.x}, ${d.y})`);
+
+
+	console.groupEnd();
+
 }
 
 function updatePlot3(data){
