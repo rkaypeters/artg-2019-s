@@ -3,15 +3,19 @@ import {nest, select, geoMercator, max, scaleSqrt} from 'd3';
 //API reference for force layout
 //https://github.com/d3/d3-force
 
-export default function Cartogram(rootDOM, data){
+export default function Cartogram(rootDOM, data, myWidth, myHeight, myYear){
 
+    console.log('cartogram' + myYear);
 	//Internal variables
-	const W = rootDOM.clientWidth;
-	const H = 600;
+	//const W = rootDOM.clientWidth;
+	//const H = 600;
+    const W = myWidth;
+	const H = myHeight;
 	const margin = {t:64, r:64, b:64, l:64};
 	const w = W - margin.l - margin.r;
 	const h = H - margin.t - margin.b;
-	const YEAR = 2017;
+	//const YEAR = 2017;
+    const YEAR = myYear;
 	const scaleSize = scaleSqrt().range([3,100]);
 
 	//Data restructuring
@@ -22,8 +26,10 @@ export default function Cartogram(rootDOM, data){
 	dataMap = new Map(dataMap);
 	let dataByYear = dataMap.get(YEAR);
 	//Discover max value to set the size of circles
+    console.log(dataByYear);
 	const maxValue = max(dataByYear, d => d.value);
 	scaleSize.domain([0, maxValue]);
+    console.log(maxValue);
 
 	//Layout function:
 	//Use geographic representation for cartogram

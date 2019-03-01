@@ -1,8 +1,9 @@
 import {nest, hierarchy, treemap, select} from 'd3';
 
-export default function Composition(rootDOM, data){
+export default function Composition(rootDOM, data, myYear){
 
-    let year = 2017;
+    let year = 1990;
+    //let year = myYear;
     
     //exportFunction(rootDOM, data){
 
