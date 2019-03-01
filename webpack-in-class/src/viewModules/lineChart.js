@@ -3,9 +3,10 @@ import * as d3 from 'd3';
 function LineChart(){
 
 	let maxY;
-    const bisect = d3.bisector(d => d.key).right; //this will give us a function
+	const bisect = d3.bisector(d => d.key).right; //this will give us a function
+	let yearChangeCallback;
 
-	function exportFunction(data, rootDOM){
+	function exportFunction(data, rootDOM, key){
 
 		const W = rootDOM.clientWidth;
 		const H = rootDOM.clientHeight;
@@ -34,8 +35,10 @@ function LineChart(){
 			.tickSize(-innerWidth)
 			.ticks(3)
 
+		//Build DOM structure
 		const svg = d3.select(rootDOM)
 			.classed('line-chart',true)
+			.style('position','relative') //necessary to position <h3> correctly
 			.selectAll('svg')
 			.data([1])
 		const svgEnter = svg.enter()
@@ -43,6 +46,17 @@ function LineChart(){
 		svg.merge(svgEnter)
 			.attr('width', W)
 			.attr('height', H);
+
+		const title = d3.select(rootDOM)
+			.selectAll('h3')
+			.data([1]);
+		const titleEnter = title.enter()
+			.append('h3')
+			.style('position','absolute')
+			.style('left',`${margin.l}px`)
+			.style('top',`0px`)
+		title.merge(titleEnter)
+			.html(key);
 
 		//Append rest of DOM structure in the enter selection
 		const plotEnter = svgEnter.append('g')
@@ -61,17 +75,17 @@ function LineChart(){
 			.attr('transform',`translate(0, ${innerHeight})`)
 		plotEnter.append('g')
 			.attr('class','axis axis-y')
-        const tooltipEnter = plotEnter.append('g')
-            .attr('class','tool-tip')
-            .style('opacity',0)
-        tooltipEnter.append('circle').attr('r',3)
-        tooltipEnter.append('text').attr('text-anchor','middle')
-            .attr('dY','-10')
-        plotEnter.append('rect')
-            .attr('class','mouse-target')
-            .attr('width',innerWidth)
-            .attr('height',innerHeight)
-            .style('opacity',0.01)
+		const tooltipEnter = plotEnter.append('g')
+			.attr('class','tool-tip')
+			.style('opacity',0)
+		tooltipEnter.append('circle').attr('r',3)
+		tooltipEnter.append('text').attr('text-anchor','middle')
+			.attr('dy', -10)
+		plotEnter.append('rect')
+			.attr('class','mouse-target')
+			.attr('width', innerWidth)
+			.attr('height', innerHeight)
+			.style('opacity', 0.01)
 
 		//Update the update + enter selections
 		const plot = svg.merge(svgEnter).select('.plot');
@@ -90,35 +104,34 @@ function LineChart(){
 		plot.select('.axis-y')
 			.transition()
 			.call(axisY);
-        
-        //Event handling
-        plot
-            .select('.mouse-target')
-            .on('mouseenter',function(d){
-            console.log('mouse enter');
-            plot.select('.tool-tip')
-                .style('opacity',100);
-        })
-            .on('mousemove', function(d){
-            const mouse = d3.mouse(this);
-            //console.log(mouse);
-            const mouseX = mouse[0];
-            const year = scaleX.invert(mouseX);
-            //console.log(year);
+
+		//Event handling
+		plot
+			.select('.mouse-target')
+			.on('mouseenter', function(d){
+				plot.select('.tool-tip')
+					.style('opacity',1)
+			})
+			.on('mousemove', function(d){
+				const mouse = d3.mouse(this);
+				const mouseX = mouse[0];
+				const year = scaleX.invert(mouseX);
+				
+				const idx = bisect(data, year);
+				const datum = data[idx];
+
+				plot.select('.tool-tip')
+					.attr('transform', `translate(${scaleX(datum.key)}, ${scaleY(datum.value)})`)
+					.select('text')
+					.text(datum.value);
             
-            const idx = bisect(data,year);
-            //console.log(data[idx]);
-            const datum = data[idx];
-            
-            plot.select('.tool-tip')
-                .attr('transform',`translate(${scaleX(datum.key)},${scaleY(datum.value)})`)
-        })
-            .on('mouseleave',function(d){
-            console.log('mouse leave');
-            plot.select('.tool-tip')
-                .style('opacity',0);
-        });
-        //console.log(data);
+                yearChangeCallback(datum.key);
+
+			})
+			.on('mouseleave', function(d){
+				plot.select('.tool-tip')
+					.style('opacity',0)
+			});
 
 	}
 
@@ -126,13 +139,13 @@ function LineChart(){
 		maxY = _;
 		return this;
 	}
-    
-    exportFunction.on = function(event,callback){
-        console.log(event);
-        console.log(callback);
-        return this;
-    }
-    
+
+	exportFunction.onChangeYear = function(callback){
+        //event ==>  "year:change"
+        //callback ==> arg ==> console.log(arg)
+        yearChangeCallback = callback; //function that 
+		return this;
+	}
 
 	return exportFunction;
 

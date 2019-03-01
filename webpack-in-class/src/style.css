@@ -58,4 +58,11 @@ html,body,div{
 /* Composition module */
 .composition-container .node text{
 	fill: #333;
+	font-size: 10px;
+}
+
+/* Cartogram module */
+.cartogram-container .node text{
+	fill: #333;
+	font-size: 10px;
 }
