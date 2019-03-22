@@ -14,7 +14,7 @@ Promise.all([
 
 		//DATA MANIPULATION
 
-        console.log('Hello world');
+        //console.log('Hello world');
 		//Convert metadata to a metadata map
 		const metadata_tmp = metadata.map(d => {
 				return [d.iso_num, d]
@@ -30,15 +30,15 @@ Promise.all([
 		//Nest/group migration_2000 by origin_country
 		//Then sum up the total value, using either nest.rollup or array.map
 		let migration_origin_by_country = d3.nest()
-        .key(d => d.origin_name)
-        .entries(migration_2000)
-        .map( d=>{
-            return{
-                origin_name: d.key,
-                total: d3.sum(d.values, e => e.value)
+            .key(d => d.origin_name)
+            .entries(migration_2000)
+            .map( d=>{
+                return{
+                    origin_name: d.key,
+                    total: d3.sum(d.values, e => e.value)
             }
         });
-        console.log(migration_origin_by_country);
+        //console.log(migration_origin_by_country);
         //COMPLETE HERE
 
 		//YOUR CODE HERE
@@ -52,7 +52,7 @@ Promise.all([
             
             const origin_metadata = metadataMap.get(origin_code);
             if(!origin_metadata){
-			//console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
+			console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
 			};
             
             if(origin_metadata){
@@ -61,7 +61,7 @@ Promise.all([
             
             return d;
         });
-        //console.log(migration_origin_by_country_aug);
+        console.log(migration_origin_by_country_aug);
 
 
 		//REPRESENT
@@ -79,7 +79,7 @@ function drawCartogram(rootDom, data){
 	const h = rootDom.clientHeight;
 
 	//projection function: takes [lng, lat] pair and returns [x, y] coordinates
-	const projection = d3.geoMercator()
+	const projection = d3.geoMercator() //sets up the projection
 		.translate([w/2, h/2]);
 
 	//Scaling function for the size of the cartogram symbols
@@ -103,12 +103,15 @@ function drawCartogram(rootDom, data){
     nodesEnter.append('text').attr('text-anchor','middle');
     //now each node has circle and text elements
     
+    console.log(nodes.merge(nodesEnter));
+    
     nodes.merge(nodesEnter)
-		.filter(d => d.lngLat)
+		.filter(d => d.origin_lngLat) //not sure what this does 
 		.attr('transform', d => {
-			const xy = projection(d.origin_lngLat);
+			const xy = projection(d.origin_lngLat); //applies projection to each lngLat pair
 			return `translate(${xy[0]}, ${xy[1]})`;
-		})//not sure what this does
+		})
+    //console.log(nodes.merge(nodesEnter));
     nodes.merge(nodesEnter)
 		.select('circle')
 		.attr('r', d => scaleSize(d.total))

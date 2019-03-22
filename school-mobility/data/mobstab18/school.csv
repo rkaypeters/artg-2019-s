@@ -1,0 +1,442 @@
+schYear,distcode,distname,schcode,schname,gradelevel,adm,tot_enrolls,enrolls,exits,enrolls_yr,mobRate,mobRate1,stabRate
+2017-18,01,Barrington,01103,Primrose Hill School,E,300.68,310.00,14.00,5.00,291.00,6.13,6.32,93.87
+2017-18,01,Barrington,01104,Nayatt School,E,333.09,349.00,20.00,7.00,323.00,7.74,8.11,92.55
+2017-18,01,Barrington,01105,Hampden Meadows School,E,525.76,538.00,14.00,10.00,514.00,4.46,4.56,95.54
+2017-18,01,Barrington,01106,Barrington High School,H,"1,126.77","1,168.00",16.00,16.00,"1,137.00",2.74,2.84,97.35
+2017-18,01,Barrington,01108,Barrington Middle School,M,781.81,793.00,9.00,10.00,774.00,2.40,2.43,97.60
+2017-18,01,Barrington,01109,Sowams Elementary School,E,247.98,254.00,4.00,6.00,244.00,3.94,4.03,96.06
+2017-18,01,Barrington,01190,Tuitioned Out,E,4.49,4.00,0.00,0.00,4.00,0.00,0.00,100.00
+2017-18,01,Barrington,01190,Tuitioned Out,H,16.06,16.00,2.00,2.00,12.00,25.00,24.90,75.00
+2017-18,01,Barrington,01190,Tuitioned Out,M,7.86,8.00,1.00,1.00,6.00,25.00,25.44,75.00
+2017-18,03,Burrillville,03104,Burrillville Middle School,M,537.46,554.00,17.00,12.00,527.00,5.23,5.40,95.13
+2017-18,03,Burrillville,03105,Steere Farm Elementary School,E,335.53,346.00,7.00,10.00,329.00,4.91,5.07,95.09
+2017-18,03,Burrillville,03107,William L. Callahan School,E,308.53,325.00,20.00,12.00,293.00,9.85,10.37,90.15
+2017-18,03,Burrillville,03108,Austin T. Levy School,E,259.73,273.00,9.00,12.00,255.00,7.69,8.09,93.41
+2017-18,03,Burrillville,03109,Burrillville High School,H,752.37,786.00,15.00,35.00,737.00,6.36,6.65,93.77
+2017-18,03,Burrillville,03190,Burrillville Public Schools,H,18.82,23.00,6.00,2.00,15.00,34.78,42.52,65.22
+2017-18,03,Burrillville,03190,Tuitioned Out,E,5.31,5.00,1.00,0.00,4.00,20.00,18.83,80.00
+2017-18,03,Burrillville,03190,Tuitioned Out,H,5.73,6.00,1.00,1.00,4.00,33.33,34.92,66.67
+2017-18,03,Burrillville,03190,Tuitioned Out,M,3.19,3.00,1.00,0.00,2.00,33.33,31.36,66.67
+2017-18,04,Central Falls,04101,Ella Risk School,E,445.30,501.00,64.00,47.00,398.00,22.16,24.93,79.44
+2017-18,04,Central Falls,04106,Veterans Memorial Elementary,E,506.17,590.00,81.00,82.00,440.00,27.63,32.20,74.58
+2017-18,04,Central Falls,04108,Central Falls Senior High School,H,663.20,829.00,153.00,151.00,556.00,36.67,45.84,67.07
+2017-18,04,Central Falls,04115,Dr. Earl F. Calcutt Middle School,M,715.04,816.00,107.00,89.00,633.00,24.02,27.41,77.57
+2017-18,04,Central Falls,04117,Margaret I. Robertson School,E,197.73,248.00,44.00,35.00,175.00,31.85,39.95,70.56
+2017-18,04,Central Falls,04190,Tuitioned Out,E,5.36,6.00,1.00,1.00,4.00,33.33,37.32,66.67
+2017-18,04,Central Falls,04190,Tuitioned Out,H,11.24,11.00,4.00,0.00,7.00,36.36,35.59,63.64
+2017-18,04,Central Falls,04190,Tuitioned Out,M,5.97,8.00,3.00,3.00,2.00,75.00,100.56,25.00
+2017-18,06,Coventry,06104,Alan Shawn Feinstein Middle School Of Coventry,M,"1,120.30","1,159.00",31.00,34.00,"1,095.00",5.61,5.80,94.48
+2017-18,06,Coventry,06109,Western Coventry School,E,364.34,376.00,12.00,8.00,356.00,5.32,5.49,94.68
+2017-18,06,Coventry,06112,Hopkins Hill School,E,392.33,415.00,25.00,21.00,369.00,11.08,11.72,88.92
+2017-18,06,Coventry,06116,Tiogue School,E,363.71,382.00,23.00,14.00,345.00,9.69,10.17,90.31
+2017-18,06,Coventry,06117,Blackrock School,E,346.19,365.00,16.00,17.00,333.00,9.04,9.53,91.23
+2017-18,06,Coventry,06119,Coventry High School,H,"1,474.38","1,542.00",37.00,81.00,"1,431.00",7.65,8.00,92.80
+2017-18,06,Coventry,06121,Washington Oak School,E,536.84,552.00,5.00,18.00,529.00,4.17,4.28,95.83
+2017-18,06,Coventry,06190,Coventry Public Schools,H,7.29,12.00,5.00,5.00,2.00,83.33,137.20,16.67
+2017-18,06,Coventry,06190,Tuitioned Out,E,0.18,2.00,1.00,1.00,,100.00,"1,125.00",
+2017-18,06,Coventry,06190,Tuitioned Out,H,8.61,9.00,2.00,1.00,7.00,33.33,34.84,77.78
+2017-18,06,Coventry,06190,Tuitioned Out,M,4.45,5.00,1.00,1.00,3.00,40.00,44.94,60.00
+2017-18,07,Cranston,07103,Oak Lawn School,E,204.71,208.00,3.00,3.00,202.00,2.88,2.93,97.12
+2017-18,07,Cranston,07110,Daniel D. Waterman School,E,244.65,257.00,12.00,16.00,230.00,10.89,11.44,89.49
+2017-18,07,Cranston,07112,Chester W. Barrows School,E,187.52,203.00,10.00,16.00,178.00,12.81,13.87,87.68
+2017-18,07,Cranston,07113,Cranston High School East,H,"1,625.98","1,793.00",114.00,153.00,"1,546.00",14.89,16.42,86.22
+2017-18,07,Cranston,07115,Hugh B. Bain Middle School,M,610.28,653.00,43.00,41.00,574.00,12.86,13.76,87.90
+2017-18,07,Cranston,07116,William R. Dutemple School,E,302.66,322.00,13.00,25.00,286.00,11.80,12.56,88.82
+2017-18,07,Cranston,07117,Edward S. Rhodes School,E,178.05,188.00,11.00,14.00,169.00,13.30,14.04,89.89
+2017-18,07,Cranston,07118,Eden Park School,E,284.83,302.00,23.00,17.00,265.00,13.25,14.04,87.75
+2017-18,07,Cranston,07119,Gladstone Street School,E,526.98,566.00,36.00,30.00,502.00,11.66,12.52,88.69
+2017-18,07,Cranston,07120,Stadium School,E,271.38,284.00,10.00,14.00,262.00,8.45,8.84,92.25
+2017-18,07,Cranston,07121,Woodridge School,E,305.66,319.00,10.00,15.00,295.00,7.84,8.18,92.48
+2017-18,07,Cranston,07122,Garden City School,E,278.18,292.00,8.00,17.00,268.00,8.56,8.99,91.78
+2017-18,07,Cranston,07123,Park View Middle School,M,674.68,716.00,39.00,40.00,641.00,11.03,11.71,89.53
+2017-18,07,Cranston,07124,George J. Peters School,E,299.25,314.00,9.00,19.00,286.00,8.92,9.36,91.08
+2017-18,07,Cranston,07125,Arlington School,E,198.17,214.00,7.00,18.00,190.00,11.68,12.62,88.79
+2017-18,07,Cranston,07126,Cranston High School West,H,"1,382.23","1,499.00",60.00,115.00,"1,328.00",11.67,12.66,88.59
+2017-18,07,Cranston,07127,Stone Hill School,E,257.78,277.00,14.00,17.00,246.00,11.19,12.03,88.81
+2017-18,07,Cranston,07128,Glen Hills School,E,272.80,285.00,11.00,14.00,262.00,8.77,9.16,91.93
+2017-18,07,Cranston,07129,Western Hills Middle School,M,775.46,803.00,19.00,31.00,754.00,6.23,6.45,93.90
+2017-18,07,Cranston,07130,Edgewood Highland School,E,208.85,225.00,23.00,12.00,194.00,15.56,16.76,86.22
+2017-18,07,Cranston,07135,NEL/CPS Construction Career Academy,H,153.69,197.00,27.00,48.00,133.00,38.07,48.80,67.51
+2017-18,07,Cranston,07136,Orchard Farms Elementary School,E,456.72,463.00,4.00,8.00,452.00,2.59,2.63,97.62
+2017-18,07,Cranston,07137,Hope Highlands Middle School,M,398.04,408.00,12.00,7.00,390.00,4.66,4.77,95.59
+2017-18,07,Cranston,07190,Cranston Public Schools,H,73.87,74.00,18.00,6.00,50.00,32.43,32.49,67.57
+2017-18,07,Cranston,07190,Tuitioned Out,E,58.17,56.00,14.00,12.00,34.00,46.43,44.70,60.71
+2017-18,07,Cranston,07190,Tuitioned Out,H,57.28,57.00,12.00,13.00,33.00,43.86,43.64,57.89
+2017-18,07,Cranston,07190,Tuitioned Out,M,33.56,32.00,5.00,5.00,22.00,31.25,29.80,68.75
+2017-18,08,Cumberland,08107,B.F. Norton Elementary School,E,375.92,415.00,35.00,33.00,351.00,16.39,18.09,84.58
+2017-18,08,Cumberland,08108,Garvin Memorial School,E,391.41,406.00,7.00,18.00,382.00,6.16,6.39,94.09
+2017-18,08,Cumberland,08109,Community School,E,622.44,637.00,9.00,16.00,612.00,3.92,4.02,96.08
+2017-18,08,Cumberland,08110,John J. McLaughlin Cumberland Hill School,E,375.63,396.00,25.00,19.00,357.00,11.11,11.71,90.15
+2017-18,08,Cumberland,08112,Ashton School,E,282.94,308.00,26.00,26.00,262.00,16.88,18.38,85.06
+2017-18,08,Cumberland,08114,Cumberland High School,H,"1,361.46","1,463.00",56.00,99.00,"1,311.00",10.59,11.38,89.61
+2017-18,08,Cumberland,08115,Joseph L. McCourt Middle School,M,442.66,467.00,16.00,28.00,423.00,9.42,9.94,90.58
+2017-18,08,Cumberland,08116,North Cumberland Middle School,M,656.19,678.00,15.00,20.00,645.00,5.16,5.33,95.13
+2017-18,08,Cumberland,08190,Cumberland Public Schools,H,27.69,32.00,13.00,4.00,16.00,53.13,61.40,50.00
+2017-18,08,Cumberland,08190,Tuitioned Out,E,8.13,13.00,8.00,6.00,2.00,107.69,172.13,15.38
+2017-18,08,Cumberland,08190,Tuitioned Out,H,15.95,19.00,6.00,6.00,9.00,63.16,75.24,47.37
+2017-18,08,Cumberland,08190,Tuitioned Out,M,8.82,15.00,10.00,4.00,4.00,93.33,158.69,26.67
+2017-18,09,East Greenwich,09102,James H. Eldredge El. School,E,314.06,322.00,5.00,7.00,310.00,3.73,3.82,96.27
+2017-18,09,East Greenwich,09103,Archie R. Cole Middle School,M,629.86,645.00,9.00,18.00,618.00,4.19,4.29,95.81
+2017-18,09,East Greenwich,09105,Frenchtown School,E,245.62,251.00,7.00,3.00,241.00,3.98,4.07,96.02
+2017-18,09,East Greenwich,09106,East Greenwich High School,H,750.39,767.00,5.00,19.00,745.00,3.13,3.20,97.13
+2017-18,09,East Greenwich,09107,Meadowbrook Farms School,E,229.11,234.00,7.00,3.00,224.00,4.27,4.36,95.73
+2017-18,09,East Greenwich,09108,George Hanaford School,E,250.84,259.00,7.00,8.00,245.00,5.79,5.98,94.59
+2017-18,09,East Greenwich,09190,Tuitioned Out,E,4.67,4.00,0.00,0.00,4.00,0.00,0.00,100.00
+2017-18,09,East Greenwich,09190,Tuitioned Out,H,5.42,8.00,0.00,4.00,4.00,50.00,73.77,50.00
+2017-18,09,East Greenwich,09190,Tuitioned Out,M,4.82,7.00,3.00,3.00,3.00,85.71,124.42,42.86
+2017-18,10,East Providence,10109,Edward R. Martin Middle School,M,699.60,732.00,16.00,35.00,684.00,6.97,7.29,93.44
+2017-18,10,East Providence,10111,James R. D. Oldham School,E,146.85,153.00,2.00,9.00,143.00,7.19,7.49,93.46
+2017-18,10,East Providence,10112,East Providence High School,H,"1,492.25","1,585.00",39.00,118.00,"1,436.00",9.91,10.52,90.60
+2017-18,10,East Providence,10113,Kent Heights School,E,286.82,305.00,17.00,19.00,272.00,11.80,12.55,89.18
+2017-18,10,East Providence,10114,Alice M. Waddington School,E,404.71,419.00,13.00,13.00,394.00,6.21,6.42,94.03
+2017-18,10,East Providence,10116,Agnes B. Hennessey School,E,287.31,297.00,5.00,11.00,282.00,5.39,5.57,94.95
+2017-18,10,East Providence,10117,Emma G. Whiteknact School,E,292.34,306.00,7.00,18.00,281.00,8.17,8.55,91.83
+2017-18,10,East Providence,10122,Riverside Middle School,M,502.24,525.00,15.00,23.00,490.00,7.24,7.57,93.33
+2017-18,10,East Providence,10123,Silver Spring School,E,268.52,290.00,21.00,20.00,252.00,14.14,15.27,86.90
+2017-18,10,East Providence,10124,Orlo Avenue School,E,288.93,304.00,6.00,20.00,279.00,8.55,9.00,91.78
+2017-18,10,East Providence,10125,Myron J. Francis Elementary School,E,433.19,467.00,22.00,32.00,416.00,11.56,12.47,89.08
+2017-18,10,East Providence,10190,Tuitioned Out,E,30.20,34.00,11.00,4.00,20.00,44.12,49.66,58.82
+2017-18,10,East Providence,10190,Tuitioned Out,H,47.06,53.00,8.00,12.00,35.00,37.74,42.50,66.04
+2017-18,10,East Providence,10190,Tuitioned Out,M,16.45,18.00,5.00,3.00,11.00,44.44,48.65,61.11
+2017-18,12,Foster,12101,Captain Isaac Paine Elementary School,E,261.57,270.00,5.00,9.00,256.00,5.19,5.35,94.81
+2017-18,13,Glocester,13103,Fogarty Memorial School,E,304.61,309.00,7.00,2.00,300.00,2.91,2.95,97.09
+2017-18,13,Glocester,13104,West Glocester Elementary,E,225.44,234.00,9.00,8.00,218.00,7.26,7.54,93.16
+2017-18,13,Glocester,13190,Tuitioned Out,E,0.56,1.00,0.00,1.00,,100.00,178.22,
+2017-18,15,Jamestown,15101,Jamestown School-Lawn,M,218.81,225.00,5.00,7.00,213.00,5.33,5.48,94.67
+2017-18,15,Jamestown,15102,Jamestown School-Melrose,E,245.03,257.00,10.00,14.00,235.00,9.34,9.79,91.44
+2017-18,15,Jamestown,15190,Tuitioned Out,E,2.24,2.00,0.00,0.00,2.00,0.00,0.00,100.00
+2017-18,15,Jamestown,15190,Tuitioned Out,H,3.37,3.00,0.00,0.00,3.00,0.00,0.00,100.00
+2017-18,15,Jamestown,15190,Tuitioned Out,M,1.12,1.00,0.00,0.00,1.00,0.00,0.00,100.00
+2017-18,16,Johnston,16103,Thornton School,E,347.92,368.00,19.00,20.00,330.00,10.60,11.21,89.67
+2017-18,16,Johnston,16106,Brown Avenue School,E,225.42,235.00,11.00,8.00,216.00,8.09,8.43,91.91
+2017-18,16,Johnston,16108,Sarah Dyer Barnes School,E,301.03,317.00,10.00,16.00,292.00,8.20,8.64,92.11
+2017-18,16,Johnston,16109,Winsor Hill School,E,383.77,396.00,9.00,12.00,375.00,5.30,5.47,94.70
+2017-18,16,Johnston,16111,Nicholas A. Ferri Middle School,M,782.09,808.00,33.00,21.00,756.00,6.68,6.90,93.56
+2017-18,16,Johnston,16112,Johnston Senior High School,H,877.69,932.00,39.00,61.00,835.00,10.73,11.39,89.59
+2017-18,16,Johnston,16114,Early Childhood Center,E,188.54,202.00,12.00,14.00,177.00,12.87,13.79,87.62
+2017-18,16,Johnston,16190,Johnston Public Schools,H,41.23,37.00,2.00,2.00,34.00,10.81,9.70,91.89
+2017-18,16,Johnston,16190,Tuitioned Out,E,12.92,14.00,4.00,2.00,8.00,42.86,46.45,57.14
+2017-18,16,Johnston,16190,Tuitioned Out,H,20.44,24.00,7.00,5.00,13.00,50.00,58.71,54.17
+2017-18,16,Johnston,16190,Tuitioned Out,M,11.66,14.00,5.00,2.00,8.00,50.00,60.06,57.14
+2017-18,17,Lincoln,17106,Lonsdale Elementary School,E,288.31,303.00,9.00,17.00,277.00,8.58,9.02,91.42
+2017-18,17,Lincoln,17109,Lincoln Central Elementary School,E,370.20,374.00,2.00,3.00,369.00,1.34,1.35,98.66
+2017-18,17,Lincoln,17110,Lincoln Senior High School,H,856.29,900.00,23.00,47.00,833.00,7.78,8.17,92.56
+2017-18,17,Lincoln,17112,Saylesville Elementary School,E,259.80,270.00,14.00,7.00,250.00,7.78,8.08,92.59
+2017-18,17,Lincoln,17113,Northern Lincoln Elementary School,E,433.45,463.00,35.00,24.00,404.00,12.74,13.61,87.26
+2017-18,17,Lincoln,17117,Lincoln Middle School,M,772.46,814.00,24.00,42.00,750.00,8.11,8.54,92.14
+2017-18,17,Lincoln,17190,Tuitioned Out,E,10.86,11.00,2.00,0.00,9.00,18.18,18.42,81.82
+2017-18,17,Lincoln,17190,Tuitioned Out,H,14.53,17.00,2.00,5.00,11.00,41.18,48.18,64.71
+2017-18,17,Lincoln,17190,Tuitioned Out,M,10.58,11.00,3.00,0.00,8.00,27.27,28.36,72.73
+2017-18,18,Little Compton,18101,Wilbur and McMahon Schools,E,148.13,156.00,7.00,7.00,142.00,8.97,9.45,91.03
+2017-18,18,Little Compton,18101,Wilbur and McMahon Schools,M,88.75,89.00,0.00,1.00,88.00,1.12,1.13,98.88
+2017-18,19,Middletown,19106,Aquidneck School,E,332.07,348.00,15.00,21.00,315.00,10.34,10.84,90.52
+2017-18,19,Middletown,19107,Forest Avenue School,E,352.51,397.00,28.00,50.00,320.00,19.65,22.13,80.60
+2017-18,19,Middletown,19111,Middletown High School,H,584.22,627.00,26.00,52.00,557.00,12.44,13.35,88.84
+2017-18,19,Middletown,19114,Joseph H. Gaudet School,M,696.42,734.00,40.00,34.00,663.00,10.08,10.63,90.33
+2017-18,19,Middletown,19117,Joseph H. Gaudet Learning Academy,E,144.73,157.00,12.00,15.00,133.00,17.20,18.65,84.71
+2017-18,19,Middletown,19190,Tuitioned Out,E,7.63,7.00,1.00,0.00,6.00,14.29,13.10,85.71
+2017-18,19,Middletown,19190,Tuitioned Out,H,28.44,35.00,10.00,6.00,21.00,45.71,56.26,60.00
+2017-18,19,Middletown,19190,Tuitioned Out,M,11.30,13.00,3.00,2.00,8.00,38.46,44.25,61.54
+2017-18,20,Narragansett,20102,Narragansett Elementary School,E,392.96,406.00,6.00,16.00,386.00,5.42,5.60,95.07
+2017-18,20,Narragansett,20103,Narragansett Pier School,M,430.12,439.00,7.00,11.00,421.00,4.10,4.18,95.90
+2017-18,20,Narragansett,20104,Narragansett High School,H,424.79,448.00,17.00,25.00,407.00,9.38,9.89,90.85
+2017-18,20,Narragansett,20190,Narragansett Public Schools,H,8.74,8.00,1.00,1.00,6.00,25.00,22.89,75.00
+2017-18,20,Narragansett,20190,Tuitioned Out,E,1.38,1.00,0.00,0.00,1.00,0.00,0.00,100.00
+2017-18,20,Narragansett,20190,Tuitioned Out,H,6.71,7.00,3.00,2.00,3.00,71.43,74.57,42.86
+2017-18,20,Narragansett,20190,Tuitioned Out,M,1.89,4.00,3.00,2.00,,125.00,264.71,
+2017-18,21,Newport,21106,Frank E. Thompson Middle School,M,597.22,639.00,37.00,39.00,566.00,11.89,12.73,88.58
+2017-18,21,Newport,21107,Claiborne Pell Elementary School,E,884.09,972.00,67.00,101.00,814.00,17.28,19.00,83.74
+2017-18,21,Newport,21111,Rogers High School,H,647.19,724.00,54.00,93.00,589.00,20.30,22.71,81.35
+2017-18,21,Newport,21190,Newport Public Schools,H,9.82,13.00,7.00,3.00,4.00,76.92,101.80,30.77
+2017-18,21,Newport,21190,Tuitioned Out,E,5.43,7.00,2.00,1.00,4.00,42.86,55.24,57.14
+2017-18,21,Newport,21190,Tuitioned Out,H,11.70,17.00,7.00,5.00,7.00,70.59,102.55,41.18
+2017-18,21,Newport,21190,Tuitioned Out,M,10.20,14.00,6.00,3.00,6.00,64.29,88.20,42.86
+2017-18,22,New Shoreham,22101,Block Island School,E,46.90,52.00,3.00,3.00,46.00,11.54,12.79,88.46
+2017-18,22,New Shoreham,22101,Block Island School,H,48.20,53.00,6.00,3.00,44.00,16.98,18.67,83.02
+2017-18,22,New Shoreham,22101,Block Island School,M,24.00,24.00,0.00,0.00,24.00,0.00,0.00,100.00
+2017-18,23,North Kingstown,23105,Wickford Middle School,M,385.79,397.00,8.00,13.00,376.00,5.29,5.44,94.71
+2017-18,23,North Kingstown,23108,North Kingstown Senior High School,H,"1,381.75","1,455.00",36.00,84.00,"1,342.00",8.25,8.68,92.23
+2017-18,23,North Kingstown,23109,Fishing Cove Elementary School,E,244.57,252.00,4.00,10.00,238.00,5.56,5.72,94.44
+2017-18,23,North Kingstown,23110,Forest Park Elementary School,E,233.94,244.00,10.00,9.00,226.00,7.79,8.12,92.62
+2017-18,23,North Kingstown,23111,Hamilton Elementary School,E,343.24,352.00,11.00,7.00,335.00,5.11,5.24,95.17
+2017-18,23,North Kingstown,23112,Davisville Middle School,M,532.31,546.00,19.00,11.00,516.00,5.49,5.64,94.51
+2017-18,23,North Kingstown,23113,Suzanne M. Henseler Quidnessett Elementary School,E,270.59,300.00,31.00,29.00,246.00,20.00,22.17,82.00
+2017-18,23,North Kingstown,23114,Stony Lane Elementary School,E,396.43,409.00,10.00,10.00,389.00,4.89,5.05,95.11
+2017-18,23,North Kingstown,23190,N. Kingstown Public Schools,H,17.74,23.00,12.00,3.00,11.00,65.22,84.57,47.83
+2017-18,23,North Kingstown,23190,Tuitioned Out,E,7.10,9.00,4.00,2.00,4.00,66.67,84.52,44.44
+2017-18,23,North Kingstown,23190,Tuitioned Out,H,11.60,12.00,1.00,1.00,10.00,16.67,17.23,83.33
+2017-18,23,North Kingstown,23190,Tuitioned Out,M,5.68,7.00,1.00,1.00,5.00,28.57,35.20,71.43
+2017-18,24,North Providence,24103,Marieville Elementary School,E,257.83,278.00,15.00,24.00,241.00,14.03,15.13,86.69
+2017-18,24,North Providence,24105,North Providence High School,H,"1,027.50","1,087.00",46.00,66.00,983.00,10.30,10.90,90.43
+2017-18,24,North Providence,24106,Stephen Olney School,E,277.53,295.00,13.00,19.00,266.00,10.85,11.53,90.17
+2017-18,24,North Providence,24107,James L. McGuire School,E,224.04,238.00,18.00,15.00,210.00,13.87,14.73,88.24
+2017-18,24,North Providence,24108,Dr. Joseph A Whelan Elementary School,E,265.22,278.00,9.00,13.00,257.00,7.91,8.30,92.45
+2017-18,24,North Providence,24109,Centredale School,E,262.61,282.00,12.00,20.00,251.00,11.35,12.19,89.01
+2017-18,24,North Providence,24110,Greystone School,E,257.52,277.00,13.00,26.00,242.00,14.08,15.14,87.36
+2017-18,24,North Providence,24111,Dr. Edward A. Ricci Middle School,M,439.07,457.00,11.00,21.00,428.00,7.00,7.29,93.65
+2017-18,24,North Providence,24112,Birchwood Middle School,M,448.22,466.00,21.00,9.00,436.00,6.44,6.69,93.56
+2017-18,24,North Providence,24190,N. Providence School Department,H,20.92,20.00,4.00,0.00,16.00,20.00,19.12,80.00
+2017-18,24,North Providence,24190,Tuitioned Out,E,24.10,25.00,6.00,2.00,17.00,32.00,33.19,68.00
+2017-18,24,North Providence,24190,Tuitioned Out,H,22.76,25.00,6.00,2.00,17.00,32.00,35.15,68.00
+2017-18,24,North Providence,24190,Tuitioned Out,M,15.22,15.00,3.00,1.00,11.00,26.67,26.29,73.33
+2017-18,25,North Smithfield,25106,Dr. Harry L. Halliwell Memorial School,E,282.78,294.00,11.00,10.00,273.00,7.14,7.43,92.86
+2017-18,25,North Smithfield,25108,North Smithfield High School,H,487.67,518.00,7.00,34.00,478.00,7.92,8.41,92.28
+2017-18,25,North Smithfield,25109,North Smithfield Middle School,M,407.45,420.00,11.00,13.00,398.00,5.71,5.89,94.76
+2017-18,25,North Smithfield,25110,North Smithfield Elementary School,E,481.74,498.00,15.00,18.00,466.00,6.63,6.85,93.57
+2017-18,25,North Smithfield,25190,N. Smithfield Schools,H,0.67,2.00,1.00,1.00,,100.00,300.00,
+2017-18,25,North Smithfield,25190,Tuitioned Out,E,4.64,4.00,1.00,0.00,3.00,25.00,21.56,75.00
+2017-18,25,North Smithfield,25190,Tuitioned Out,H,15.56,19.00,6.00,5.00,9.00,57.89,70.71,47.37
+2017-18,25,North Smithfield,25190,Tuitioned Out,M,2.97,4.00,2.00,0.00,2.00,50.00,67.29,50.00
+2017-18,26,Pawtucket,26103,Joseph Jenks Middle School,M,608.64,681.00,56.00,67.00,565.00,18.06,20.21,82.97
+2017-18,26,Pawtucket,26105,William E Tolman Senior High School,H,866.11,965.00,62.00,111.00,804.00,17.93,19.97,83.32
+2017-18,26,Pawtucket,26106,Samuel Slater Middle School,M,791.04,861.00,73.00,55.00,737.00,14.87,16.18,85.60
+2017-18,26,Pawtucket,26107,Lyman B. Goff Middle School,M,744.36,793.00,34.00,50.00,712.00,10.59,11.28,89.79
+2017-18,26,Pawtucket,26109,Jacqueline M. Walsh School for the Performing and,H,188.04,200.00,10.00,12.00,178.00,11.00,11.70,89.00
+2017-18,26,Pawtucket,26110,Potter-Burns School,E,456.65,490.00,34.00,30.00,432.00,13.06,14.02,88.16
+2017-18,26,Pawtucket,26111,Nathanael Greene School,E,387.57,414.00,21.00,30.00,366.00,12.32,13.16,88.41
+2017-18,26,Pawtucket,26113,Fallon Memorial School,E,527.36,559.00,26.00,30.00,507.00,10.02,10.62,90.70
+2017-18,26,Pawtucket,26115,Flora S. Curtis Memorial School,E,261.65,291.00,25.00,35.00,237.00,20.62,22.93,81.44
+2017-18,26,Pawtucket,26116,Curvin-McCabe School,E,455.72,497.00,31.00,40.00,427.00,14.29,15.58,85.92
+2017-18,26,Pawtucket,26118,Charles E. Shea High School,H,799.43,896.00,97.00,85.00,726.00,20.31,22.77,81.03
+2017-18,26,Pawtucket,26119,Henry J. Winters School,E,407.38,459.00,41.00,49.00,374.00,19.61,22.09,81.48
+2017-18,26,Pawtucket,26120,Elizabeth Baldwin School,E,680.44,768.00,83.00,82.00,617.00,21.48,24.25,80.34
+2017-18,26,Pawtucket,26121,M. Virginia Cunningham School,E,488.02,540.00,43.00,44.00,454.00,16.11,17.83,84.07
+2017-18,26,Pawtucket,26122,Agnes E. Little School,E,400.07,451.00,50.00,48.00,365.00,21.73,24.50,80.93
+2017-18,26,Pawtucket,26125,Francis J. Varieur School,E,378.81,401.00,22.00,21.00,360.00,10.72,11.35,89.78
+2017-18,26,Pawtucket,26190,Pawtucket Public Schools,H,48.67,44.00,7.00,2.00,35.00,20.45,18.49,79.55
+2017-18,26,Pawtucket,26190,Tuitioned Out,E,61.29,68.00,31.00,12.00,32.00,63.24,70.16,47.06
+2017-18,26,Pawtucket,26190,Tuitioned Out,H,79.30,90.00,32.00,24.00,40.00,62.22,70.62,44.44
+2017-18,26,Pawtucket,26190,Tuitioned Out,M,62.81,62.00,20.00,7.00,35.00,43.55,42.99,56.45
+2017-18,27,Portsmouth,27104,Howard Hathaway School,E,450.59,472.00,19.00,25.00,429.00,9.32,9.76,90.89
+2017-18,27,Portsmouth,27106,Portsmouth High School,H,870.47,911.00,19.00,41.00,853.00,6.59,6.89,93.63
+2017-18,27,Portsmouth,27111,Melville Elementary School,E,324.37,348.00,13.00,24.00,311.00,10.63,11.41,89.37
+2017-18,27,Portsmouth,27112,Portsmouth Middle School,M,723.77,742.00,12.00,22.00,708.00,4.58,4.70,95.42
+2017-18,27,Portsmouth,27190,Portsmouth Public Schools,H,2.48,3.00,0.00,1.00,2.00,33.33,40.36,66.67
+2017-18,27,Portsmouth,27190,Tuitioned Out,E,6.59,8.00,2.00,1.00,5.00,37.50,45.53,62.50
+2017-18,27,Portsmouth,27190,Tuitioned Out,H,9.29,14.00,6.00,4.00,5.00,71.43,107.59,35.71
+2017-18,27,Portsmouth,27190,Tuitioned Out,M,5.57,6.00,2.00,1.00,4.00,50.00,53.89,66.67
+2017-18,28,Providence,28103,Leviton Dual Language School,E,278.47,292.00,8.00,14.00,272.00,7.53,7.90,93.15
+2017-18,28,Providence,28106,Frank D. Spaziano Elementary School Annex,E,178.06,207.00,20.00,29.00,161.00,23.67,27.52,77.78
+2017-18,28,Providence,28113,Dr. Jorge Alvarez High School,H,654.86,854.00,161.00,175.00,551.00,39.34,51.31,64.52
+2017-18,28,Providence,28115,Asa Messer Elementary School,E,504.56,574.00,73.00,55.00,461.00,22.30,25.37,80.31
+2017-18,28,Providence,28116,Alan Shawn Feinstein Elementary at Broad Street,E,473.55,539.00,65.00,59.00,432.00,23.01,26.19,80.15
+2017-18,28,Providence,28121,"Alfred Lima, Sr. Elementary School",E,543.74,607.00,48.00,60.00,512.00,17.79,19.86,84.35
+2017-18,28,Providence,28122,Charles N. Fortes Elementary School,E,237.31,274.00,32.00,33.00,218.00,23.72,27.39,79.56
+2017-18,28,Providence,28127,Webster Avenue School,E,345.97,387.00,36.00,38.00,321.00,19.12,21.39,82.95
+2017-18,28,Providence,28130,Veazie Street School,E,553.07,643.00,75.00,89.00,492.00,25.51,29.65,76.52
+2017-18,28,Providence,28134,Frank D. Spaziano Elementary School,E,422.39,462.00,39.00,36.00,396.00,16.23,17.76,85.71
+2017-18,28,Providence,28135,George J. West Elementary School,E,779.16,856.00,56.00,82.00,729.00,16.12,17.71,85.16
+2017-18,28,Providence,28137,Esek Hopkins Middle School,M,552.59,636.00,73.00,81.00,495.00,24.21,27.87,77.83
+2017-18,28,Providence,28138,Robert F. Kennedy Elementary School,E,450.34,500.00,40.00,44.00,426.00,16.80,18.65,85.20
+2017-18,28,Providence,28139,Central High School,H,"1,214.99","1,440.00",182.00,218.00,"1,083.00",27.78,32.92,75.21
+2017-18,28,Providence,28140,Carl G. Lauro Elementary School,E,837.86,976.00,107.00,131.00,763.00,24.39,28.41,78.18
+2017-18,28,Providence,28142,Reservoir Avenue School,E,295.42,324.00,29.00,24.00,277.00,16.36,17.94,85.49
+2017-18,28,Providence,28143,Nathan Bishop Middle School,M,722.50,845.00,124.00,92.00,648.00,25.56,29.90,76.69
+2017-18,28,Providence,28144,Gilbert Stuart Middle School,M,870.82,"1,003.00",114.00,112.00,794.00,22.53,25.95,79.16
+2017-18,28,Providence,28145,Nathanael Greene Middle School,M,"1,008.02","1,090.00",67.00,78.00,953.00,13.30,14.38,87.43
+2017-18,28,Providence,28147,Roger Williams Middle School,M,793.32,964.00,115.00,172.00,701.00,29.77,36.18,72.72
+2017-18,28,Providence,28149,Hope High School,H,973.51,"1,214.00",163.00,257.00,835.00,34.60,43.14,68.78
+2017-18,28,Providence,28150,Mount Pleasant High School,H,929.53,"1,174.00",169.00,245.00,809.00,35.26,44.54,68.91
+2017-18,28,Providence,28151,Vartan Gregorian Elementary School,E,368.36,415.00,34.00,43.00,342.00,18.55,20.90,82.41
+2017-18,28,Providence,28153,William D'Abate Elementary School,E,400.10,438.00,32.00,36.00,378.00,15.53,17.00,86.30
+2017-18,28,Providence,28156,"Robert L Bailey IV, Elementary School",E,407.24,480.00,50.00,69.00,369.00,24.79,29.22,76.88
+2017-18,28,Providence,28157,"Lillian Feinstein Elementary, Sackett Street",E,434.59,491.00,47.00,47.00,403.00,19.14,21.63,82.08
+2017-18,28,Providence,28160,Mary E. Fogarty Elementary School,E,459.97,554.00,78.00,88.00,407.00,29.96,36.09,73.47
+2017-18,28,Providence,28161,Harry Kizirian Elementary School,E,581.69,708.00,107.00,117.00,508.00,31.64,38.51,71.75
+2017-18,28,Providence,28162,"The Sgt. Cornel Young, Jr & Charlotte Woods Elemen",E,637.81,737.00,80.00,90.00,583.00,23.07,26.65,79.10
+2017-18,28,Providence,28163,"Dr. Martin Luther King, Jr. Elementary School",E,518.02,610.00,56.00,96.00,472.00,24.92,29.34,77.38
+2017-18,28,Providence,28164,Classical High School,H,"1,111.99","1,134.00",4.00,37.00,"1,093.00",3.62,3.69,96.38
+2017-18,28,Providence,28165,Pleasant View School,E,302.34,320.00,14.00,19.00,290.00,10.31,10.91,90.63
+2017-18,28,Providence,28170,Times2 Academy,E,331.62,343.00,10.00,11.00,322.00,6.12,6.33,93.88
+2017-18,28,Providence,28170,Times2 Academy,H,203.67,207.00,1.00,4.00,202.00,2.42,2.45,97.58
+2017-18,28,Providence,28170,Times2 Academy,M,196.42,199.00,6.00,2.00,192.00,4.02,4.07,96.48
+2017-18,28,Providence,28178,Academy for Career Exploration (ACES),H,194.48,216.00,12.00,21.00,183.00,15.28,16.97,84.72
+2017-18,28,Providence,28181,Anthony Carnevale Elementary School,E,520.63,579.00,43.00,58.00,485.00,17.44,19.40,83.77
+2017-18,28,Providence,28182,Governor Christopher DelSesto Middle School,M,912.82,"1,046.00",96.00,152.00,818.00,23.71,27.17,78.20
+2017-18,28,Providence,28187,E-Cubed Academy,H,372.94,460.00,75.00,88.00,326.00,35.43,43.71,70.87
+2017-18,28,Providence,28189,"William B. Cooley, Sr. High School and the Provide",H,502.44,575.00,42.00,82.00,457.00,21.57,24.68,79.48
+2017-18,28,Providence,28190,Providence Public Schools,H,4.58,5.00,1.00,1.00,3.00,40.00,43.69,60.00
+2017-18,28,Providence,28190,Tuitioned Out,E,71.31,91.00,30.00,16.00,47.00,50.55,64.51,51.65
+2017-18,28,Providence,28190,Tuitioned Out,H,137.72,168.00,31.00,54.00,86.00,50.60,61.72,51.19
+2017-18,28,Providence,28190,Tuitioned Out,M,85.13,102.00,33.00,12.00,59.00,44.12,52.86,57.84
+2017-18,28,Providence,28193,Providence Career and Technical Academy,H,684.79,715.00,14.00,40.00,666.00,7.55,7.89,93.15
+2017-18,28,Providence,28194,West Broadway Middle School,M,485.38,542.00,47.00,52.00,451.00,18.27,20.40,83.21
+2017-18,28,Providence,28195,360 High School,H,201.06,267.00,54.00,66.00,167.00,44.94,59.68,62.55
+2017-18,28,Providence,28196,Evolutions High School,H,171.94,234.00,48.00,65.00,141.00,48.29,65.72,60.26
+2017-18,30,Scituate,30102,Hope Elementary School,E,180.03,185.00,5.00,4.00,177.00,4.86,5.00,95.68
+2017-18,30,Scituate,30103,Clayville Elementary School,E,131.46,136.00,2.00,5.00,129.00,5.15,5.32,94.85
+2017-18,30,Scituate,30104,Scituate High School,H,411.97,433.00,10.00,21.00,402.00,7.16,7.52,92.84
+2017-18,30,Scituate,30105,Scituate Middle School,M,328.08,335.00,9.00,5.00,321.00,4.18,4.27,95.82
+2017-18,30,Scituate,30106,North Scituate Elementary School,E,217.39,225.00,14.00,3.00,210.00,7.56,7.82,93.33
+2017-18,30,Scituate,30190,Tuitioned Out,M,1.15,1.00,0.00,0.00,1.00,0.00,0.00,100.00
+2017-18,31,Smithfield,31103,William Winsor School,E,268.70,273.00,2.00,4.00,267.00,2.20,2.23,97.80
+2017-18,31,Smithfield,31104,Old County Road School,E,260.86,273.00,16.00,8.00,249.00,8.79,9.20,91.21
+2017-18,31,Smithfield,31105,Anna M. McCabe School,E,295.56,300.00,2.00,4.00,294.00,2.00,2.03,98.00
+2017-18,31,Smithfield,31107,Smithfield Senior High School,H,697.39,721.00,14.00,21.00,689.00,4.85,5.02,95.56
+2017-18,31,Smithfield,31108,Raymond C. LaPerche School,E,238.06,246.00,3.00,14.00,229.00,6.91,7.14,93.09
+2017-18,31,Smithfield,31109,Vincent J. Gallagher Middle School,M,587.16,601.00,11.00,15.00,577.00,4.33,4.43,96.01
+2017-18,31,Smithfield,31190,Smithfield Public Schools,H,2.28,2.00,0.00,0.00,2.00,0.00,0.00,100.00
+2017-18,31,Smithfield,31190,Tuitioned Out,E,0.06,1.00,1.00,0.00,,100.00,"1,800.00",
+2017-18,31,Smithfield,31190,Tuitioned Out,H,3.72,4.00,1.00,0.00,3.00,25.00,26.91,75.00
+2017-18,31,Smithfield,31190,Tuitioned Out,M,1.36,2.00,1.00,0.00,1.00,50.00,73.77,50.00
+2017-18,32,South Kingstown,32103,Wakefield Elementary School,E,197.02,217.00,22.00,18.00,183.00,18.43,20.30,84.33
+2017-18,32,South Kingstown,32107,Peace Dale Elementary School,E,378.61,398.00,22.00,14.00,364.00,9.05,9.51,91.46
+2017-18,32,South Kingstown,32108,South Kingstown High School,H,927.44,962.00,21.00,45.00,900.00,6.86,7.12,93.56
+2017-18,32,South Kingstown,32110,Curtis Corner Middle School,M,521.94,534.00,8.00,16.00,512.00,4.49,4.60,95.88
+2017-18,32,South Kingstown,32112,West Kingston Elementary School,E,274.51,288.00,11.00,16.00,262.00,9.38,9.84,90.97
+2017-18,32,South Kingstown,32113,Matunuck School,E,201.51,211.00,7.00,9.00,197.00,7.58,7.94,93.36
+2017-18,32,South Kingstown,32114,Broad Rock Middle School,M,479.70,493.00,10.00,15.00,470.00,5.07,5.21,95.33
+2017-18,32,South Kingstown,32190,Tuitioned Out,E,3.23,5.00,3.00,2.00,1.00,100.00,154.64,20.00
+2017-18,32,South Kingstown,32190,Tuitioned Out,H,10.41,11.00,1.00,2.00,8.00,27.27,28.82,72.73
+2017-18,32,South Kingstown,32190,Tuitioned Out,M,6.36,6.00,2.00,0.00,4.00,33.33,31.44,66.67
+2017-18,33,Tiverton,33105,Walter E. Ranger School,E,225.49,238.00,9.00,12.00,218.00,8.82,9.31,91.60
+2017-18,33,Tiverton,33106,Fort Barton School,E,220.41,230.00,12.00,7.00,211.00,8.26,8.62,91.74
+2017-18,33,Tiverton,33107,Pocasset School,E,234.76,250.00,11.00,15.00,225.00,10.40,11.08,90.00
+2017-18,33,Tiverton,33108,Tiverton High School,H,509.38,531.00,5.00,29.00,499.00,6.40,6.67,93.97
+2017-18,33,Tiverton,33110,Tiverton Middle School,M,576.44,598.00,12.00,31.00,557.00,7.19,7.46,93.14
+2017-18,33,Tiverton,33190,Tuitioned Out,E,9.35,11.00,6.00,1.00,4.00,63.64,74.87,36.36
+2017-18,33,Tiverton,33190,Tuitioned Out,H,20.73,19.00,2.00,0.00,17.00,10.53,9.65,89.47
+2017-18,33,Tiverton,33190,Tuitioned Out,M,7.66,9.00,4.00,0.00,5.00,44.44,52.25,55.56
+2017-18,35,Warwick,35101,Norwood School,E,282.41,295.00,16.00,7.00,273.00,7.80,8.14,92.54
+2017-18,35,Warwick,35104,Oakland Beach Elementary School,E,369.74,394.00,24.00,24.00,349.00,12.18,12.98,88.58
+2017-18,35,Warwick,35114,Greenwood School,E,283.94,289.00,4.00,5.00,280.00,3.11,3.17,96.89
+2017-18,35,Warwick,35119,Wyman School,E,251.03,257.00,4.00,9.00,245.00,5.06,5.18,95.33
+2017-18,35,Warwick,35121,E. G. Robertson School,E,297.33,316.00,5.00,24.00,287.00,9.18,9.75,90.82
+2017-18,35,Warwick,35123,Lippitt School,E,273.92,284.00,9.00,8.00,267.00,5.99,6.21,94.01
+2017-18,35,Warwick,35124,Randall Holden School,E,197.85,204.00,4.00,8.00,192.00,5.88,6.07,94.12
+2017-18,35,Warwick,35125,Francis School,E,221.76,231.00,10.00,9.00,213.00,8.23,8.57,92.21
+2017-18,35,Warwick,35127,Sherman School,E,328.75,342.00,15.00,11.00,317.00,7.60,7.91,92.69
+2017-18,35,Warwick,35128,Holliman School,E,275.96,282.00,5.00,9.00,271.00,4.96,5.07,96.10
+2017-18,35,Warwick,35129,John Wickes School,E,322.49,343.00,10.00,26.00,307.00,10.50,11.16,89.50
+2017-18,35,Warwick,35131,Cedar Hill School,E,372.02,396.00,26.00,18.00,354.00,11.11,11.83,89.39
+2017-18,35,Warwick,35132,Park School,E,224.94,236.00,12.00,10.00,215.00,9.32,9.78,91.10
+2017-18,35,Warwick,35133,Warwick Neck School,E,269.68,280.00,10.00,9.00,262.00,6.79,7.05,93.57
+2017-18,35,Warwick,35134,Pilgrim High School,H,"1,419.29","1,482.00",45.00,80.00,"1,364.00",8.43,8.81,92.04
+2017-18,35,Warwick,35135,Harold F. Scott School,E,292.89,312.00,20.00,21.00,272.00,13.14,14.00,87.18
+2017-18,35,Warwick,35136,Cottrell F. Hoxsie School,E,320.44,342.00,13.00,22.00,308.00,10.23,10.92,90.06
+2017-18,35,Warwick,35138,Toll Gate High School,H,"1,157.66","1,234.00",27.00,93.00,"1,116.00",9.72,10.37,90.44
+2017-18,35,Warwick,35139,Winman Junior High School,M,546.28,568.00,13.00,22.00,534.00,6.16,6.41,94.01
+2017-18,35,Warwick,35142,Warwick Veterans Jr. High School,M,844.21,879.00,25.00,39.00,818.00,7.28,7.58,93.06
+2017-18,35,Warwick,35190,Tuitioned Out,E,20.53,21.00,9.00,0.00,12.00,42.86,43.84,57.14
+2017-18,35,Warwick,35190,Tuitioned Out,H,88.07,99.00,23.00,19.00,60.00,42.42,47.69,60.61
+2017-18,35,Warwick,35190,Tuitioned Out,M,28.84,34.00,14.00,3.00,19.00,50.00,58.95,55.88
+2017-18,35,Warwick,35190,Warwick Public Schools,H,58.89,71.00,20.00,13.00,42.00,46.48,56.04,59.15
+2017-18,36,Westerly,36103,Westerly Middle School,M,866.00,901.00,25.00,40.00,842.00,7.21,7.51,93.45
+2017-18,36,Westerly,36104,Westerly High School,H,783.55,830.00,26.00,62.00,749.00,10.60,11.23,90.24
+2017-18,36,Westerly,36106,State Street School,E,308.96,327.00,13.00,23.00,292.00,11.01,11.65,89.30
+2017-18,36,Westerly,36109,Dunn's Corners School,E,325.26,344.00,17.00,19.00,311.00,10.47,11.07,90.41
+2017-18,36,Westerly,36111,Springbrook Elementary School,E,320.27,345.00,18.00,29.00,303.00,13.62,14.68,87.83
+2017-18,36,Westerly,36190,Tuitioned Out,E,15.40,18.00,5.00,3.00,10.00,44.44,51.93,55.56
+2017-18,36,Westerly,36190,Tuitioned Out,H,19.90,24.00,3.00,5.00,16.00,33.33,40.20,66.67
+2017-18,36,Westerly,36190,Tuitioned Out,M,9.98,10.00,4.00,0.00,6.00,40.00,40.09,60.00
+2017-18,36,Westerly,36190,Westerly Public Schools,H,37.50,43.00,12.00,5.00,27.00,39.53,45.34,62.79
+2017-18,38,West Warwick,38104,John F. Horgan Elementary School,E,550.09,605.00,41.00,60.00,513.00,16.69,18.36,84.79
+2017-18,38,West Warwick,38106,West Warwick Senior High School,H,982.26,"1,147.00",94.00,174.00,900.00,23.37,27.28,78.47
+2017-18,38,West Warwick,38107,John F. Deering Middle School,M,"1,067.79","1,153.00",78.00,85.00,998.00,14.14,15.27,86.56
+2017-18,38,West Warwick,38109,Greenbush Elementary School,E,474.77,508.00,23.00,31.00,459.00,10.63,11.37,90.35
+2017-18,38,West Warwick,38111,Wakefield Hills Elementary School,E,402.77,444.00,34.00,41.00,371.00,16.89,18.62,83.56
+2017-18,38,West Warwick,38190,Tuitioned Out,E,0.68,3.00,2.00,2.00,,133.33,588.62,
+2017-18,38,West Warwick,38190,Tuitioned Out,H,21.76,35.00,15.00,13.00,10.00,80.00,128.66,28.57
+2017-18,38,West Warwick,38190,Tuitioned Out,M,3.03,3.00,1.00,0.00,2.00,33.33,32.97,66.67
+2017-18,38,West Warwick,38190,W. Warwick Public Schools,H,19.66,23.00,11.00,5.00,8.00,69.57,81.39,34.78
+2017-18,39,Woonsocket,39101,Harris School,E,448.74,549.00,71.00,102.00,396.00,31.51,38.55,72.13
+2017-18,39,Woonsocket,39110,Governor Aram J. Pothier School,E,409.97,481.00,59.00,69.00,363.00,26.61,31.22,75.47
+2017-18,39,Woonsocket,39117,Citizens Memorial School,E,423.24,475.00,43.00,51.00,389.00,19.79,22.21,81.89
+2017-18,39,Woonsocket,39118,Bernon Heights School,E,447.67,509.00,44.00,61.00,415.00,20.63,23.45,81.53
+2017-18,39,Woonsocket,39119,Globe Park School,E,516.63,597.00,57.00,81.00,474.00,23.12,26.71,79.40
+2017-18,39,Woonsocket,39120,Leo A. Savoie School,E,402.48,442.00,34.00,42.00,368.00,17.19,18.88,83.26
+2017-18,39,Woonsocket,39123,Woonsocket High School,H,"1,530.27","1,698.00",114.00,198.00,"1,422.00",18.37,20.39,83.75
+2017-18,39,Woonsocket,39128,Kevin K. Coleman Elementary School,E,295.59,347.00,42.00,50.00,260.00,26.51,31.12,74.93
+2017-18,39,Woonsocket,39131,Woonsocket Middle School at Hamlet,M,651.27,719.00,39.00,70.00,616.00,15.16,16.74,85.67
+2017-18,39,Woonsocket,39132,Woonsocket Middle School at Villa Nova,M,635.16,705.00,75.00,62.00,579.00,19.43,21.57,82.13
+2017-18,39,Woonsocket,39190,Tuitioned Out,E,51.31,58.00,23.00,7.00,30.00,51.72,58.47,51.72
+2017-18,39,Woonsocket,39190,Tuitioned Out,H,66.58,93.00,33.00,35.00,34.00,73.12,102.14,36.56
+2017-18,39,Woonsocket,39190,Tuitioned Out,M,38.52,56.00,28.00,21.00,16.00,87.50,127.20,28.57
+2017-18,40,Davies Career and Tech,17701,Wm. M. Davies Jr. Career-Technical  High School,H,844.77,866.00,13.00,31.00,822.00,5.08,5.21,94.92
+2017-18,41,Achievement First Rhode Island,28609,Achievement First Providence Mayoral Academy,E,444.14,467.00,12.00,27.00,428.00,8.35,8.78,91.65
+2017-18,41,Achievement First Rhode Island,28614,Achievement First Iluminar Mayoral Academy,E,366.48,371.00,0.00,5.00,366.00,1.35,1.36,98.65
+2017-18,41,Achievement First Rhode Island,28615,AF Providence Mayoral Academy Middle,M,101.15,110.00,3.00,9.00,98.00,10.91,11.86,89.09
+2017-18,41,Achievement First Rhode Island,41190,Tuitioned Out,E,2.25,4.00,3.00,0.00,1.00,75.00,133.33,25.00
+2017-18,42,Sheila Skip Nowell Leadership Academy,04603,Sheila Skip Nowell Leadership Academy (Central Cam,H,72.13,99.00,17.00,29.00,54.00,46.46,63.77,54.55
+2017-18,42,Sheila Skip Nowell Leadership Academy,28610,Sheila Skip Nowell Leadership Academy (Capital Cam,H,87.05,119.00,23.00,30.00,68.00,44.54,60.88,57.14
+2017-18,43,SouthSide Charter School,28611,SouthSide Elementary Charter School,E,93.43,105.00,7.00,12.00,86.00,18.10,20.34,81.90
+2017-18,46,Segue Institute for Learning,04602,Segue Institute for Learning,M,236.29,248.00,2.00,13.00,234.00,6.05,6.35,94.35
+2017-18,47,"Blackstone Valley Prep, A RI Mayoral Academy",08601,Blackstone Valley Prep Elementary School,E,417.09,424.00,10.00,6.00,408.00,3.77,3.84,96.23
+2017-18,47,"Blackstone Valley Prep, A RI Mayoral Academy",08602,Blackstone Valley Prep Middle School,M,328.68,343.00,9.00,20.00,317.00,8.45,8.82,92.42
+2017-18,47,"Blackstone Valley Prep, A RI Mayoral Academy",08603,Blackstone Valley Prep Elementary 2 School,E,420.24,437.00,15.00,14.00,408.00,6.64,6.90,93.36
+2017-18,47,"Blackstone Valley Prep, A RI Mayoral Academy",08604,Blackstone Valley Prep High School,H,324.71,345.00,20.00,17.00,309.00,10.72,11.39,89.57
+2017-18,47,"Blackstone Valley Prep, A RI Mayoral Academy",08605,Blackstone Valley Prep Elementary 3 School,E,165.93,168.00,0.00,3.00,165.00,1.79,1.81,98.21
+2017-18,47,"Blackstone Valley Prep, A RI Mayoral Academy",08606,Blackstone Valley Prep Middle School 2,M,165.47,169.00,3.00,4.00,162.00,4.14,4.23,95.86
+2017-18,48,Highlander,28601,Highlander Charter School,E,214.92,223.00,6.00,8.00,210.00,6.28,6.51,94.17
+2017-18,48,Highlander,28601,Highlander Charter School,H,162.06,210.00,31.00,46.00,138.00,36.67,47.51,65.71
+2017-18,48,Highlander,28601,Highlander Charter School,M,154.43,165.00,7.00,12.00,147.00,11.52,12.30,89.09
+2017-18,49,Urban Collaborative,28167,Urban Collaborative Accelerated Program,M,133.54,156.00,16.00,26.00,115.00,26.92,31.45,73.72
+2017-18,50,R.I. Sch for the Deaf,28702,Rhode Island School for the Deaf,E,29.36,31.00,4.00,0.00,27.00,12.90,13.62,87.10
+2017-18,50,R.I. Sch for the Deaf,28702,Rhode Island School for the Deaf,H,23.00,23.00,0.00,0.00,23.00,0.00,0.00,100.00
+2017-18,50,R.I. Sch for the Deaf,28702,Rhode Island School for the Deaf,M,12.00,12.00,0.00,0.00,12.00,0.00,0.00,100.00
+2017-18,51,Paul Cuffee Charter Sch,28602,Paul Cuffee Charter School,E,360.87,363.00,7.00,0.00,356.00,1.93,1.94,98.07
+2017-18,51,Paul Cuffee Charter Sch,28602,Paul Cuffee Charter School,H,248.77,261.00,21.00,0.00,240.00,8.05,8.44,91.95
+2017-18,51,Paul Cuffee Charter Sch,28602,Paul Cuffee Charter School,M,186.35,189.00,8.00,0.00,181.00,4.23,4.29,95.77
+2017-18,52,Kingston Hill Academy,32601,Kingston Hill Academy,E,189.23,202.00,12.00,14.00,177.00,12.87,13.74,87.62
+2017-18,53,International Charter,26601,International Charter School,E,360.79,368.00,6.00,10.00,352.00,4.35,4.43,95.65
+2017-18,54,Blackstone Academy,26602,Blackstone Academy Charter School,H,344.84,354.00,3.00,8.00,343.00,3.11,3.19,96.89
+2017-18,55,The Compass School,23601,The Compass School,E,111.69,122.00,5.00,6.00,112.00,9.02,9.85,91.80
+2017-18,55,The Compass School,23601,The Compass School,M,56.07,58.00,0.00,0.00,58.00,0.00,0.00,100.00
+2017-18,58,Beacon Charter School,39601,BEACON Charter School,H,233.76,243.00,7.00,10.00,226.00,7.00,7.27,93.00
+2017-18,58,Beacon Charter School,39603,Founders Academy,M,133.46,143.00,7.00,11.00,126.00,12.59,13.49,88.11
+2017-18,59,Learning Community,04601,The Learning Community Charter School,E,388.24,391.00,0.00,5.00,386.00,1.28,1.29,98.72
+2017-18,59,Learning Community,04601,The Learning Community Charter School,M,179.94,180.00,0.00,0.00,180.00,0.00,0.00,100.00
+2017-18,59,Learning Community,59190,Tuitioned Out,E,2.29,2.00,0.00,0.00,2.00,0.00,0.00,100.00
+2017-18,60,MET Career and Tech,28703,Metropolitan Regional Career and Technical Center,H,779.62,854.00,52.00,69.00,735.00,14.17,15.52,86.07
+2017-18,61,Trinity Academy for the Performing Arts,28606,Trinity Academy for the Performing Arts,H,129.10,136.00,0.00,10.00,126.00,7.35,7.75,92.65
+2017-18,61,Trinity Academy for the Performing Arts,28606,Trinity Academy for the Performing Arts,M,78.40,84.00,2.00,8.00,74.00,11.90,12.76,88.10
+2017-18,62,The Greene School,97601,The Greene School,H,199.69,218.00,14.00,17.00,187.00,14.22,15.52,85.78
+2017-18,63,Rhode Island Nurses Institute Middle College,28607,RI Nurses Institute Middle College Charter High Sc,H,265.03,308.00,41.00,49.00,221.00,29.22,33.96,71.75
+2017-18,64,Village Green Virtual,28608,Village Green Virtual Charter School,H,223.42,243.00,5.00,24.00,215.00,11.93,12.98,88.48
+2017-18,67,DCYF,07702,DCYF Alternative Education Program,H,37.11,222.00,152.00,158.00,8.00,139.64,835.39,3.60
+2017-18,67,DCYF,07702,DCYF Alternative Education Program,M,1.31,7.00,5.00,2.00,1.00,100.00,534.66,14.29
+2017-18,68,The Hope Academy,28613,The Hope Academy,E,143.45,147.00,3.00,3.00,141.00,4.08,4.18,95.92
+2017-18,79,RISE Prep Mayoral Academy,39602,RISE Prep Mayoral Academy,E,160.68,165.00,4.00,4.00,157.00,4.85,4.98,95.15
+2017-18,96,Bristol Warren,96104,Guiteras School,E,252.47,278.00,12.00,23.00,245.00,12.59,13.86,88.13
+2017-18,96,Bristol Warren,96105,Colt Andrews School,E,355.26,382.00,16.00,31.00,340.00,12.30,13.23,89.01
+2017-18,96,Bristol Warren,96106,Rockwell School,E,265.69,284.00,12.00,18.00,258.00,10.56,11.29,90.85
+2017-18,96,Bristol Warren,96107,Mt. Hope High School,H,911.66,992.00,20.00,87.00,890.00,10.79,11.74,89.72
+2017-18,96,Bristol Warren,96112,Kickemuit Middle School,M,746.17,787.00,12.00,48.00,729.00,7.62,8.04,92.63
+2017-18,96,Bristol Warren,96113,Hugh Cole School,E,592.64,636.00,32.00,43.00,565.00,11.79,12.66,88.84
+2017-18,96,Bristol Warren,96190,Tuitioned Out,E,6.20,7.00,4.00,0.00,3.00,57.14,64.52,42.86
+2017-18,96,Bristol Warren,96190,Tuitioned Out,H,28.33,29.00,2.00,5.00,22.00,24.14,24.71,75.86
+2017-18,96,Bristol Warren,96190,Tuitioned Out,M,13.59,13.00,2.00,0.00,11.00,15.38,14.71,84.62
+2017-18,97,Exeter-West Greenwich,97101,Wawaloam School,E,239.25,249.00,9.00,9.00,232.00,7.23,7.52,93.17
+2017-18,97,Exeter-West Greenwich,97103,Metcalf School,E,583.91,603.00,12.00,21.00,573.00,5.47,5.65,95.02
+2017-18,97,Exeter-West Greenwich,97105,Exeter-West Greenwich Regional  Junior High,M,257.51,266.00,5.00,10.00,252.00,5.64,5.83,94.74
+2017-18,97,Exeter-West Greenwich,97106,Exeter-West Greenwich Regional High School,H,506.33,534.00,12.00,25.00,500.00,6.93,7.31,93.63
+2017-18,97,Exeter-West Greenwich,97190,Exeter-W. Greenwich Schools,H,1.43,2.00,1.00,0.00,1.00,50.00,70.04,50.00
+2017-18,97,Exeter-West Greenwich,97190,Tuitioned Out,E,1.16,1.00,0.00,0.00,1.00,0.00,0.00,100.00
+2017-18,97,Exeter-West Greenwich,97190,Tuitioned Out,H,9.88,9.00,1.00,0.00,8.00,11.11,10.12,88.89
+2017-18,97,Exeter-West Greenwich,97190,Tuitioned Out,M,1.88,3.00,0.00,2.00,1.00,66.67,106.19,33.33
+2017-18,98,Chariho,98101,Chariho Regional High School,H,"1,078.21","1,128.00",20.00,69.00,"1,045.00",7.89,8.25,92.64
+2017-18,98,Chariho,98103,Chariho Regional Middle School,M,933.46,965.00,21.00,34.00,911.00,5.70,5.89,94.40
+2017-18,98,Chariho,98104,Charlestown Elementary School,E,264.59,271.00,4.00,7.00,261.00,4.06,4.16,96.31
+2017-18,98,Chariho,98105,Richmond Elementary School,E,394.74,410.00,15.00,11.00,385.00,6.34,6.59,93.90
+2017-18,98,Chariho,98106,Ashaway Elementary School,E,199.89,209.00,7.00,9.00,193.00,7.66,8.00,92.34
+2017-18,98,Chariho,98107,Hope Valley Elementary School,E,194.71,201.00,8.00,6.00,188.00,6.97,7.19,93.53
+2017-18,98,Chariho,98108,The R.Y.S.E. School,E,6.91,10.00,4.00,1.00,5.00,50.00,72.35,50.00
+2017-18,98,Chariho,98108,The R.Y.S.E. School,H,23.16,33.00,5.00,15.00,15.00,60.61,86.35,45.45
+2017-18,98,Chariho,98108,The R.Y.S.E. School,M,15.25,20.00,11.00,1.00,9.00,60.00,78.69,45.00
+2017-18,98,Chariho,98190,Tuitioned Out,E,1.20,2.00,1.00,0.00,1.00,50.00,83.33,50.00
+2017-18,98,Chariho,98190,Tuitioned Out,H,2.26,2.00,0.00,0.00,2.00,0.00,0.00,100.00
+2017-18,98,Chariho,98190,Tuitioned Out,M,1.07,1.00,0.00,0.00,1.00,0.00,0.00,100.00
+2017-18,99,Foster-Glocester,99101,Ponaganset Middle School,M,508.97,521.00,10.00,10.00,501.00,3.84,3.93,96.16
+2017-18,99,Foster-Glocester,99102,Ponaganset High School,H,740.20,760.00,12.00,23.00,726.00,4.61,4.73,95.53
+2017-18,99,Foster-Glocester,99190,Tuitioned Out,H,4.46,5.00,1.00,1.00,3.00,40.00,44.83,60.00
+2017-18,99,Foster-Glocester,99190,Tuitioned Out,M,1.13,1.00,0.00,0.00,1.00,0.00,0.00,100.00
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

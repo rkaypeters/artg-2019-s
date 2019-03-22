@@ -1,0 +1,72 @@
+LEA_CODE,LEA_NAME,LEA_NAME16,LEA_NAME8,SUPTADDRL1,SUPTADDRL2,SUPTADDRL3,SUPTCITY,SUPTSTATE,SUPTZIP,LEA,LEA_LOW_GRADE,LEA_HIGH_GRADE,LEA_TYPE
+01,Barrington,Barrington,Barr.,283 County Road,PO Box 95, ,Barrington,RI,02806,Y,PK,12,1
+03,Burrillville,Burrillville,Burr.,2300 Bronco Highway, , ,Harrisville,RI,02830,Y,PK,12,1
+04,Central Falls,Central Falls,C. Falls,949 Dexter ST.,Lower level, ,Central Falls,RI,02863,Y,PK,12,1
+06,Coventry,Coventry,Coventry,1675 Flat River Road, , ,Coventry,RI,02816,Y,PK,12,1
+07,Cranston,Cranston,Cranston,845 Park Avenue, , ,Cranston,RI,02910,Y,PK,12,1
+08,Cumberland,Cumberland,Cumb.,2602 Mendon Road, , ,Cumberland,RI,02864,Y,PK,12,1
+09,East Greenwich,East Greenwich,E. G.,111 Peirce Street, , ,East Greenwich,RI,02818,Y,PK,12,1
+10,East Providence,East Providence,E. Prov,145 Taunton Avenue, , ,East Providence,RI,02914,Y,PK,12,1
+12,Foster,Foster,Foster,160 Foster Ctr Rd/Isaac, , ,Foster,RI,02825,Y,PK,05,1
+13,Glocester,Glocester,Gloceste,Glocester Town Hall,1145 Putnam Pike P.O.Box, ,Chepachet,RI,02814,Y,PK,05,1
+15,Jamestown,Jamestown,Jamestwn,76 Melrose Avenue, ,76 Melrose Avenue,Jamestown,RI,02835,Y,PK,12,1
+16,Johnston,Johnston,Johnston,10 Memorial Avenue, , ,Johnston,RI,02919,Y,PK,12,1
+17,Lincoln,Lincoln,Lincoln,1624 Lonsdale Avenue, ,1624 Lonsdale Avenue,Lincoln,RI,02865,Y,PK,12,1
+18,Little Compton,Little Compton,L. Compt,28 Commons, , ,Little Compton,RI,02837,Y,PK,12,1
+19,Middletown,Middletown,Middltwn,26 Oliphant Lane, , ,Middletown,RI,02842,Y,PK,12,1
+20,Narragansett,Narragansett,Narr.,25 Fifth Avenue, , ,Narragansett,RI,02882,Y,PK,12,1
+21,Newport,Newport,Newport,109 Old Fort Rd, , ,Newport,RI,02840,Y,PK,12,1
+22,New Shoreham,New Shoreham,New Shor,New Shoreham School Depar,High Street, ,Block Island,RI,02807,Y,KF,12,1
+23,North Kingstown,North Kingstown,N. Kings,100 Romano Vineyard Way,Ste. 120, ,North Kingstown,RI,02852,Y,PK,12,1
+56,Newport County Regional,Newport County,NPCNTY,26 Oliphant Lane, , ,Middletown,RI,02842,Y, , ,5
+24,North Providence,North Providence,N. Prov,2240 Mineral Spring Avenu, , ,North Providence,RI,02911,Y,PK,12,1
+25,North Smithfield,North Smithfield,N. Smith,1850 Providence Pike, , ,North Smithfield,RI,02896,Y,PK,12,1
+26,Pawtucket,Pawtucket,Pawt.,286 Main Street, , ,Pawtucket,RI,02860,Y,PK,12,1
+27,Portsmouth,Portsmouth,Ports.,29 Middle Road, , ,Portsmouth,RI,02871,Y,PK,12,1
+28,Providence,Providence,Prov.,797 Westminster Street, , ,Providence,RI,02903,Y,PK,12,1
+30,Scituate,Scituate,Scituate,197 Danielson Pike,PO Box 188, ,North Scituate,RI,02857,Y,PK,12,1
+31,Smithfield,Smithfield,Smthfld,49 Farnum Pike, , ,Smithfield,RI,02917,Y,PK,12,1
+32,South Kingstown,South Kingstown,S. Kings,307 Curtis Corner Road, , ,Wakefield,RI,02879,Y,PK,12,1
+33,Tiverton,Tiverton,Tiverton,Administration Center,"100 North Brayton Road, r", ,Tiverton,RI,02878,Y,PK,12,1
+35,Warwick,Warwick,Warwick,69 Draper Avenue,Gorton Administration Bui, ,Warwick,RI,02889,Y,PK,12,1
+36,Westerly,Westerly,Westerly,23 Highland Avenue,Babcock Hall, ,Westerly,RI,02891,Y,PK,12,1
+38,West Warwick,West Warwick,W. W.,10 Harris Avenue, , ,West Warwick,RI,02893,Y,PK,12,1
+39,Woonsocket,Woonsocket,Woon.,McFee Administration Buil,108 High Street, ,Woonsocket,RI,02895,Y,PK,12,1
+40,Davies Career and Tech,Davies,DAVIES,50 Jenckes Hill Road, , ,Lincoln,RI,02865,Y,09,12,3
+41,Achievement First Rhode Island,Achievement Firs,Achievem,370 Hartford Avenue, , ,Providence,RI,02909,Y,KF,01,2
+42,Sheila Skip Nowell Leadership Academy,Sheila Skip Nowe,Sheila S,43 Hawes Street, , ,Central Falls,RI,02863,Y,09,12,2
+43,SouthSide Charter School,SouthSide Charte,SouthSid,135 Prairie Ave, , ,Providence,RI,02905,Y,KG,05,2
+46,Segue Institute for Learning,Segue Inst for L,Segue In,325 Cowden Street, , ,Central Falls,RI,02863,Y,05,08,2
+47,"Blackstone Valley Prep, A RI Mayoral Academy",Blackstone Valle,Blacksto,291 Broad St., , ,Cumberland,RI,02864,Y,KF,10,2
+48,Highlander,Highlander,Highland, 42 Lexington Avenue, , ,Providence,RI,02907,Y,PF,12,2
+49,Urban Collaborative,UCAP,UCAP,75 Carpenter Street, , ,Providence,RI,02903,Y,07,09,3
+50,R.I. Sch for the Deaf,RI Deaf,RI DEAF,One Corliss Park, , ,Providence,RI,02908,Y,PF,12,3
+51,Paul Cuffee Charter Sch,Paul Cuffee,Paul Cuf,459 Promenade Street, , ,Providence,RI,02908,Y,KF,12,2
+52,Kingston Hill Academy,Kingston Hill,Kingston,850 Stony Fort Road, , ,Saunderstown,RI,02874,Y,KF,05,2
+53,International Charter,International,Internat,334 Pleasant Street, , ,Pawtucket,RI,02860,Y,KF,05,2
+54,Blackstone Academy,BLACKSTONE,Blacksto,334 Pleasant Street, , ,Pawtucket,RI,02860,Y,09,12,2
+55,The Compass School,Compass,Compass,537 Old North Road, , ,Kingston,RI,02881,Y,KF,08,2
+58,Beacon Charter School,Beacon Charter,Beacon,320 Main Street, , ,Woonsocket,RI,02895,Y,09,12,2
+59,Learning Community,Learning,Learning,21 Lincoln Avenue, , ,Central Falls,RI,02863,Y,KF,08,2
+60,MET Career and Tech,MET SCHOOL,MET SCH,325 Public Street, , ,Providence,RI,02905,Y,09,12,3
+61,Trinity Academy for the Performing Arts,Trinity Academy,Trinity,150 Washington Street, , ,Providence,RI,02903,Y,07,12,2
+62,The Greene School,The Greene Schoo,The Gree,94 John Potter Road,Unit 3, ,West Greenwich,RI,02817,Y,09,12,2
+63,Rhode Island Nurses Institute Middle College,Rhode Island Nur,RINI Mid,150 Washington Street, 3rd and 4th floors, ,Providence,RI,02903,Y,09,12,2
+64,Village Green Virtual,Village Green Vi,Village,135 Weybosset Street, , ,Providence,RI,02903,Y,09,12,2
+67,DCYF,DCYF,DCYF,57 Power Rd., , ,Cranston,RI,02920,Y,06,12,3
+68,The Hope Academy,The Hope Academy,Hope Aca,1000 Eddy Street, , ,Providence,RI,02905,Y,KG,08,2
+75,Northern RI Collaborative,Northern RI Coll,Northern,640 George Washington Hwy,"Bldg. B, Suite 200", ,Lincoln,RI,02865,Y,PK,12,3
+76,West Bay Collaborative,West Bay Collabo,West Bay, 144 Bignall Street, , ,Warwick,RI,02888,Y,KG,12,3
+77,East Bay Educational Collaborative,East Bay Educati,East Bay,317 Market Street, , ,Warren,RI,02885,Y,KG,12,3
+79,RISE Prep Mayoral Academy,RISE Prep Mayora,RISE,1 Social Street, , ,Woonsocket,RI,02895,Y,KF,08,2
+81,Charette Charter,Charette Charter,Charette,335 Westminster St., , ,Providence,RI,02903,Y,09,10,2
+82,Wangari Maathai Community School,Wangari Maathai,Wangari,10 Dorrance Street,Suite 800, ,Providence,RI,02903,Y,KF,08,2
+96,Bristol Warren,Bristol Warren,Bris War,151 State Street, , ,Bristol,RI,02809,Y,PK,12,1
+97,Exeter-West Greenwich,Exeter-W. Greenw,Ex-W. G.,940 Nooseneck Hill Road, , ,West Greenwich,RI,02817,Y,PK,12,1
+98,Chariho,Chariho,Chariho,455A Switch Road, , ,Wood River Junction,RI,02894,Y,PK,12,1
+99,Foster-Glocester,Foster-Glocester,Fos-Gloc,91 Anan Wade Road, , ,North Scituate,RI,02857,Y,06,12,1
+66,Dept of Corrections,Corrections,Correct,"18 Wilma Schesler Lane, D", , ,Cranston,RI,02920,Y, , ,3
+70,Out-of-State Sped School,Out-of-State, , , , , , , ,Y, , ,9
+74,RIDE Collaborators,RIDECollaborator,RIColl, , , , , , ,Y, , ,9
+80,Outplacement SpedSchools,Outplacement Sch,OutSch, , , , , , ,Y, , ,9
+90,Career and Tech Centers, , , , , , , , ,Y, , ,4

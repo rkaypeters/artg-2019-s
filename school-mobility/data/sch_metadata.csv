@@ -1,0 +1,624 @@
+SCH_CODE,SCH_NAME,SCH_NAME30,SCH_NAME15,SCH_ADD1,SCH_ADD2,SCH_CITY,SCH_STATE,SCH_ZIP,SCH_LOW_GRADE,SCH_HIGH_GRADE,SCH_STATUS,SCH_CHARTER,SCH_MAGNET,SCH_TITLE1,EFFECTIVE_START_DATE,EFFECTIVE_END_DATE,GRADECFG,DISTCODE,OPENDATE,CLOSEDATE,SCH_PK12,SCH_STATE_OPERATED,SCH_ADMINSITE
+01103,Primrose Hill School,Primrose Hill School,Primrose Hill,60 Middle Highway, ,Barrington,RI,02806,PK,03,1,N,N,Y,12/19/2002, ,E,01,12/19/2002, ,Y,N,N
+01104,Nayatt School,Nayatt School,Nayatt School,400 Nayatt Road, ,Barrington,RI,02806,PK,03,1,N,N,N,12/19/2002, ,E,01,12/19/2002, ,Y,N,N
+01105,Hampden Meadows School,Hampden Meadows School,Hampden Meadows,297 New Meadow Road, ,Barrington,RI,02806,04,05,1,N,N,N,12/19/2002, ,E,01,12/19/2002, ,Y,N,N
+01106,Barrington High School,Barrington High School,Barrington High,220 Lincoln Avenue, ,Barrington,RI,02806,09,12,1,N,N,N,12/19/2002, ,H,01,12/19/2002, ,N,N,N
+01107,West Barrington Elementary School,West Barrington School,W. Barrington,Washington Road, ,Barrington,RI,02806, , ,2,N,N,N,12/19/2002,8/1/2010, ,01,12/19/2002,8/1/2010,N,N,N
+01108,Barrington Middle School,Barrington Middle School,Barrington Mid.,261 Middle Highway, ,Barrington,RI,02806,06,08,1,N,N,Y,12/19/2002, ,M,01,12/19/2002, ,Y,N,N
+01109,Sowams Elementary School,Sowams Elementary School,Sowams School,364 Sowams Road, ,Barrington,RI,02806,KF,03,1,N,N,N,12/19/2002, ,E,01,12/19/2002, ,Y,N,N
+01110,Barrington Middle Highway Elementary School,Middle Highway Elementary,Barrington Elem,Middle Highway, ,Barrington,RI,02806, , ,2,N,N,N,12/19/2002,8/1/2010, ,01,12/19/2002,8/1/2010,N,N,N
+01111,Barrington M. School,Barrington M. School,Barrington M.,Middle Highway, ,Barrington,RI,02806, , ,2,N,N,N,12/19/2002,8/1/2010, ,01,12/19/2002,8/1/2010,N,N,N
+01190,Barrington Public Schools,Barrington Public Schools,Administration,283 County Road,PO Box 95,Barrington,RI,02806,PK,12,1,N,N,N,12/19/2002, ,EMH,01,12/19/2002, ,N,N,Y
+02101,Walley School,Walley School,Walley School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02102,Oliver School,Oliver School,Oliver School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02103,Reynolds School,Reynolds School,Reynolds School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02104,Guiteras School,Guiteras School,Guiteras School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02105,Colt-Andrews School,Colt-Andrews School,Colt-Andrews, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02106,Rockwell School,Rockwell School,Rockwell School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02107,Bristol Senior High School,Bristol High School,Bristol High, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02108,Byfield School,Byfield School,Byfield School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02109,Multi-Unit School,Multi-Unit School,Multi-Unit, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,02,12/19/2002,8/1/2010,N,N,N
+02190,Bristol Public Schools,Bristol Public Schools,Administration, , , , , ,PK,12,2,N,N,N,12/19/2002,8/1/2010,EMH,02,12/19/2002,8/1/2010,N,N,Y
+03102,Pascoag Grammar School,Pascoag School,Pascoag School,265 Sayles Avenue, ,Pascoag,RI,02859,KG,03,2,N,N,N,12/19/2002,8/1/2010, ,03,12/19/2002,8/1/2010,Y,N,N
+03103,Joseph C. Sweeney School,Joseph C. Sweeney School,Sweeney School,16 Laurel Hill Avenue, ,Pascoag,RI,02859,KG,KG,2,N,N,N,12/19/2002,8/1/2010, ,03,12/19/2002,8/1/2010,Y,N,N
+03104,Burrillville Middle School,Burrillville Middle School,Burrillville MS,2220 Broncos Highway, ,Harrisville,RI,02830,06,08,1,N,N,N,12/19/2002, ,M,03,12/19/2002, ,Y,N,N
+03105,Steere Farm Elementary School,Steere Farm Elementary School,Steere Farm,915 Steere Farm Road, ,Pascoag,RI,02859,02,05,1,N,N,Y,12/19/2002, ,E,03,12/19/2002, ,Y,N,N
+03107,William L. Callahan School,William Callahan School,Callahan School,75 Callahan School Street, ,Harrisville,RI,02830,02,05,1,N,N,Y,12/19/2002, ,E,03,12/19/2002, ,Y,N,N
+03108,Austin T. Levy School,Austin T. Levy School,Levy School,135 Harrisville Main Street, ,Harrisville,RI,02830,PK,01,1,N,N,Y,12/19/2002, ,E,03,12/19/2002, ,Y,N,N
+03109,Burrillville High School,Burrillville High School,Burrillville HS,425 East Avenue, ,Harrisville,RI,02830,09,12,1,N,N,N,12/19/2002, ,H,03,12/19/2002, ,N,N,N
+03110,Burrillville Early Childhood Center,Early Childhood Center,Early Child.,Victory Highway, ,Glendale,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,03,12/19/2002,8/1/2010,N,N,N
+03190,Burrillville Public Schools,Burrillville Public Schools,Administration,2300 Bronco Highway, ,Harrisville,RI,02830,PK,12,1,N,N,N,12/19/2002, ,EMH,03,12/19/2002, ,N,N,Y
+03701,Dr. U.E. Zambarano Hospital,Zambarano Hospital,Zambarano,Wallum Lake, ,Burrillville,RI,02884, , ,2,N,N,N,12/19/2002,8/1/2010, ,03,12/19/2002,8/1/2010,N,Y,N
+04101,Ella Risk School,Ella Risk School,Risk School,949 Dexter Street, ,Central Falls,RI,02863,KG,05,1,N,N,N,12/19/2002, ,E,04,12/19/2002, ,Y,N,N
+04102,Fairlawn/Lincoln School,Fairlawn/Lincoln School,Fairlawn,Parker Street, ,Lincoln,RI,02865, , ,2,N,N,N,12/19/2002,8/1/2010, ,04,12/19/2002,8/1/2010,N,N,N
+04103,Early Learning Center,Early Learning Center,Early Learning,24 Summer Street, ,Central Falls,RI,02863, , ,2,N,N,N,12/19/2002,8/1/2010, ,04,12/19/2002,8/1/2010,N,N,N
+04104,Capt. G. Harold Hunt School,G. Harold Hunt School,Hunt School,12 Kendall Street, ,Central Falls,RI,02863,PK,KF,1,N,N,Y,12/19/2002, ,E,04,12/19/2002, ,Y,N,N
+04105,Margaret I. Robertson School,Robertson School,Robertson,135 Hunt Street, ,Central Falls,RI,02863,05,05,2,N,N,N,12/19/2002,8/29/2012,E,04,12/19/2002,8/29/2012,Y,N,N
+04106,Veterans Memorial Elementary,Veterans Memorial Elementary,Veterans Mem.,150 Fuller Avenue, ,Central Falls,RI,02863,KF,05,1,N,N,N,12/19/2002, ,E,04,12/19/2002, ,Y,N,N
+04107,Robertson Annex at St. Patrick's School,Robertson Annex at St. Patrick,Robertson Annex,295 Broad Street, ,Cumberland,RI,02864,04,05,2,N,N,N,12/19/2002,8/1/2010, ,04,12/19/2002,8/1/2010,Y,N,N
+04108,Central Falls Senior High School,Central Falls Sr High,Central Falls,24 Summer Street, ,Central Falls,RI,02863,09,12,1,N,N,N,12/19/2002, ,H,04,12/19/2002, ,N,N,N
+04109,Alan Shawn Feinstein School,Alan Shawn Feinstein School,Alan Shawn,405 Broad Street, ,Central Falls,RI,02863,09,12,2,N,N,N,8/25/2009,10/30/2009,E,04,8/25/2009,10/30/2009,N,N,N
+04110,Cowden Street School,Cowden Street School,Cowden Street,325 Cowden Street, ,Central Falls,RI,02863,KG,01,2,N,N,Y,12/19/2002,6/23/2006,E,04,12/19/2002,6/23/2006,Y,N,N
+04114,Cowden Street School,Cowden Street School,Cowden Street,Cowden Street, ,Central Falls,RI,02863, , ,2,N,N,N,12/19/2002,8/1/2010, ,04,12/19/2002,8/1/2010,N,N,N
+04115,Dr. Earl F. Calcutt Middle School,Calcutt Middle School,Calcutt Middle,112 Washington Street, ,Central Falls,RI,02863,05,08,1,N,N,N,12/19/2002, ,M,04,12/19/2002, ,Y,N,N
+04116,Kendall Street School,Kendall Street School,Kendall Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,04,12/19/2002,8/1/2010,N,N,N
+04117,Margaret I. Robertson School,Margaret I. Robertson School,Margaret I. Rob,135 Hunt Street, ,Central Falls,RI,02863,PK,KF,1,N,N,N,8/3/2012, ,E,04,8/3/2012, ,Y,N,N
+04190,Central Falls Schools,Central Falls Schools,Administration,949 Dexter St, ,Central Falls,RI,02863,PK,12,1,N,N,N,12/19/2002, ,EMH,04,12/19/2002, ,N,N,Y
+04601,The Learning Community Charter School,The Learning Community,Learning,21 Lincoln Avenue, ,Central Falls,RI,02863,KF,08,1,Y,N,Y,9/14/2004, ,EM,59,9/14/2004, ,Y,N,N
+04602,Segue Institute for Learning,Segue Inst for Learning,Segue Ins learn,325 Cowden Street, ,Central Falls,RI,02863,05,08,1,Y,N, ,8/7/2009, ,M,46,8/7/2009, ,Y,N,N
+04603,Sheila Skip Nowell Leadership Academy (Central Cam,Sheila Skip Nowell (Central),Nowell,43 Hawes Street, ,Central Falls,RI,02863,09,12,1,Y,N, ,9/1/2013, ,H,42,9/1/2013, ,N,N,N
+06103,Washington Primary School,Washington Primary,Washington,Wood Street, ,Coventry,RI,02816, , ,2,N,N,N,12/19/2002,8/1/2010, ,06,12/19/2002,8/1/2010,N,N,N
+06104,Alan Shawn Feinstein Middle School Of Coventry,Alan Shawn Feinstein MS of Cov,Alan Shawn Cov.,15 Foster Drive, ,Coventry,RI,02816,06,08,1,N,N,N,7/16/2003, ,M,06,7/16/2003, ,Y,N,N
+06105,Little Oakers Pre-School,Little Oakers Pre-School,Little Oakers,95 Johnson Boulevard, ,Coventry,RI,02816,PK,PK,2,N,N,N,7/16/2003,7/5/2007,E,06,7/16/2003,7/5/2007,N,N,N
+06107,Quidneck School,Quidneck School,Quidneck School,Edward Street, ,Coventry,RI,02816, , ,2,N,N,N,12/19/2002,8/1/2010, ,06,12/19/2002,8/1/2010,N,N,N
+06108,Knotty Oak School,Knotty Oak School,Knotty Oak,Knotty Oak Road, ,Coventry,RI,02816, , ,2,N,N,N,12/19/2002,8/1/2010, ,06,12/19/2002,8/1/2010,N,N,N
+06109,Western Coventry School,Western Coventry School,West. Coventry,4588 Flat River Road, ,Coventry,RI,02816,KF,05,1,N,Y,N,12/19/2002, ,E,06,12/19/2002, ,Y,N,N
+06110,Washington Annex,Washington Annex,Washington,Wood Street, ,Coventry,RI,02816, , ,2,N,N,N,12/19/2002,8/1/2010, ,06,12/19/2002,8/1/2010,N,N,N
+06112,Hopkins Hill School,Hopkins Hill School,Hopkins Hill,95 Johnson Boulevard, ,Coventry,RI,02816,KF,05,1,N,N,Y,12/19/2002, ,E,06,12/19/2002, ,Y,N,N
+06114,Oak Haven School,Oak Haven School,Oak Haven,46 Pettine Street, ,Coventry,RI,02816,KG,05,2,N,N,Y,10/7/2009,10/7/2009,E,06,10/7/2009,10/7/2009,Y,N,N
+06115,Coventry Junior High School West,Coventry Jr. High West,Coventry Jr. W.,Flat River Road, ,Coventry,RI,02816, , ,2,N,N,N,12/19/2002,8/1/2010, ,06,12/19/2002,8/1/2010,N,N,N
+06116,Tiogue School,Tiogue School,Tiogue School,170 East Shore Drive, ,Coventry,RI,02816,PK,05,1,N,Y,N,12/19/2002, ,E,06,12/19/2002, ,Y,N,N
+06117,Blackrock School,Blackrock School,Blackrock,12 LaCasa Drive, ,Coventry,RI,02816,PK,05,1,N,N,Y,12/19/2002, ,E,06,12/19/2002, ,Y,N,N
+06119,Coventry High School,Coventry High School,Coventry High,40 Reservoir Road, ,Coventry,RI,02816,09,12,1,N,N,N,12/19/2002, ,H,06,12/19/2002, ,N,N,N
+06121,Washington Oak School,Washington Oak School,Washington Oak,801 Read School House Road, ,Coventry,RI,02816,PK,05,1,N,N,N,12/19/2002, ,E,06,12/19/2002, ,Y,N,N
+06122,West Bay Collaborative,West Bay Collaborative,West Bay Coll,222 MacArthur Blvd., ,Coventry,RI,02816, , ,2,N,N,N,12/19/2002,11/16/2007, ,06,12/19/2002,11/16/2007,N,N,N
+06123,The Regional Career and Technical Center at Covent,The Regional Career and Tech,Career Tech,40 Reservoir Road, ,Coventry,RI,02816,09,12,1,N,N,N,10/28/2005, ,H,06,10/28/2005, ,N,N,N
+06190,Coventry Public Schools,Coventry Public Schools,Administration,1675 Flat River Road, ,Coventry,RI,02816,PK,12,1,N,N,N,12/19/2002, ,EMH,06,12/19/2002, ,N,N,Y
+07102,Pettaconsett School,Pettaconsett School,Pettaconsett,1081 Pontiac Avenue, ,Cranston,RI,02920, , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07103,Oak Lawn School,Oak Lawn School,Oak Lawn School,36 Stoneham Street, ,Cranston,RI,02920,KF,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07104,Cranston Early Learning Center,Cranston Early Learning Center,Cranston Early,45 Sprague Avenue, ,Cranston,RI,02910,PK,PF,1,N,N, ,3/21/2016, , ,07,3/21/2016, ,N,N,N
+07105,William A. Briggs School,William A. Briggs School,Briggs School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07106,Norwood Avenue School,Norwood Avenue School,Norwood Avenue,205 Norwood Avenue, ,Cranston,RI,02905,KG,05,2,N,N,N,12/19/2002,6/30/2004,E,07,12/19/2002,6/30/2004,Y,N,N
+07107,May Westcott School,May Westcott School,May Westcott,848 Atwood Avenue, ,Cranston,RI,02920, , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07108,John W. Horton School,John W. Horton School,Horton School,1196 Park Avenue, ,Cranston,RI,02910,KG,05,2,N,N,Y,12/19/2002,6/23/2006,E,07,12/19/2002,6/23/2006,Y,N,N
+07109,Valentine Almy School,Valentine Almy School,Valentine Almy,311 Doric Avenue, ,Cranston,RI,02910, , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07110,Daniel D. Waterman School,Daniel D. Waterman School,Waterman School,722 Pontiac Avenue, ,Cranston,RI,02910,KF,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07111,Meshanticut Park School,Meshanticut Park School,Meshanticut,15 Curtis Street, ,Cranston,RI,02920, , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07112,Chester W. Barrows School,Chester W. Barrows School,Barrows School,9 Beachmont Avenue, ,Cranston,RI,02905,KF,05,1,N,N,Y,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07113,Cranston High School East,Cranston High School East,Cranston East,899 Park Avenue, ,Cranston,RI,02910,09,12,1,N,N,Y,12/19/2002, ,H,07,12/19/2002, ,N,N,N
+07114,Joseph L. Sanders School,Joseph L. Sanders School,Sanders School,41 Heath Avenue, ,Cranston,RI,02910, , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07115,Hugh B. Bain Middle School,Hugh B. Bain Middle School,Hugh B. Bain,135 Gansett Avenue, ,Cranston,RI,02910,06,08,1,N,N,N,12/19/2002, ,M,07,12/19/2002, ,Y,N,N
+07116,William R. Dutemple School,W. R. Dutemple School,Dutemple School,32 Garden Street, ,Cranston,RI,02910,KF,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07117,Edward S. Rhodes School,Edward S. Rhodes School,Rhodes School,160 Shaw Avenue, ,Cranston,RI,02905,KF,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07118,Eden Park School,Eden Park School,Eden Park,180 Oakland Avenue, ,Cranston,RI,02910,KF,05,1,N,N,Y,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07119,Gladstone Street School,Gladstone Street School,Gladstone St.,50 Gladstone Street, ,Cranston,RI,02920,KF,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07120,Stadium School,Stadium School,Stadium School,100 Crescent Avenue, ,Cranston,RI,02910,PK,05,1,N,N,Y,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07121,Woodridge School,Woodridge School,Woodridge,401 Budlong Road, ,Cranston,RI,02920,KF,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07122,Garden City School,Garden City School,Garden City,70 Plantations Drive, ,Cranston,RI,02920,PK,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07123,Park View Middle School,Park View Middle School,Park View,25 Park View Boulevard, ,Cranston,RI,02910,06,08,1,N,N,N,12/19/2002, ,M,07,12/19/2002, ,Y,N,N
+07124,George J. Peters School,George J. Peters School,Peters School,15 Mayberry Street, ,Cranston,RI,02920,KF,05,1,N,N,Y,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07125,Arlington School,Arlington School,Arlington,155 Princess Avenue, ,Cranston,RI,02920,PK,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07126,Cranston High School West,Cranston High School West,Cranston West,80 Metropolitan Avenue, ,Cranston,RI,02920,09,12,1,N,N,N,12/19/2002, ,H,07,12/19/2002, ,N,N,N
+07127,Stone Hill School,Stone Hill School,Stone Hill,21 Village Avenue, ,Cranston,RI,02920,PK,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07128,Glen Hills School,Glen Hills School,Glen Hills,50 Glen Hills Drive, ,Cranston,RI,02920,KF,05,1,N,N,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07129,Western Hills Middle School,Western Hills Middle School,Western Hills,400 Phenix Avenue, ,Cranston,RI,02920,06,08,1,N,N,N,12/19/2002, ,M,07,12/19/2002, ,Y,N,N
+07130,Edgewood Highland School,Edgewood Highland,Edgewood School,160 Pawtuxet Avenue, ,Cranston,RI,02905,PK,05,1,N,Y,N,12/19/2002, ,E,07,12/19/2002, ,Y,N,N
+07131,Western Hills Elementary,Western Hills Elementary,Western Hills,400 Phenix Avenue, ,Cranston,RI,02920, , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07132,Cranston Area Career Technical Center,Cranston Career & Tech Center,Cranston Tech,100 Metropolitan Avenue, ,Cranston,RI,02920,09,12,1,N,N,N,12/19/2002, ,H,07,12/19/2002, ,N,N,N
+07133,Cranston Pre-School,Cranston Pre-School,Cranston Pre,100 Metropolitan Avenue, ,Cranston,RI,02920, , ,2,N,N,N,12/19/2002,8/1/2010, ,07,12/19/2002,8/1/2010,N,N,N
+07134,Hope Highlands Elementary School,Hope Highlands Elementary,Hope Highlands,300 Hope Road, ,Cranston,RI,02921,PK,06,2,N,N,N,12/19/2002,8/15/2016,E,07,12/19/2002,8/15/2016,Y,N,N
+07135,NEL/CPS Construction Career Academy,NEL/CPS Construction Career,NEL/CPS,4 Sharpe Drive, ,Cranston,RI,02920,09,12,1,Y,N,N,9/8/2008, ,H,07,9/8/2008, ,N,N,N
+07136,Orchard Farms Elementary School,Orchard Farms El. School,Orchard Farms,1555 Scituate Avenue, ,Cranston,RI,02921,PK,06,1,N,N,N,12/3/2003, ,E,07,12/3/2003, ,Y,N,N
+07137,Hope Highlands Middle School,Hope Highlands Middle School,Hope Highlands,300 Hope Road, ,Cranston,RI,02921,06,08,1,N,N, ,8/15/2016, ,M,07,8/15/2016, ,Y,N,N
+07190,Cranston Public Schools,Cranston Public Schools,Administration,845 Park Avenue, ,Cranston,RI,02910,PK,12,1,N,N,N,12/19/2002, ,EMH,07,12/19/2002, ,N,N,Y
+07701,Institute of Mental Health,Institute of Mental Health,IMH,New London Avenue,Dept. of Rehab. Activities,Cranston,RI,02920, , ,2,N,N,N,12/19/2002,11/8/2007, ,07,12/19/2002,11/8/2007,N,Y,N
+07702,DCYF Alternative Education Program,DCYF Alternative Ed. Program,DCYF Alt,57 Power Road, ,Cranston,RI,02920,06,12,1,N,N,N,10/1/2010, ,MH,67,10/1/2010, ,Y,Y,N
+07704,"RI Department of Corrections, Education Unit",RI Department of Corrections,Corrections,"18 Wilma Schesler Lane, Dix Bu", ,Cranston,RI,02920,10,12,1,N,N,N,12/19/2002, , ,66,12/19/2002, ,N,Y,N
+07705,Youth Career Education Center,Youth Career Education center,Youth Career Cr,300 New London Avenue,YCEC-Maximum Security,Cranston,RI,02920, , ,2,N,N,N,12/19/2002,11/8/2007, ,07,12/19/2002,11/8/2007,N,Y,N
+08101,Valley Falls School,Valley Falls School,Valley Falls, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08102,Blackstone School,Blackstone School,Blackstone, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08103,Berkeley School,Berkeley School,Berkeley School,Martin Street, ,Cumberland,RI,02864, , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08104,Clark Street School,Clark Street School,Clark Street,Clark Street, ,Cumberland,RI,02864, , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08105,Central Grammar School,Central Grammar School,Central Grammar,Clark Street, ,Cumberland,RI,02864, , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08106,Edgemere School,Edgemere School,Edgemere School,Homestead Road, ,Cumberland,RI,02864, , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08107,B.F. Norton Elementary School,B.F. Norton Elementary School,B.F. Norton,364 Broad Street, ,Cumberland,RI,02864,KG,05,1,N,N,Y,12/19/2002, ,E,08,12/19/2002, ,Y,N,N
+08108,Garvin Memorial School,Garvin Memorial,Garvin School,1364 Diamond Hill Road, ,Cumberland,RI,02864,KG,05,1,N,N,Y,12/19/2002, ,E,08,12/19/2002, ,Y,N,N
+08109,Community School,Community School,Community,15 Arnold Mills Road, ,Cumberland,RI,02864,KG,05,1,N,N,N,12/19/2002, ,E,08,12/19/2002, ,Y,N,N
+08110,John J. McLaughlin Cumberland Hill School,John J. McLaughlin Cumberland,John J.,205 Manville Hill Road, ,Cumberland,RI,02864,KG,05,1,N,N,N,12/19/2002, ,E,08,12/19/2002, ,Y,N,N
+08111,Mendon Road School,Mendon Road School,Mendon Road,Mendon Road, ,Cumberland,RI,02864, , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08112,Ashton School,Ashton School,Ashton School,130 Scott Road, ,Cumberland,RI,02864,KG,05,1,N,N,Y,12/19/2002, ,E,08,12/19/2002, ,Y,N,N
+08114,Cumberland High School,Cumberland High School,Cumberland High,2600 Mendon Road, ,Cumberland,RI,02864,09,12,1,N,N,N,12/19/2002, ,H,08,12/19/2002, ,N,N,N
+08115,Joseph L. McCourt Middle School,Joseph L. McCourt MS,Joseph L.,45 Highland Avenue, ,Cumberland,RI,02864,06,08,1,N,N,N,12/19/2002, ,M,08,12/19/2002, ,Y,N,N
+08116,North Cumberland Middle School,North Cumberland Middle,N. Cumberland,400 Nate Whipple Highway, ,Cumberland,RI,02864,06,08,1,N,N,N,12/19/2002, ,M,08,12/19/2002, ,Y,N,N
+08117,Transitional School,Transitional School,Transitional,Mendon Road, ,Cumberland,RI,02864, , ,2,N,N,N,12/19/2002,8/1/2010, ,08,12/19/2002,8/1/2010,N,N,N
+08120,Northern RI Collaborative,Northern RI Collaborative,Northern RI Col,640 George Washington Hwy,"Building B, Suite 200",Lincoln,RI,02865,PK,12,1,N,N,N,1/20/2009, , ,75,1/20/2009, ,N,N,N
+08121,Cumberland Preschool Center,Cumberland Preschool Center,Cumberland Pre,130 Scott Road, ,Cumberland,RI,02864,PK,PK,1,N,N,N,9/9/2008, ,E,08,9/9/2008, ,N,N,N
+08190,Cumberland Public Schools,Cumberland Public Schools,Administration,2602 Mendon Road, ,Cumberland,RI,02864,PK,12,1,N,N,N,12/19/2002, ,EMH,08,12/19/2002, ,N,N,Y
+08601,Blackstone Valley Prep Elementary School,Blackstone Valley Prep,Blackstone Vall,291 Broad Street, ,Cumberland,RI,02864,KF,04,1,Y,N, ,8/7/2009, ,E,47,8/7/2009, ,Y,N,N
+08602,Blackstone Valley Prep Middle School,Blackstone Valley Prep,Blackstone Vall,909 Lonsdale, ,Central Falls,RI,02863,05,08,1,Y,N, ,7/1/2010, ,M,47,7/1/2010, ,Y,N,N
+08603,Blackstone Valley Prep Elementary 2 School,Blackstone Valley Prep E. 2,Blackstone Vall,52 Broad St., ,Cumberland,RI,02864,KF,04,1,Y,N, ,8/29/2011, ,E,47,8/29/2011, ,Y,N,N
+08604,Blackstone Valley Prep High School,Blackstone Valley Prep High,Blackstone Vall,65 Macondray St., ,Cumberland,RI,02864,09,12,1,Y,N, ,3/5/2014, ,H,47,3/5/2014, ,N,N,N
+08605,Blackstone Valley Prep Elementary 3 School,Blackstone Valley Prep Element,Blackstone Vall,3357 Mendon Rd., ,Cumberland,RI,02864,KF,03,1,Y,N, ,8/1/2015, ,E,47,8/1/2015, ,Y,N,N
+08606,Blackstone Valley Prep Middle School 2,Blackstone Valley Prep Mid2,Blackstone Vall,3 Fairlawn Way, ,Lincoln,RI,02865,05,07,1,Y,N, ,8/15/2016, ,M,47,8/15/2016, ,Y,N,N
+09101,Frenchtown Annex,Frenchtown Annex,Frenchtown,Frenchtown Road, ,East Greenwich,RI,02818, , ,2,N,N,N,12/19/2002,8/1/2010, ,09,12/19/2002,8/1/2010,N,N,N
+09102,James H. Eldredge El. School,James H. Eldredge School,Eldredge School,101 First Avenue, ,East Greenwich,RI,02818,03,05,1,N,N,Y,12/19/2002, ,E,09,12/19/2002, ,Y,N,N
+09103,Archie R. Cole Middle School,Archie R. Cole MS,Archie R. Cole,100 Cedar Avenue, ,East Greenwich,RI,02818,06,08,1,N,N,N,12/19/2002, ,M,09,12/19/2002, ,Y,N,N
+09105,Frenchtown School,Frenchtown School,Frenchtown,1100 Frenchtown Road, ,East Greenwich,RI,02818,KF,02,1,N,N,Y,12/19/2002, ,E,09,12/19/2002, ,Y,N,N
+09106,East Greenwich High School,East Greenwich High,E. Greenwich Sr,300 Avenger Drive, ,East Greenwich,RI,02818,09,12,1,N,N,N,12/19/2002, ,H,09,12/19/2002, ,N,N,N
+09107,Meadowbrook Farms School,Meadowbrook Farms School,Meadowbrook,2 Chestnut Drive, ,East Greenwich,RI,02818,PK,02,1,N,N,N,12/19/2002, ,E,09,12/19/2002, ,Y,N,N
+09108,George Hanaford School,George Hanaford School,Hanaford School,200 Middle Road, ,East Greenwich,RI,02818,03,05,1,N,N,N,12/19/2002, ,E,09,12/19/2002, ,Y,N,N
+09190,E. Greenwich Public Schools,E. Greenwich Public Schools,Administration,111 Peirce Street, ,East Greenwich,RI,02818,PK,12,1,N,N,N,12/19/2002, ,EMH,09,12/19/2002, ,N,N,Y
+09601,Nathanael Greene Potowomut Academy of Technology a,Nathanael Greene Potowomut,PATH,18 Nipsah Road, ,East Greenwich,RI,02818,PK,06,2,Y,N, ,6/29/2009,11/17/2009, ,45,6/29/2009,11/17/2009,Y,N,N
+10101,Wilson School,Wilson School,Wilson School,54 Bourne Avenue, ,Rumford,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10102,Brightridge School,Brightridge School,Brightridge,Brightridge Avenue, ,East Providence,RI,02914, , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10103,Lincoln School,Lincoln School,Lincoln School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10104,Edward R. Martin Middle School Annex,Edward R. Martin Middle Annex,Martin Annex,111 Brown Street, ,East Providence,RI,02914,PF,PF,1,N,N, ,6/13/2016, , ,10,6/13/2016, ,N,N,N
+10105,James R. D. Oldham School Annex,James R.D. Oldham School Annex,Oldham Annex,60 Bart Drive, ,Riverside,RI,02915,PF,PF,1,N,N, ,10/19/2016, , ,10,10/19/2016, ,N,N,N
+10107,Arthur E. Platt School,Arthur E. Platt School,Platt School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10109,Edward R. Martin Middle School,Edward Martin Middle,Martin Middle,111 Brown Street, ,East Providence,RI,02914,06,08,1,N,N,N,12/19/2002, ,M,10,12/19/2002, ,Y,N,N
+10110,Thompson Early Childhood Center,Thompson Early Childhood,Thompson School,215 Ferris Avenue, ,Rumford,RI,02916,PK,KG,2,N,N,N,12/19/2002,6/3/2003,E,10,12/19/2002,6/3/2003,Y,N,N
+10111,James R. D. Oldham School,James R. D. Oldham School,Oldham School,60 Bart Drive, ,Riverside,RI,02915,KF,05,1,N,N,N,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10112,East Providence High School,East Providence High,E. Prov. High,2000 Pawtucket Avenue, ,East Providence,RI,02914,09,12,1,N,N,N,12/19/2002, ,H,10,12/19/2002, ,N,N,N
+10113,Kent Heights School,Kent Heights School,Kent Heights,2680 Pawtucket Avenue, ,East Providence,RI,02914,KF,05,1,N,N,Y,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10114,Alice M. Waddington School,Waddington School,Waddington,101 Legion Way, ,Riverside,RI,02915,PK,05,1,N,N,N,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10115,Watters Annex,Watters Annex,Watters Annex,33 Hoppin Avenue, ,East Providence,RI,02915,09,12,2,N,N,N,9/1/2004,1/13/2010,H,10,9/1/2004,1/13/2010,N,N,N
+10116,Agnes B. Hennessey School,Agnes B. Hennessey School,Hennessey,75 Fort Street, ,East Providence,RI,02914,KF,05,1,N,N,Y,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10117,Emma G. Whiteknact School,Emma G. Whiteknact School,Whiteknact,261 Grosvenor Avenue, ,East Providence,RI,02914,KF,05,1,N,N,N,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10118,Grove Avenue Developmental Center,Grove Avenue Dev. Center,Grove Avenue,33 Hoppin Avenue, ,East Providence,RI,02915,09,12,2,N,N,N,12/19/2002,9/1/2004,H,10,12/19/2002,9/1/2004,N,N,N
+10119,Tristam Burges School,Tristam Burges School,Tristam Burges,1169  Broadway, ,East Providence,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10120,Union Elementary School,Union Elementary School,Union School,1320 Pawtucket Avenue, ,Rumford,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10121,Meadowcrest Early Childhood Family Center,Meadowcrest Early Childhood,Meadowcrest,60 Bart Drive, ,Riverside,RI,02915,PK,PK,2,N,N,N,12/19/2002,8/20/2013,E,10,12/19/2002,8/20/2013,N,N,N
+10122,Riverside Middle School,Riverside Middle School,Riverside Middl,179 Forbes Street, ,Riverside,RI,02915,06,08,1,N,N,N,12/19/2002, ,M,10,12/19/2002, ,Y,N,N
+10123,Silver Spring School,Silver Spring School,Silver Spring,120 Silver Spring Avenue, ,East Providence,RI,02914,KF,05,1,N,N,N,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10124,Orlo Avenue School,Orlo Avenue School,Orlo Avenue,25 Orlo Avenue, ,East Providence,RI,02914,KF,05,1,N,N,N,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10125,Myron J. Francis Elementary School,Myron J. Francis Elementary,Myron Francis,64 Bourne Avenue, ,Rumford,RI,02916,KF,05,1,N,N,N,12/19/2002, ,E,10,12/19/2002, ,Y,N,N
+10126,Rose Garden School,Rose Garden School,Rose Garden, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10127,Orchard Street School,Orchard Street School,Orchard Street,Orchard Street, ,East Providence,RI,02914, , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10128,Carlton Avenue School,Carlton Avenue School,Carlton Avenue,Carlton Avenue, ,East Providence,RI,02914, , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10129,East Providence Junior High School,East Providence Jr. High,E. Prov. Jr., , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,10,12/19/2002,8/1/2010,N,N,N
+10130,E. Providence Area Career and Technical Center,East Providence Career Tech,E. Prov. Tech,1998 Pawtucket Avenue, ,East Providence,RI,02914,09,12,1,N,N,N,12/19/2002, ,H,10,12/19/2002, ,N,N,N
+10190,E. Providence School Department,E. Providence School Dept.,Administration,145 Taunton Avenue, ,East Providence,RI,02914,PK,12,1,N,N,N,12/19/2002, ,EMH,10,12/19/2002, ,N,N,Y
+12101,Captain Isaac Paine Elementary School,Capt. Isaac Paine El. School,Paine School,160 Foster Center Road, ,Foster,RI,02825,PK,05,1,N,N,Y,12/19/2002, ,E,12,12/19/2002, ,Y,N,N
+12102,John E. Fogarty School,John E. Fogarty School,Fogarty School,Theodore Foster Drive, ,Foster,RI,02825,KG,01,2,N,N,N,12/19/2002,8/1/2010, ,12,12/19/2002,8/1/2010,Y,N,N
+12190,Foster Public Schools,Foster Public Schools,Administration,Captain Isaac Paine School,160 Foster Center Road,Foster,RI,02825,PK,05,1,N,N,N,12/19/2002, ,EMH,12,12/19/2002, ,Y,N,Y
+13101,Pinewood Park,Pinewood Park,Pinewood Park,Putnam Pike, ,Chepachet,RI,02814, , ,2,N,N,N,12/19/2002,8/1/2010, ,13,12/19/2002,8/1/2010,N,N,N
+13102,Chepachet School,Chepachet School,Chepachet,Main Street, ,Chepachet,RI,02814, , ,2,N,N,N,12/19/2002,8/1/2010, ,13,12/19/2002,8/1/2010,N,N,N
+13103,Fogarty Memorial School,Fogarty Memorial,Fogarty,736 Snake Hill Road, ,North Scituate,RI,02857,KF,05,1,N,N,N,12/19/2002, ,E,13,12/19/2002, ,Y,N,N
+13104,West Glocester Elementary,West Glocester Elementary,West Glocester,111 Reynolds Road/Rte 94, ,Chepachet,RI,02814,PK,05,1,N,N,Y,12/19/2002, ,E,13,12/19/2002, ,Y,N,N
+13190,Glocester Public Schools,Glocester Public Schools,Administration,Glocester Town Hall,1145 Putnam Pike P.O.Box B,Chepachet,RI,02814,PK,05,1,N,N,N,12/19/2002, ,EMH,13,12/19/2002, ,Y,N,Y
+15101,Jamestown School-Lawn,Jamestown School-Lawn,Jamestown-L.,55 Lawn Avenue, ,Jamestown,RI,02835,05,08,1,N,N,Y,12/19/2002, ,M,15,12/19/2002, ,Y,N,N
+15102,Jamestown School-Melrose,Jamestown School-Melrose,Jamestown-M.A.,76 Melrose Avenue, ,Jamestown,RI,02835,PK,04,1,N,N,Y,12/19/2002, ,E,15,12/19/2002, ,Y,N,N
+15190,Jamestown Public Schools,Jamestown Public Schools,Administration,76 Melrose Avenue, ,Jamestown,RI,02835,PK,12,1,N,N,N,12/19/2002, ,EMH,15,12/19/2002, ,N,N,Y
+16103,Thornton School,Thornton School,Thornton School,4 School Street, ,Johnston,RI,02919,01,05,1,N,N,Y,12/19/2002, ,E,16,12/19/2002, ,Y,N,N
+16104,George C. Calef School,George C. Calef School,Calef School,7 Waveland Street, ,Johnston,RI,02919,01,05,2,N,N,Y,12/19/2002,9/1/2007,E,16,12/19/2002,9/1/2007,Y,N,N
+16105,Alfred A. Williams School,Alfred A. Williams School,Williams School,1443 Hartford Avenue, ,Johnston,RI,02919, , ,2,N,N,N,12/19/2002,8/1/2010, ,16,12/19/2002,8/1/2010,N,N,N
+16106,Brown Avenue School,Brown Avenue School,Brown Avenue,14 Brown Avenue, ,Johnston,RI,02919,01,05,1,N,N,N,12/19/2002, ,E,16,12/19/2002, ,Y,N,N
+16108,Sarah Dyer Barnes School,Sarah Dyer Barnes School,Barnes School,24 Barnes Avenue, ,Johnston,RI,02919,KF,05,1,N,N,N,12/19/2002, ,E,16,12/19/2002, ,Y,N,N
+16109,Winsor Hill School,Winsor Hill School,Winsor Hill,100 Theresa Street, ,Johnston,RI,02919,01,05,1,N,N,N,12/19/2002, ,E,16,12/19/2002, ,Y,N,N
+16110,Graniteville School,Graniteville School,Graniteville,6 Collins Avenue, ,Johnston,RI,02919,PK,PF,1,N,N,N,12/19/2002, ,E,16,12/19/2002, ,N,N,N
+16111,Nicholas A. Ferri Middle School,Nicholas A. Ferri Middle,Ferri Middle,10 Memorial Avenue, ,Johnston,RI,02919,06,08,1,N,N,N,12/19/2002, ,M,16,12/19/2002, ,Y,N,N
+16112,Johnston Senior High School,Johnston Senior High,Johnston High,345 Cherry Hill Road, ,Johnston,RI,02919,09,12,1,N,N,N,12/19/2002, ,H,16,12/19/2002, ,N,N,N
+16113,Thornton Annex,Thornton Annex,Thornton Annex,931 Atwood Avenue, ,Johnston,RI,02919, , ,2,N,N,N,12/19/2002,8/1/2010, ,16,12/19/2002,8/1/2010,N,N,N
+16114,Early Childhood Center,Early Childhood Center,Early Child,10 Memorial Avenue, ,Johnston,RI,02919,KF,KF,1,N,N,N,12/19/2002, ,E,16,12/19/2002, ,Y,N,N
+16190,Johnston Public Schools,Johnston Public Schools,Administration,10 Memorial Avenue, ,Johnston,RI,02919,PK,12,1,N,N,N,12/19/2002, ,EMH,16,12/19/2002, ,N,N,Y
+17101,Lincoln Community School,Lincoln Community School,Linc. Community, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,17,12/19/2002,8/1/2010,N,N,N
+17102,Fairlawn Elementary,Fairlawn Elementary,Fairlawn Elem.,3 Fairlawn Way, ,Lincoln,RI,02865,PK,01,2,N,N,N,9/1/2010,9/1/2010,E,17,9/1/2010,9/1/2010,Y,N,N
+17106,Lonsdale Elementary School,Lonsdale Elementary,Lonsdale,270 River Road, ,Lincoln,RI,02865,KF,05,1,N,N,N,12/19/2002, ,E,17,12/19/2002, ,Y,N,N
+17107,Lincoln Middle School,Lincoln Middle School,Lincoln Middle,George Washington Highway, ,Lincoln,RI,02865, , ,2,N,N,N,12/19/2002,8/1/2010, ,17,12/19/2002,8/1/2010,N,N,N
+17109,Lincoln Central Elementary School,Lincoln Central Elem.,Lincoln Central,1081 Great Road, ,Lincoln,RI,02865,KF,05,1,N,N,N,12/19/2002, ,E,17,12/19/2002, ,Y,N,N
+17110,Lincoln Senior High School,Lincoln Senior High School,Lincoln High,135 Old River Road, ,Lincoln,RI,02865,09,12,1,N,N,N,12/19/2002, ,H,17,12/19/2002, ,N,N,N
+17112,Saylesville Elementary School,Saylesville Elementary,Saylesville,50 Woodland Street, ,Lincoln,RI,02865,KF,05,1,N,N,N,12/19/2002, ,E,17,12/19/2002, ,Y,N,N
+17113,Northern Lincoln Elementary School,Northern Lincoln Elem.,N. Lincoln,315 New River Road, ,Manville,RI,02838,PK,05,1,N,N,Y,12/19/2002, ,E,17,12/19/2002, ,Y,N,N
+17114,Northern Early Learning Center,Northern Early Learning Ctr,Northern,315 New River Road, ,Manville,RI,02838,PK,01,2,N,N,Y,1/28/2004,9/1/2010,E,17,1/28/2004,9/1/2010,Y,N,N
+17116,St. Patrick's School,St. Patrick's School,St. Patricks,291 Broad Street, ,Cumberland,RI,02864,06,06,2,N,N,N,12/19/2002,8/1/2010,M,17,12/19/2002,8/1/2010,Y,N,N
+17117,Lincoln Middle School,Lincoln Middle School,Lincoln Middle,152 Jenckes Hill Road, ,Lincoln,RI,02865,06,08,1,N,N,N,12/19/2002, ,M,17,12/19/2002, ,Y,N,N
+17190,Lincoln Public Schools,Lincoln Public Schools,Administration,1624 Lonsdale Avenue, ,Lincoln,RI,02865,PK,12,1,N,N,N,12/19/2002, ,EMH,17,12/19/2002, ,N,N,Y
+17701,Wm. M. Davies Jr. Career-Technical  High School,Davies Career-Tech High School,Davies Car/Tech,50 Jenckes Hill Road, ,Lincoln,RI,02865,09,12,1,N,N,N,12/19/2002, ,H,40,12/19/2002, ,N,Y,N
+18101,Wilbur and McMahon Schools,Wilbur and McMahon Schools,Wilbur McMahon,28 Commons, ,Little Compton,RI,02837,PK,08,1,N,N,Y,3/13/2009, ,EM,18,3/13/2009, ,Y,N,N
+18190,Little Compton Schools,Little Compton Schools,Administration,Wilbur & McMahon Schools,28 Commons,Little Compton,RI,02837,PK,12,1,N,N,N,12/19/2002, ,EMH,18,12/19/2002, ,N,N,Y
+19101,Oliphant School,Oliphant School,Oliphant School,West Main Road, ,Middletown,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,19,12/19/2002,8/1/2010,N,N,N
+19104,Berkeley - Peckham School,Berkeley - Peckham School,BerkeleyPeckham,Green End Avenue, ,Middletown,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,19,12/19/2002,8/1/2010,N,N,N
+19106,Aquidneck School,Aquidneck School,Aquidneck,70 Reservoir Avenue, ,Middletown,RI,02842,PK,03,1,N,N,N,12/19/2002, ,E,19,12/19/2002, ,Y,N,N
+19107,Forest Avenue School,Forest Avenue School,Forest Avenue,315 Forest Avenue, ,Middletown,RI,02842,KF,03,1,N,N,Y,12/19/2002, ,E,19,12/19/2002, ,Y,N,N
+19108,Forest Avenue II,Forest Avenue II,Forest II,26 Oliphant Lane, ,Middletown,RI,02842,KG,KG,2,N,N,N,9/25/2002,9/1/2004,E,19,9/25/2002,9/1/2004,Y,N,N
+19111,Middletown High School,Middletown High School,Middletown High,130 Valley Road, ,Middletown,RI,02842,09,12,1,N,N,N,12/19/2002, ,H,19,12/19/2002, ,N,N,N
+19112,John F. Kennedy School,John F. Kennedy School,Kennedy School,740 West Main Road, ,Middletown,RI,02842,KG,04,2,N,N,Y,7/14/2009,7/14/2009,E,19,7/14/2009,7/14/2009,Y,N,N
+19113,Elementary Annex,Elementary Annex,Elementary Anne,West Main Road, ,Middletown,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,19,12/19/2002,8/1/2010,N,N,N
+19114,Joseph H. Gaudet School,Joseph H. Gaudet School,Gaudet School,1113 Aquidneck Avenue, ,Middletown,RI,02842,05,08,1,N,N,Y,12/19/2002, ,M,19,12/19/2002, ,Y,N,N
+19115,Joseph H. Gaudet School (Lower Level),Joseph H. Gaudet Lower,Gaudet Lower,Aquidneck Avenue, ,Middletown,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,19,12/19/2002,8/1/2010,N,N,N
+19117,Joseph H. Gaudet Learning Academy,Joseph Gaudet Academy,J Gaudet LA,1113 Aquidneck Ave., ,Middletown,RI,02842,04,04,1,N,N, ,9/8/2009, ,E,19,9/8/2009, ,Y,N,N
+19190,Middletown Public Schools,Middletown Public Schools,Administration,Oliphant School,26 Oliphant Lane,Middletown,RI,02842,PK,12,1,N,N,N,12/19/2002, ,EMH,19,12/19/2002, ,N,N,Y
+20102,Narragansett Elementary School,Narragansett Elementary,Narra. Elem.,55 Mumford Road, ,Narragansett,RI,02882,PK,04,1,N,N,Y,12/19/2002, ,E,20,12/19/2002, ,Y,N,N
+20103,Narragansett Pier School,Narragansett Pier School,Narra. Pier,235 South Pier Road, ,Narragansett,RI,02882,05,08,1,N,N,N,12/19/2002, ,M,20,12/19/2002, ,Y,N,N
+20104,Narragansett High School,Narragansett High School,Narra. High,245 South Pier Road, ,Narragansett,RI,02882,09,12,1,N,N,N,12/19/2002, ,H,20,12/19/2002, ,N,N,N
+20105,Southern RI Regional Collaborative,Southern RI Collaborative,Southern RI Col,28 Caswell Street,PO Box 552,Narragansett,RI,02882, , ,2,N,N,N,12/19/2002,8/1/2010, ,20,12/19/2002,8/1/2010,N,N,N
+20190,Narragansett Public Schools,Narragansett Public Schools,Administration,25 Fifth Avenue, ,Narragansett,RI,02882,PK,12,1,N,N,N,12/19/2002, ,EMH,20,12/19/2002, ,N,N,Y
+21102,Cranston - Calvert School,Cranston - Calvert,Crans.- Calvert,15 Cranston Avenue, ,Newport,RI,02840,KF,04,2,N,N,N,7/24/2009,7/31/2013,E,21,7/24/2009,7/31/2013,Y,N,N
+21103,Carey School,Carey School,Carey School,32 Narragansett Avenue, ,Newport,RI,02840,KG,05,2,N,N,N,7/24/2009,7/24/2009,E,21,7/24/2009,7/24/2009,Y,N,N
+21104,Mumford School,Mumford School,Mumford School,Farewell Street, ,Newport,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,21,12/19/2002,8/1/2010,N,N,N
+21106,Frank E. Thompson Middle School,Frank E. Thompson Middle,Frank E.,55 Broadway, ,Newport,RI,02840,05,08,1,N,N,N,7/24/2009, ,M,21,7/24/2009, ,Y,N,N
+21107,Claiborne Pell Elementary School,Claiborne Pell Elementary,Claiborne Pell,35 Dexter Street, ,Newport,RI,02840,PK,04,1,N,N, ,7/31/2013, ,E,21,7/31/2013, ,Y,N,N
+21109,John Clarke School,John Clarke School,Clarke School,Mary Street, ,Newport,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,21,12/19/2002,8/1/2010,N,N,N
+21110,Dr. M. H. Sullivan School,Sullivan School,Sullivan School,435 Broadway, ,Newport,RI,02840,KF,04,2,N,N,N,11/24/2008,10/18/2013,E,21,11/24/2008,10/18/2013,Y,N,N
+21111,Rogers High School,Rogers High School,Rogers High,15 Wickham Road, ,Newport,RI,02840,09,12,1,N,N,N,12/19/2002, ,H,21,12/19/2002, ,N,N,N
+21112,Coggeshall School,Coggeshall School,Coggeshall,134 Van Zandt Avenue, ,Newport,RI,02840,KF,04,2,N,N,N,7/24/2009,7/31/2013,E,21,7/24/2009,7/31/2013,Y,N,N
+21113,The Pell Annex @ John F. Kennedy School,The Pell Annex @ John F. Kenne,The Pell Annex,740 West Main Road, ,Middletown,RI,02842,PK,PF,1,N,N, ,3/21/2016, , ,21,3/21/2016, ,N,N,N
+21114,William J. Underwood School,Underwood School,Underwood,90 Harrison Avenue, ,Newport,RI,02840,PK,04,2,N,N,Y,7/24/2009,7/31/2013,E,21,7/24/2009,7/31/2013,Y,N,N
+21115,Underwood Annex,Underwood Annex,Underwood Annex,Harrison Avenue, ,Newport,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,21,12/19/2002,8/1/2010,N,N,N
+21116,Pell School,Pell School,Pell School,Bellevue Avenue, ,Newport,RI,02840, , ,2,N,N,N,12/19/2002,8/1/2010, ,21,12/19/2002,8/1/2010,N,N,N
+21117,Newport Area Career and Technical Center,Newport Area Career Tech Ctr,Newport Tech,15 Wickham Rd, ,Newport,RI,02840,09,12,1,N,N,N,12/19/2002, ,H,21,12/19/2002, ,N,N,N
+21120,George H. Triplett School,George H. Triplett School,G. H. Triplett,437 Broadway, ,Newport,RI,02840,PK,PK,2,N,N,N,12/19/2002,8/1/2010,PK,21,12/19/2002,8/1/2010,N,N,N
+21190,Newport Public Schools,Newport Public Schools,Administration,15 Wickham Road, ,Newport,RI,02840,PK,12,1,N,N,N,12/19/2002, ,EMH,21,12/19/2002, ,N,N,Y
+22101,Block Island School,Block Island School,Block Island,Block Island School,High Street,Block Island,RI,02807,KF,12,1,N,N,Y,12/19/2002, ,EMH,22,12/19/2002, ,Y,N,N
+22190,New Shoreham Public Schools,New Shoreham Public Schools,Administration,Block Island School,High Street,Block Island,RI,02807,KF,12,1,N,N,N,12/19/2002, ,EH,22,12/19/2002, ,Y,N,Y
+23105,Wickford Middle School,Wickford Middle School,Wickford Middle,250 Tower Hill Road, ,North Kingstown,RI,02852,06,08,1,N,N,N,12/19/2002, ,M,23,12/19/2002, ,Y,N,N
+23106,Southern RI Educational Collaborative,Southern RI Educational Coll,Southern RI,646 Camp Avenue, ,North Kingstown,RI,02852,KG,12,2,N,N,N,12/19/2002,8/8/2011,H,78,12/19/2002,8/8/2011,Y,N,N
+23107,Davisville Elementary School,Davisville School,Davisville,50 East Court, ,North Kingstown,RI,02852,PK,03,2,N,N,N,9/14/2010,9/14/2010,E,23,9/14/2010,9/14/2010,Y,N,N
+23108,North Kingstown Senior High School,North Kingstown Sr. High,N. Kings. High,150 Fairway Drive, ,North Kingstown,RI,02852,09,12,1,N,N,N,12/19/2002, ,H,23,12/19/2002, ,N,N,N
+23109,Fishing Cove Elementary School,Fishing Cove El. School,Fishing Cove,110 Wickford Point Road, ,North Kingstown,RI,02852,PK,05,1,N,N,N,12/19/2002, ,E,23,12/19/2002, ,Y,N,N
+23110,Forest Park Elementary School,Forest Park El. School,Forest Park,50 Woodlawn Drive, ,North Kingstown,RI,02852,KF,05,1,N,N,N,12/19/2002, ,E,23,12/19/2002, ,Y,N,N
+23111,Hamilton Elementary School,Hamilton School,Hamilton School,25 Salisbury Avenue, ,North Kingstown,RI,02852,KF,05,1,N,N,N,12/19/2002, ,E,23,12/19/2002, ,Y,N,N
+23112,Davisville Middle School,Davisville Middle School,Davisville Mid.,200 School Street, ,North Kingstown,RI,02852,06,08,1,N,N,N,12/19/2002, ,M,23,12/19/2002, ,Y,N,N
+23113,Suzanne M. Henseler Quidnessett Elementary School,Suzanne M. Henseler Quidnesset,Suzanne M.,166 Mark Drive, ,North Kingstown,RI,02852,KF,05,1,N,N,Y,8/28/2008, ,E,23,8/28/2008, ,Y,N,N
+23114,Stony Lane Elementary School,Stony Lane El. School,Stony Lane,825 Stony Lane, ,North Kingstown,RI,02852,KF,05,1,N,N,N,12/19/2002, ,E,23,12/19/2002, ,Y,N,N
+23190,N. Kingstown Public Schools,N. Kingstown Public Schools,Administration,100 Romano Vineyard Way,Ste. 120,North Kingstown,RI,02585,PK,12,1,N,N,N,12/19/2002, ,EMH,23,12/19/2002, ,N,N,Y
+23601,The Compass School,The Compass School,Compass,537 Old North Road, ,Kingston,RI,02881,KF,08,1,Y,N,Y,10/15/2002, ,EM,55,10/15/2002, ,Y,N,N
+24103,Marieville Elementary School,Marieville School,Marieville,1135 Mineral Spring Avenue, ,North Providence,RI,02904,KG,05,1,N,N,Y,12/19/2002, ,E,24,12/19/2002, ,Y,N,N
+24104,E. A. Brayton School,E. A. Brayton School,Brayton School,2 Thomas Street, ,North Providence,RI,02911, , ,2,N,N,N,12/19/2002,8/1/2010, ,24,12/19/2002,8/1/2010,N,N,N
+24105,North Providence High School,North Providence High,N. Prov. High,1828 Mineral Spring Avenue, ,North Providence,RI,02904,09,12,1,N,N,N,12/19/2002, ,H,24,12/19/2002, ,N,N,N
+24106,Stephen Olney School,Stephen Olney School,Olney School,622 Woonasquatucket Avenue, ,North Providence,RI,02911,KG,05,1,N,N,N,12/19/2002, ,E,24,12/19/2002, ,Y,N,N
+24107,James L. McGuire School,James L. McGuire School,McGuire School,7 Waveland Street, ,Johnston,RI,02919,KG,05,1,N,N,Y,12/19/2002, ,E,24,12/19/2002, ,Y,N,N
+24108,Dr. Joseph A Whelan Elementary School,Joseph A. Whelan School,Whelan School,1440 Mineral Spring Avenue, ,North Providence,RI,02904,KG,05,1,N,N,N,12/19/2002, ,E,24,12/19/2002, ,Y,N,N
+24109,Centredale School,Centredale School,Centredale,41 Angell Avenue, ,North Providence,RI,02911,PK,05,1,N,N,Y,12/19/2002, ,E,24,12/19/2002, ,Y,N,N
+24110,Greystone School,Greystone School,Greystone,100 Morgan Avenue, ,North Providence,RI,02911,PK,05,1,N,N,Y,12/19/2002, ,E,24,12/19/2002, ,Y,N,N
+24111,Dr. Edward A. Ricci Middle School,Dr. Edward Ricci School,Ricci School,51 Intervale Avenue, ,North Providence,RI,02911,06,08,1,N,N,N,12/19/2002, ,M,24,12/19/2002, ,Y,N,N
+24112,Birchwood Middle School,Birchwood Middle School,Birchwood,10 Birchwood Drive, ,North Providence,RI,02904,06,08,1,N,N,N,12/19/2002, ,M,24,12/19/2002, ,Y,N,N
+24113,Presentation School,Presentation School,Presentation, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,24,12/19/2002,8/1/2010,N,N,N
+24190,N. Providence School Department,N. Providence School Dept.,Administration,2240 Mineral Spring Avenue, ,North Providence,RI,02911,PK,12,1,N,N,N,12/19/2002, ,EMH,24,12/19/2002, ,N,N,Y
+25101,Union Village School,Union Village School,Union Village,Woonsocket Hill Road, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,25,12/19/2002,8/1/2010,N,N,N
+25102,St. Paul Street School,St. Paul Street School,St. Paul Street,St. Paul Street, ,Woonsocket,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,25,12/19/2002,8/1/2010,N,N,N
+25104,Bushee School,Bushee School,Bushee School,Smithfield Road, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,25,12/19/2002,8/1/2010,N,N,N
+25105,Eleanor Howard Kindergarten,Howard Kindergarten,Eleanor Howard, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,25,12/19/2002,8/1/2010,N,N,N
+25106,Dr. Harry L. Halliwell Memorial School,Dr. Halliwell School,Halliwell,358 Victory Highway, ,North Smithfield,RI,02896,04,05,1,N,N,Y,12/19/2002, ,E,25,12/19/2002, ,Y,N,N
+25107,North Smithfield Junior High School,North Smithfield Junior HS,N. Smithfield,412 Greenville Road, ,North Smithfield,RI,02896,07,08,2,N,N,N,8/25/2003,6/30/2004,M,25,8/25/2003,6/30/2004,Y,N,N
+25108,North Smithfield High School,North Smitfield HS,N. Smithfield,412 Greenville Road, ,North Smithfield,RI,02896,09,12,1,N,N,N,7/25/2008, ,H,25,7/25/2008, ,N,N,N
+25109,North Smithfield Middle School,North Smithfield MS,N. Smithfield M,1850 Providence Pike, ,North Smithfield,RI,02896,06,08,1,N,N, ,9/2/2008, ,M,25,9/2/2008, ,Y,N,N
+25110,North Smithfield Elementary School,North Smithfield Elementary,N. Smith. Elem.,2214 Providence Pike, ,North Smithfield,RI,02896,PK,03,1,N,N,Y,12/19/2002, ,E,25,12/19/2002, ,Y,N,N
+25190,N. Smithfield Schools,N. Smithfield Schools,Administration,1850 Providence Pike, ,North Smithfield,RI,02896,PK,12,1,N,N,N,12/19/2002, ,EMH,25,12/19/2002, ,N,N,Y
+26101,Joseph Jenks Vocational School,Joseph Jenks Vocational,Jenks Voc,302 Broadway, ,Pawtucket,RI,02860, , ,2,N,N,N,12/19/2002,8/1/2010, ,26,12/19/2002,8/1/2010,N,N,N
+26103,Joseph Jenks Middle School,Joseph Jenks Middle School,Jenks Middle,350 Division Street, ,Pawtucket,RI,02860,06,08,1,N,N,N,12/19/2002, ,M,26,12/19/2002, ,Y,N,N
+26105,William E Tolman Senior High School,William E. Tolman High,Tolman High,150 Exchange Street, ,Pawtucket,RI,02860,09,12,1,N,N,Y,12/19/2002, ,H,26,12/19/2002, ,N,N,N
+26106,Samuel Slater Middle School,Samuel Slater Middle School,Slater Middle,281 Mineral Spring Avenue, ,Pawtucket,RI,02860,06,08,1,N,N,N,12/19/2002, ,M,26,12/19/2002, ,Y,N,N
+26107,Lyman B. Goff Middle School,Lyman B. Goff Middle School,Lyman B. Goff,974 Newport Avenue, ,Pawtucket,RI,02861,06,08,1,N,N,Y,12/19/2002, ,M,26,12/19/2002, ,Y,N,N
+26109,Jacqueline M. Walsh School for the Performing and,Jacqueline M. Walsh School,Jacqueline,350 Divison Street, ,Pawtucket,RI,02860,09,12,1,N,N, ,8/28/2008, ,H,26,8/28/2008, ,N,N,N
+26110,Potter-Burns School,Potter-Burns School,Potter-Burns,973 Newport Avenue, ,Pawtucket,RI,02861,KF,05,1,N,N,Y,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26111,Nathanael Greene School,Nathanael Greene School,Greene School,"285 Smithfield Ave  Pawtucket,", ,Pawtucket,RI,02861,PF,05,1,N,N,Y,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26113,Fallon Memorial School,Fallon Memorial School,Fallon School,62 Lincoln Avenue, ,Pawtucket,RI,02861,PK,05,1,N,N,N,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26115,Flora S. Curtis Memorial School,Flora S. Curtis School,Curtis School,582 Benefit Street, ,Pawtucket,RI,02861,PK,05,1,N,N,Y,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26116,Curvin-McCabe School,Curvin-McCabe School,Curvin-McCabe,466 Cottage Street, ,Pawtucket,RI,02861,KF,05,1,N,N,Y,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26118,Charles E. Shea High School,Charles E. Shea High School,Shea High,485 East Avenue, ,Pawtucket,RI,02860,09,12,1,N,N,N,12/19/2002, ,H,26,12/19/2002, ,N,N,N
+26119,Henry J. Winters School,Henry J. Winters School,Winters School,481 Broadway, ,Pawtucket,RI,02860,KF,05,1,N,N,Y,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26120,Elizabeth Baldwin School,Elizabeth Baldwin School,Baldwin School,50 Whitman Street, ,Pawtucket,RI,02860,KF,05,1,N,N,N,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26121,M. Virginia Cunningham School,Cunningham School,Cunningham,40 Baldwin Street, ,Pawtucket,RI,02860,KF,05,1,N,N,N,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26122,Agnes E. Little School,Agnes E. Little School,Little School,60 South Bend Street, ,Pawtucket,RI,02860,KF,05,1,N,N,Y,9/22/2009, ,E,26,9/22/2009, ,Y,N,N
+26123,Anna J. Burns School,Anna J. Burns School,Burns School,500 Prospect Street, ,Pawtucket,RI,02860, , ,2,N,N,N,12/19/2002,8/1/2010, ,26,12/19/2002,8/1/2010,N,N,N
+26124,Newport Avenue School,Newport Avenue School,Newport Avenue, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,26,12/19/2002,8/1/2010,N,N,N
+26125,Francis J. Varieur School,Francis J. Varieur School,Varieur School,486 Pleasant Street, ,Pawtucket,RI,02860,KF,06,1,N,N,Y,12/19/2002, ,E,26,12/19/2002, ,Y,N,N
+26126,Webster Street School,Webster Street School,Webster Street,43 Webster Street, ,Pawtucket,RI,02860,04,06,2,N,Y,N,12/19/2002,9/8/2003,E,26,12/19/2002,9/8/2003,Y,N,N
+26190,Pawtucket Public Schools,Pawtucket Public Schools,Administration,286 Main Street,PO Box 388,Pawtucket,RI,02860,PK,12,1,N,N,N,12/19/2002, ,EMH,26,12/19/2002, ,N,N,Y
+26601,International Charter School,International Charter School,International,334 Pleasant Street, ,Pawtucket,RI,02860,KF,05,1,Y,N,N,12/19/2002, ,E,53,12/19/2002, ,Y,N,N
+26602,Blackstone Academy Charter School,Blackstone Academy Charter,Blackstone,334 Pleasant Street, ,Pawtucket,RI,02860,09,12,1,Y,N,N,10/15/2002, ,H,54,10/15/2002, ,N,N,N
+27101,Henry F. Anthony School,Henry F. Anthony School,Anthony School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,27,12/19/2002,8/1/2010,N,N,N
+27103,Prudence Island School,Prudence Island School,Prudence Island,0395 Broadway, ,Prudence Island,RI,02872,KG,05,2,N,N,N,10/22/2009,10/22/2009,E,27,10/22/2009,10/22/2009,Y,N,N
+27104,Howard Hathaway School,Howard Hathaway School,Hathaway School,53 Tallman Avenue, ,Portsmouth,RI,02871,KF,04,1,N,N,Y,12/19/2002, ,E,27,12/19/2002, ,Y,N,N
+27105,Joseph Coggeshall School,Joseph Coggeshall School,Coggeshall,East Main Road, ,Portsmouth,RI,02871, , ,2,N,N,N,12/19/2002,8/1/2010, ,27,12/19/2002,8/1/2010,N,N,N
+27106,Portsmouth High School,Portsmouth High School,Portsmouth High,120 Education Lane, ,Portsmouth,RI,02871,09,12,1,N,N,N,12/19/2002, ,H,27,12/19/2002, ,N,N,N
+27111,Melville Elementary School,Melville School,Melville School,1351 West Main Road, ,Portsmouth,RI,02871,PK,04,1,N,N,Y,4/27/2011, ,E,27,4/27/2011, ,Y,N,N
+27112,Portsmouth Middle School,Portsmouth Middle School,Portsmouth Mid.,125 Jepson Lane, ,Portsmouth,RI,02871,05,08,1,N,N,N,12/19/2002, ,M,27,12/19/2002, ,Y,N,N
+27113,Portsmouth Middle School,Portsmouth Middle School,Portsmouth Midd,125 Jepson Lane, ,Portsmouth,RI,02871, , ,2,N,N,N,12/19/2002,8/1/2010, ,27,12/19/2002,8/1/2010,N,N,N
+27115,Elmhurst School,Elmhurst School,Elmhurst School,1 Frank Coelho Drive, ,Portsmouth,RI,02871,PK,05,2,N,N,N,8/12/2010,8/12/2010,E,27,8/12/2010,8/12/2010,Y,N,N
+27116,East Bay Educational Collaborative,East Bay Educational Collab,East Bay Coll,PO Box 754, ,Portsmouth,RI,02871, , ,2,N,N,N,12/19/2002,8/1/2010, ,27,12/19/2002,8/1/2010,N,N,N
+27190,Portsmouth Public Schools,Portsmouth Public Schools,Administration,29 Middle Road,Administration Building,Portsmouth,RI,02871,PK,12,1,N,N,N,12/19/2002, ,EMH,27,12/19/2002, ,N,N,Y
+28102,West Broadway Elementary School,West Broadway El. School,W. Broadway,152 Springfield Street, ,Providence,RI,02909,PK,05,2,N,N,N,8/11/2011,8/11/2011,E,28,8/11/2011,8/11/2011,Y,N,N
+28103,Leviton Dual Language School,Leviton Dual Language School,Leviton Dual,65 Greenwich Street, ,Providence,RI,02907,KF,05,1,N,N,N,4/27/2011, ,E,28,4/27/2011, ,Y,N,N
+28104,Charles Fortes Annex,Charles Fortes Annex,Charles,65 Greenwich Street, ,Providence,RI,02907,PK,01,2,N,N,N,4/27/2011,8/11/2011,E,28,4/27/2011,8/11/2011,Y,N,N
+28105,Willow Street School,Willow Street School,Willow Street,99 Willow Street, ,Providence,RI,02909, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28106,Frank D. Spaziano Elementary School Annex,Frank D. Spaziano Annex,Spaziano Annex,240 Laban Street, ,Providence,RI,02909,KF,01,1,N,N,N,12/10/2009, ,E,28,12/10/2009, ,Y,N,N
+28108,Vineyard Street School,Vineyard Street School,Vineyard Street,15 Vineyard Street, ,Providence,RI,02907, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28109,Smith Street School,Smith Street School,Smith Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28111,Educare I,Educare I,Educare I,770 Westminster Street, ,Providence,RI,02903,09,12,2,N,N,N,9/23/2004,10/22/2009,H,28,9/23/2004,10/22/2009,N,N,N
+28112,Academy Avenue School,Academy Avenue School,Academy Avenue,36 Academy Avenue, ,Providence,RI,02903, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28113,Dr. Jorge Alvarez High School,Dr. Jorge Alvarez HS,Dr. Jorge,375 Adelaide Avenue, ,Providence,RI,02907,09,12,1,N,N,N,7/15/2005, ,H,28,7/15/2005, ,N,N,N
+28114,Almy Street School,Almy Street School,Almy Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28115,Asa Messer Elementary School,Asa Messer El. School,Asa Messer,1655 Westminster Street, ,Providence,RI,02909,PK,04,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28116,Alan Shawn Feinstein Elementary at Broad Street,Alan Shawn Feinstein Elem.,Alan Shawn,1450 Broad Street, ,Providence,RI,02905,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28117,Mt. Pleasant Avenue Elementary School,Mt. Pleasant Avenue School,Mt. Pleasant,1246 Chalkstone Avenue, ,Providence,RI,02908, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28118,Manton Avenue School,Manton Avenue School,Manton Avenue, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28119,Newcomer Academy,Newcomer Academy,Newcomer,101 Sessions Street, ,Providence,RI,02906,07,12,2,N,N, ,9/17/2004,7/3/2006, ,28,9/17/2004,7/3/2006,Y,N,N
+28120,Berkshire Street School,Berkshire Street School,Berkshire St., , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28121,"Alfred Lima, Sr. Elementary School","Alfred Lima, Sr. El School",Alfred Limas,222 Daboll Street, ,Providence,RI,02907,02,05,1,N,N,N,4/27/2011, ,E,28,4/27/2011, ,Y,N,N
+28122,Charles N. Fortes Elementary School,Charles N. Fortes Academy,Charles Fortes,234 Daboll Street, ,Providence,RI,02907,PK,01,1,N,N,N,10/13/2009, ,E,28,10/13/2009, ,Y,N,N
+28124,Sisson Street School,Sisson Street School,Sisson Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28125,Ralph Street School,Ralph Street School,Ralph Street,77 Ralph Street, ,Providence,RI,02909, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28126,Francis J. Crowley School,Francis J. Crowley School,Crowley School,101 Regent Avenue, ,Providence,RI,02908, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28127,Webster Avenue School,Webster Avenue School,Webster Avenue,191 Webster Avenue, ,Providence,RI,02909,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28128,Lexington Avenue School,Lexington Avenue School,Lexington Ave.,51 Lexington Avenue, ,Providence,RI,02907, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28130,Veazie Street School,Veazie Street School,Veazie Street,211 Veazie Street, ,Providence,RI,02904,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28131,Birch Vocational Center,Birch Vocational,Birch Voc,434 Mt. Pleasant Avenue, ,Providence,RI,02908,09,12,2,N,N,N,12/19/2002,7/31/2013,H,28,12/19/2002,7/31/2013,N,N,N
+28132,Jenkins Street School,Jenkins Street School,Jenkins Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28133,Samuel W. Bridgham School,Samuel W. Bridgham School,Bridgham School,359 Carpenter Street, ,Providence,RI,02909, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28134,Frank D. Spaziano Elementary School,Frank D. Spaziano Elem School,Frank Spaziano,85 Laurel Hill Avenue, ,Providence,RI,02909,02,05,1,N,N,N,12/10/2009, ,E,28,12/10/2009, ,Y,N,N
+28135,George J. West Elementary School,George J. West El. School,West School,145 Beaufort Street, ,Providence,RI,02908,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28136,John Howland School,John Howland School,Howland School,120 Cole Avenue, ,Providence,RI,02906, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28137,Esek Hopkins Middle School,Esek Hopkins Middle,Hopkins Middle,480 Charles Street, ,Providence,RI,02904,06,08,1,N,N,N,12/19/2002, ,M,28,12/19/2002, ,Y,N,N
+28138,Robert F. Kennedy Elementary School,Robert F. Kennedy El. School,Kennedy School,195 Nelson Street, ,Providence,RI,02908,PK,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28139,Central High School,Central High School,Central High,70 Fricker Street, ,Providence,RI,02903,09,12,1,N,N,N,12/19/2002, ,H,28,12/19/2002, ,N,N,N
+28140,Carl G. Lauro Elementary School,Carl G. Lauro El. School,Lauro School,99 Kenyon Street, ,Providence,RI,02903,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28141,Summit Avenue School,Summit Avenue School,Summit Avenue,86 Fourth Street, ,Providence,RI,02906, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28142,Reservoir Avenue School,Reservoir Avenue School,Reservoir Ave.,156 Reservoir Avenue, ,Providence,RI,02907,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28143,Nathan Bishop Middle School,Nathan Bishop Middle,Bishop Middle,101 Sessions Street, ,Providence,RI,02906,06,08,1,N,N, ,7/10/2009, ,M,28,7/10/2009, ,Y,N,N
+28144,Gilbert Stuart Middle School,Gilbert Stuart Middle School,Stuart School,188 Princeton Avenue, ,Providence,RI,02907,06,08,1,N,N,N,12/19/2002, ,M,28,12/19/2002, ,Y,N,N
+28145,Nathanael Greene Middle School,Nathanael Greene Middle,Greene Middle,721 Chalkstone Avenue, ,Providence,RI,02908,06,08,1,N,N,N,12/19/2002, ,M,28,12/19/2002, ,Y,N,N
+28146,Oliver Hazard Perry Middle School,Perry Middle School,Perry Middle,370 Hartford Avenue, ,Providence,RI,02909,06,08,2,N,N,N,8/23/2010,8/23/2010,M,28,8/23/2010,8/23/2010,Y,N,N
+28147,Roger Williams Middle School,Roger Williams Middle,Williams Middle,278 Thurbers Avenue, ,Providence,RI,02905,06,08,1,N,N,N,12/19/2002, ,M,28,12/19/2002, ,Y,N,N
+28148,Windmill Street Elementary School,Windmill Street El. School,Windmill Street,110 Paul Street, ,Providence,RI,02904,KG,05,2,N,N,N,8/11/2011,8/11/2011,E,28,8/11/2011,8/11/2011,Y,N,N
+28149,Hope High School,Hope High School,Hope High,324 Hope Street, ,Providence,RI,02906,09,12,1,N,N,N,8/1/2012, ,H,28,8/1/2012, ,N,N,N
+28150,Mount Pleasant High School,Mount Pleasant High,Mount Pleasant,434 Mt. Pleasant Avenue, ,Providence,RI,02908,09,12,1,N,N,N,8/8/2007, ,H,28,8/8/2007, ,N,N,N
+28151,Vartan Gregorian Elementary School,Vartan Gregorian El. School,Gregorian,455 Wickenden St., ,Providence,RI,02903,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28152,Providence Career and Technology High School,Providence Career and Tech HS,Prov Career,29 Bainbridge Avenue, ,Providence,RI,02909,09,12,2,N,N,N,12/19/2002,10/16/2008,H,28,12/19/2002,10/16/2008,N,N,N
+28153,William D'Abate Elementary School,William D'Abate Elem. School,D'Abate School,60 Kossuth Street, ,Providence,RI,02909,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28154,Reservoir Annex,Reservoir Annex,Reservoir Annx,Central YMCA,160 Broad Street,Providence,RI,02903,PK,01,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,Y,N,N
+28156,"Robert L Bailey IV, Elementary School","Robert L. Bailey, IV",Robert Bailey,65 Gordon Avenue, ,Providence,RI,02905,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28157,"Lillian Feinstein Elementary, Sackett Street",Lillian Feinstein El. School,Lillian Fein,159 Sackett Street, ,Providence,RI,02907,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28158,Edmund W. Flynn Elementary School,Edmund W. Flynn El. School,Flynn School,220 Blackstone Street, ,Providence,RI,02905,KG,05,2,N,N,N,8/11/2011,8/11/2011,E,28,8/11/2011,8/11/2011,Y,N,N
+28159,Asa Messer Annex,Asa Messer Annex,A. Messer Annex,245 Althea Street, ,Providence,RI,02909,KG,01,2,N,N,N,8/11/2011,8/11/2011,E,28,8/11/2011,8/11/2011,Y,N,N
+28160,Mary E. Fogarty Elementary School,Mary E. Fogarty El. School,Fogarty School,199 Oxford Street, ,Providence,RI,02905,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28161,Harry Kizirian Elementary School,Harry Kizirian Elementary,Harry Kizirian,60 Camden Avenue, ,Providence,RI,02908,KF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28162,"The Sgt. Cornel Young, Jr & Charlotte Woods Elemen",Cornel Young & Charlotte Woods,CornelCharlotte,674 Prairie Avenue, ,Providence,RI,02905,PK,05,1,N,N,N,8/11/2011, ,E,28,8/11/2011, ,Y,N,N
+28163,"Dr. Martin Luther King, Jr. Elementary School",Martin Luther King El. School,King School,35 Camp Street, ,Providence,RI,02906,PF,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28164,Classical High School,Classical High School,Classical High,770 Westminster Street, ,Providence,RI,02903,09,12,1,N,N,N,12/19/2002, ,H,28,12/19/2002, ,N,N,N
+28165,Pleasant View School,Pleasant View School,Pleasant View,50 Obediah Brown Road, ,Providence,RI,02909,PK,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28167,Urban Collaborative Accelerated Program,Urban Collaborative Program,Urban Col,75 Carpenter Street, ,Providence,RI,02903,07,09,1,N,N,N,6/26/2009, ,M,49,6/26/2009, ,Y,N,N
+28168,Alternate Learning Project,Alternate Learning Project,ALP,582 Elmwood Avenue, ,Providence,RI,02907,09,12,2,N,N, ,12/19/2002,7/3/2006, ,28,12/19/2002,7/3/2006,N,N,N
+28169,KIP - RIC,KIP - RIC,KIP - RIC, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28170,Times2 Academy,Times2 Academy,Times2,50 Fillmore Street, ,Providence,RI,02908,KF,12,1,Y,N,N,12/19/2002, ,EMH,28,12/19/2002, ,Y,N,N
+28172,Samuel W. Bridgham Middle School,Samuel W. Bridgham Middle,Bridgham Middle,1655 Westminster Street, ,Providence,RI,02909,06,08,2,N,N,N,8/11/2011,8/11/2011,M,28,8/11/2011,8/11/2011,Y,N,N
+28173,West Broadway Elementary School,West Broadway Elementary,West Broadway, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28174,Miner St. School,Miner St. School,Miner St.,20 Miner Street, ,Providence,RI,02904,KG,KG,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,Y,N,N
+28176,Windmill Intermediate School,Windmill Intermediate,Windmill,110 Paul Street, ,Providence,RI,02904, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28177,Prov. Sp. Ed. Home Instruction Register,Sp. Ed. H.I. Register,Sp. Ed. H.I.,797 Westminster Street, ,Providence,RI,02903, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,N,N
+28178,Academy for Career Exploration (ACES),Academy for Career Exploration,ACES,155 Harrison Street, ,Providence,RI,02907,09,12,1,Y,N,N,4/20/2010, ,H,28,4/20/2010, ,N,N,N
+28179,Feinstein High School,Feinstein High School,Feinstein,544 Elmwood Avenue, ,Providence,RI,02907,09,12,2,N,N,N,8/23/2010,8/23/2010,H,28,8/23/2010,8/23/2010,N,N,N
+28180,"Sergeant Cornel Young, Jr. Elementary School","Sergeant Cornel Young, Jr.",Sergeant Cornel,674 Prairie Avenue, ,Providence,RI,02905,PK,05,2,N,N,N,8/24/2011,8/24/2011,E,28,8/24/2011,8/24/2011,Y,N,N
+28181,Anthony Carnevale Elementary School,Anthony Carnevale Elementary,Anthony,50 Springfield Street, ,Providence,RI,02909,PK,05,1,N,N,N,12/19/2002, ,E,28,12/19/2002, ,Y,N,N
+28182,Governor Christopher DelSesto Middle School,Governor Christopher DelSesto,Governor Chris,152 Springfield Street, ,Providence,RI,02909,06,08,1,N,N,N,8/21/2008, ,M,28,8/21/2008, ,Y,N,N
+28186,Harrison Street High School,Harrison St High School,Harrison St,155 Harrison Street, ,Providence,RI,02907,09,11,2,N,N, ,8/6/2003,9/8/2005, ,28,8/6/2003,9/8/2005,N,N,N
+28187,E-Cubed Academy,E-Cubed Academy,E-Cubed,812 Branch Avenue, ,Providence,RI,02904,09,12,1,N,N,N,8/3/2004, ,H,28,8/3/2004, ,N,N,N
+28188,Providence Academy of International Studies,Providence Academy,Prov. Academy,182 Thurbers Avenue, ,Providence,RI,02905,09,12,2,N,N,N,8/11/2011,8/11/2011,H,28,8/11/2011,8/11/2011,N,N,N
+28189,"William B. Cooley, Sr. High School and the Provide",W B Cooley & Acad Internationa,Cooley/Internat,182 Thurbers Avenue, ,Providence,RI,02905,09,12,1,N,N,N,3/13/2009, ,H,28,3/13/2009, ,N,N,N
+28190,Providence Public Schools,Providence Public Schools,Administration,797 Westminster Street, ,Providence,RI,02903,PK,12,1,N,N,N,5/12/2009, ,EMH,28,5/12/2009, ,N,N,Y
+28191,DelSesto High School,DelSesto High School,DelSesto HS,152 Springfield Street, ,Providence,RI,02909,09,12,2,N,N,N,7/15/2005,6/30/2007,H,28,7/15/2005,6/30/2007,N,N,N
+28192,Academy of Service,Academy of Service,Academy,425 Branch Avenue, ,Providence,RI,02904,09,12,2,N,N,N,7/14/2006,10/22/2009,H,28,7/14/2006,10/22/2009,N,N,N
+28193,Providence Career and Technical Academy,Providence Career Technical,P Career Tech,41 Fricker street, ,Providence,RI,02903,09,12,1,N,N, ,10/16/2008, ,H,28,10/16/2008, ,N,N,N
+28194,West Broadway Middle School,West Broadway Middle School,West Broadway,29 Bainbridge Avenue, ,Providence,RI,02909,05,08,1,N,N, ,7/30/2014, ,M,28,7/30/2014, ,Y,N,N
+28195,360 High School,360 High School,360 High School,182 Thurbers Avenue, ,Providence,RI,02905,09,12,1,N,N, ,8/1/2015, ,H,28,8/1/2015, ,N,N,N
+28196,Evolutions High School,Evolutions High School,Evolutions High,434 Mount Pleasant Avenue, ,Providence,RI,02909,09,12,1,N,N, ,8/1/2015, ,H,28,8/1/2015, ,N,N,N
+28601,Highlander Charter School,Highlander Charter,Highlander,42 Lexington Avenue, ,Providence,RI,02907,PF,12,2,Y,N,N,12/19/2002,8/1/2018,EM,48,12/19/2002,8/1/2018,N,N,N
+28602,Paul Cuffee Charter School,Paul Cuffee Charter School,Paul Cuffee,459 Promenade Street, ,Providence,RI,02908,KF,12,2,Y,N,N,12/19/2002,8/1/2018,EMH,51,12/19/2002,8/1/2018,Y,N,N
+28603,Hope Information Technology School,Hope Information Technology,Hope Info,324 Hope Street, ,Providence,RI,02906,09,12,2,N,N,N,12/15/2003,8/6/2012,H,28,12/15/2003,8/6/2012,N,N,N
+28604,Hope Leadership School,Hope Leadership School,Hope Leadership,324 Hope Street, ,Providence,RI,02906,09,12,2,N,N,N,12/15/2003,10/22/2009,H,28,12/15/2003,10/22/2009,N,N,N
+28605,Hope Arts School,Hope Arts School,Hope Arts,324 Hope Street, ,Providence,RI,02906,09,12,2,N,N,N,12/15/2003,8/6/2012,H,28,12/15/2003,8/6/2012,N,N,N
+28606,Trinity Academy for the Performing Arts,Trinity Academy Performing Art,Trinity Academy,150 Washington Street, ,Providence,RI,02903,07,12,1,Y,N, ,7/14/2010, ,MH,61,7/14/2010, ,Y,N,N
+28607,RI Nurses Institute Middle College Charter High Sc,RINI Middle College,RINI Middle Col,150 washington Street,4th Floor,Providence,RI,02903,09,12,1,Y,N, ,7/26/2011, ,H,63,7/26/2011, ,N,N,N
+28608,Village Green Virtual Charter School,Village Green Virtual,Village Green,135 Weybosset Street, ,Providence,RI,02903,09,12,1,Y,N, ,3/5/2013, ,H,64,3/5/2013, ,N,N,N
+28609,Achievement First Providence Mayoral Academy,Achievement First Providence,Achievement Fir,370 Hartford Avenue, ,Providence,RI,02909,KF,04,1,Y,N, ,3/20/2013, ,E,41,3/20/2013, ,Y,N,N
+28610,Sheila Skip Nowell Leadership Academy (Capital Cam,Sheila Skip Nowell (Capital),Nowell,133 Delaine Street, ,Providence,RI,02909,09,12,1,Y,N, ,5/31/2013, ,H,42,5/31/2013, ,N,N,N
+28611,SouthSide Elementary Charter School,SouthSide Elementary Charter,SouthSide,135 Prairie Ave, ,Providence,RI,02905,KF,04,1,Y,N, ,8/1/2014, ,E,43,8/1/2014, ,Y,N,N
+28612,Engineering Early College Academy,Engineering Early College Acad,Engineering,275 Westminster street, ,Providence,RI,02903,09,12,2,Y,N, ,8/1/2014,6/4/2014,H,44,8/1/2014,6/4/2014,N,N,N
+28613,The Hope Academy,The Hope Academy,Hope Academy,1000 Eddy Street, ,Providence,RI,02905,KF,04,1,Y,N, ,8/1/2014, ,E,68,8/1/2014, ,Y,N,N
+28614,Achievement First Illuminar Mayoral Academy,Achievement First Illuminar,Achievement,370 Hartford Avenue, ,Providence,RI,02909,KF,04,1,Y,N, ,8/1/2015, ,E,41,8/1/2015, ,Y,N,N
+28615,AF Providence Mayoral Academy Middle,AF Providence Mayoral Middle,AF Providence M,370 Hartford Avenue, ,Providence,RI,02909,05,06,1,Y,N, ,8/4/2017, ,M,41,8/4/2017, ,Y,N,N
+28701,School for the Deaf - Hope Street,School for the Deaf - Hope St.,Deaf - Hope St., , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,71,12/19/2002,8/1/2010,N,Y,N
+28702,Rhode Island School for the Deaf,R.I. School for the Deaf,School for Deaf,One Corliss Park, ,Providence,RI,02908,PK,12,1,N,N,Y,12/19/2002, ,EMH,50,12/19/2002, ,N,Y,N
+28703,Metropolitan Regional Career and Technical Center,Metropolitan Career Tech Ctr,Metropolitan,325 Public Street, ,Providence,RI,02905,09,12,1,N,N,Y,12/19/2002, ,H,60,12/19/2002, ,N,Y,N
+28704,Adult Education Division,Adult Education Division,Adult Education,99 Kenyon Street,c/o Providence School Dept.,Providence,RI,02903, , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,Y,N
+28705,Charles V. Chapin Hospital,Charles V. Chapin Hospital,Chapin Hospital, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,28,12/19/2002,8/1/2010,N,Y,N
+28842,Providence Public Library,Providence Public Library,Prov Library, , , , , , , ,2,N,N,N,4/28/2006,10/29/2007, ,28,4/28/2006,10/29/2007,N,Y,N
+30102,Hope Elementary School,Hope School,Hope School,391 North Road, ,Hope,RI,02831,KF,05,1,N,N,Y,12/19/2002, ,E,30,12/19/2002, ,Y,N,N
+30103,Clayville Elementary School,Clayville School,Clayville,3 George Washington Highway, ,Clayville,RI,02815,PK,05,1,N,N,N,12/19/2002, ,E,30,12/19/2002, ,Y,N,N
+30104,Scituate High School,Scituate High School,Scituate High,94 Trimtown Road, ,North Scituate,RI,02857,09,12,1,N,N,N,12/19/2002, ,H,30,12/19/2002, ,N,N,N
+30105,Scituate Middle School,Scituate Middle School,Scituate Middle,94 Trimtown Road, ,North Scituate,RI,02857,06,08,1,N,N,N,12/19/2002, ,M,30,12/19/2002, ,Y,N,N
+30106,North Scituate Elementary School,North Scituate School,N. Scituate,46 Institute Lane, ,North Scituate,RI,02857,KF,05,1,N,N,N,12/19/2002, ,E,30,12/19/2002, ,Y,N,N
+30190,Scituate Public Schools,Scituate Public Schools,Administration,3 George Washington Highway, ,Clayville,RI,02815,PK,12,1,N,N,N,8/17/2009, ,EMH,30,8/17/2009, ,N,N,Y
+31101,Dorothy T. Dame School,Dorothy T. Dame School,Dame School,Dean Avenue, ,Esmond,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,31,12/19/2002,8/1/2010,N,N,N
+31102,Irving S. Cook School,Irving S. Cook School,Cook School,Farnum Pike, ,Esmond,RI,02917, , ,2,N,N,N,12/19/2002,8/1/2010, ,31,12/19/2002,8/1/2010,N,N,N
+31103,William Winsor School,William Winsor School,Winsor School,562 Putnam Pike, ,Greenville,RI,02828,KF,05,1,N,N,N,12/19/2002, ,E,31,12/19/2002, ,Y,N,N
+31104,Old County Road School,Old County Road School,Old County Road,200 Old County Road, ,Smithfield,RI,02917,KF,05,1,N,N,Y,12/19/2002, ,E,31,12/19/2002, ,Y,N,N
+31105,Anna M. McCabe School,Anna M. McCabe School,McCabe School,100 Pleasant View Avenue, ,Smithfield,RI,02917,PK,05,1,N,N,N,12/19/2002, ,E,31,12/19/2002, ,Y,N,N
+31107,Smithfield Senior High School,Smithfield High School,Smithfield High,90 Pleasant View Avenue, ,Smithfield,RI,02917,09,12,1,N,N,N,12/19/2002, ,H,31,12/19/2002, ,N,N,N
+31108,Raymond C. LaPerche School,Raymond LaPerche School,LaPerche School,11 Limerock Road, ,Smithfield,RI,02917,KF,05,1,N,N,N,12/19/2002, ,E,31,12/19/2002, ,Y,N,N
+31109,Vincent J. Gallagher Middle School,Vincent J. Gallagher Middle,Gallagher,10 Indian Run Trail, ,Smithfield,RI,02917,06,08,1,N,N,N,12/19/2002, ,M,31,12/19/2002, ,Y,N,N
+31190,Smithfield Public Schools,Smithfield Public Schools,Administration,49 Farnum Pike, ,Smithfield,RI,02917,PK,12,1,N,N,N,12/19/2002, ,EMH,31,12/19/2002, ,N,N,Y
+32103,Wakefield Elementary School,Wakefield School,Wakefield,101 High Street, ,Wakefield,RI,02879,KF,04,1,N,N,N,12/19/2002, ,E,32,12/19/2002, ,Y,N,N
+32104,Hazard School,Hazard School,Hazard School,153 School Street, ,Wakefield,RI,02879,PK,PK,2,N,N,N,12/19/2002,10/25/2012,E,32,12/19/2002,10/25/2012,N,N,N
+32105,South Kingstown Integrated Pre-school,South Kingstown Integrated Pre,South Kingstown,1157 South Road, ,Wakefield,RI,02879,PK,PF,2,N,N, ,8/7/2012,8/7/2018,EG,32,8/7/2012,8/7/2018,N,N,N
+32106,Stepping Stone Kindergarten,Stepping Stone School,Stepping Stone,30 Spring Street, ,Peace Dale,RI,02883,KG,KG,2,N,N,N,12/19/2002,8/1/2010, ,32,12/19/2002,8/1/2010,Y,N,N
+32107,Peace Dale Elementary School,Peace Dale School,Peace Dale,109  Kersey Road, ,Peace Dale,RI,02879,PK,04,1,N,N,Y,12/19/2002, ,E,32,12/19/2002, ,Y,N,N
+32108,South Kingstown High School,South Kingstown High,S. Kingstown Sr,215 Columbia Street, ,Wakefield,RI,02879,09,12,1,N,N,N,12/19/2002, ,H,32,12/19/2002, ,N,N,N
+32110,Curtis Corner Middle School,Curtis Corner Middle School,Curtis Corner,301 Curtis Corner Road, ,Wakefield,RI,02879,07,08,1,N,N,N,8/17/2009, ,M,32,8/17/2009, ,Y,N,N
+32112,West Kingston Elementary School,West Kingston School,West Kingston,3119 Ministerial Road, ,West Kingston,RI,02892,PK,04,1,N,N,Y,12/19/2002, ,E,32,12/19/2002, ,Y,N,N
+32113,Matunuck School,Matunuck School,Matunuck School,380 Matunuck Beach Road, ,Wakefield,RI,02879,KF,04,1,N,N,N,12/19/2002, ,E,32,12/19/2002, ,Y,N,N
+32114,Broad Rock Middle School,Broad Rock Middle School,Broad Rock,351 Broad Rock Road, ,Wakefield,RI,02879,05,06,1,N,N,N,8/17/2009, ,M,32,8/17/2009, ,Y,N,N
+32115,Independence Transition Academy,Independence Transition,Independence,25 West Independence Way, ,Kingston,RI,02881,09,12,2,N,N,N,4/27/2011,2/6/2012,H,32,4/27/2011,2/6/2012,N,N,N
+32190,S. Kingstown Public Schools,S. Kingstown Public Schools,Administration,307 Curtis Corner Road, ,Wakefield,RI,02879,PK,12,1,N,N,N,12/19/2002, ,EMH,32,12/19/2002, ,N,N,Y
+32601,Kingston Hill Academy,Kingston Hill Academy,Kingston Hill,850 Stony Fort Road, ,Saunderstown,RI,02874,KF,05,1,Y,N,Y,12/19/2002, ,E,52,12/19/2002, ,Y,N,N
+33101,Lincoln School,Lincoln School,Lincoln School,E. Judson Street, ,Tiverton,RI,02878, , ,2,N,N,N,12/19/2002,8/1/2010, ,33,12/19/2002,8/1/2010,N,N,N
+33102,Barker Elementary School,Barker Elementary School,Barker School,Canonicus Street, ,Tiverton,RI,02878, , ,2,N,N,N,12/19/2002,8/1/2010, ,33,12/19/2002,8/1/2010,N,N,N
+33103,Nonquit School,Nonquit School,Nonquit School,Neck Road, ,Tiverton,RI,02878,KG,04,2,N,Y,N,12/19/2002,8/15/2003,E,33,12/19/2002,8/15/2003,Y,N,N
+33105,Walter E. Ranger School,Ranger School,Ranger School,278 North Brayton Road, ,Tiverton,RI,02878,PK,04,1,N,N,N,12/19/2002, ,E,33,12/19/2002, ,Y,N,N
+33106,Fort Barton School,Fort Barton School,Fort Barton,117 Neck Road, ,Tiverton,RI,02878,PK,04,1,N,N,N,12/19/2002, ,E,33,12/19/2002, ,Y,N,N
+33107,Pocasset School,Pocasset School,Pocasset School,1185 Stafford Road, ,Tiverton,RI,02878,PK,04,1,N,N,Y,12/19/2002, ,E,33,12/19/2002, ,Y,N,N
+33108,Tiverton High School,Tiverton High School,Tiverton High,100 North Brayton Road, ,Tiverton,RI,02878,09,12,1,N,N,N,12/19/2002, ,H,33,12/19/2002, ,N,N,N
+33109,Hooper/Judson Elementary School Complex,Hooper/Judson School,Hooper/Judson,Judson Street, ,Tiverton,RI,02878, , ,2,N,N,N,12/19/2002,8/1/2010, ,33,12/19/2002,8/1/2010,N,N,N
+33110,Tiverton Middle School,Tiverton Middle School,Tiverton Middle,10 Quintal Drive, ,Tiverton,RI,02878,05,08,1,N,N,Y,12/19/2002, ,M,33,12/19/2002, ,Y,N,N
+33190,Tiverton Public Schools,Tiverton Public Schools,Administration,100 North Brayton Road,Rear,Tiverton,RI,02878,PK,12,1,N,N,N,12/19/2002, ,EMH,33,12/19/2002, ,N,N,Y
+34101,Liberty Street School,Liberty Street School,Liberty Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,34,12/19/2002,8/1/2010,N,N,N
+34103,Joyce Street School,Joyce Street School,Joyce Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,34,12/19/2002,8/1/2010,N,N,N
+34104,Child Street School,Child Street School,Child Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,34,12/19/2002,8/1/2010,N,N,N
+34105,Main Street School,Main Street School,Main Street, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,34,12/19/2002,8/1/2010,N,N,N
+34106,Mary V. Quirk Junior High School,Mary V. Quirk Junior High,Quirk Jr. High, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,34,12/19/2002,8/1/2010,N,N,N
+34107,Warren High School,Warren High School,Warren High, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,34,12/19/2002,8/1/2010,N,N,N
+34108,Hugh Cole School,Hugh Cole School,Cole School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,34,12/19/2002,8/1/2010,N,N,N
+34190,Warren Public Schools,Warren Public Schools,Administration, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010,EMH,34,12/19/2002,8/1/2010,N,N,Y
+35101,Norwood School,Norwood School,Norwood School,266 Norwood Avenue, ,Warwick,RI,02888,KF,05,1,N,N,Y,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35102,Conimicut School,Conimicut School,Conimicut,821 West Shore Road, ,Warwick,RI,02889, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35103,Natick School,Natick School,Natick School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35104,Oakland Beach Elementary School,Oakland Beach School,Oakland Beach,383 Oakland Beach Avenue, ,Warwick,RI,02889,PK,05,1,N,N,Y,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35105,Pontiac School,Pontiac School,Pontiac School,143 Greenwich Avenue, ,Warwick,RI,02886, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35106,Spring Green School,Spring Green School,Spring Green, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35107,Buttonwoods School,Buttonwoods School,Buttonwoods,3027 West Shore Road, ,Warwick,RI,02886, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35108,Bayside School,Bayside School,Bayside School, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35109,Lincoln Park School,Lincoln Park School,Lincoln Park, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35110,Hillsgrove School,Hillsgrove School,Hillsgrove, , , , , , , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35111,Lakewood School,Lakewood School,Lakewood School,422 Post Road, ,Warwick,RI,02888, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35112,Apponaug School,Apponaug School,Apponaug School,20 Centerville Road, ,Warwick,RI,02886, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35113,Cowesett School,Cowesett School,Cowesett School,39 Goodwin Street, ,Warwick,RI,02886, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35114,Greenwood School,Greenwood School,Greenwood,93 Sharon Street, ,Warwick,RI,02886,KF,05,1,N,N,N,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35115,Lockwood Junior High School,Lockwood Jr. High School,Lockwood Jr.,3524 West Shore Road, ,Warwick,RI,02886, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35116,Central School,Central School,Central School,531 Centerville Road, ,Warwick,RI,02886, , ,2,N,N,N,12/19/2002,8/1/2010, ,35,12/19/2002,8/1/2010,N,N,N
+35117,Potowomut School,Potowomut School,Potowomut,225 Potowomut Road, ,Warwick,RI,02818,01,06,2,N,N,N,8/7/2008,6/30/2008,E,35,8/7/2008,6/30/2008,Y,N,N
+35118,Aldrich Junior High School,Aldrich Junior High,Aldrich Jr.,789 Post Road, ,Warwick,RI,02888,07,08,2,N,N,N,12/19/2002,8/15/2016,M,35,12/19/2002,8/15/2016,Y,N,N
+35119,Wyman School,Wyman School,Wyman School,1 Columbia Avenue, ,Warwick,RI,02888,KF,05,1,N,N,N,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35120,Gorton Junior High School,Gorton Junior High School,Gorton Jr. High,69 Draper Avenue, ,Warwick,RI,02889,07,08,2,N,N,N,12/19/2002,8/15/2016,M,35,12/19/2002,8/15/2016,Y,N,N
+35121,E. G. Robertson School,Robertson School,Robertson,70 Nausauket Road, ,Warwick,RI,02886,KF,05,1,N,N,Y,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35122,John Greene School,Greene School,Greene School,51 Draper Avenue, ,Warwick,RI,02889,KG,06,2,N,N,Y,11/19/2009,11/19/2009,E,35,11/19/2009,11/19/2009,Y,N,N
+35123,Lippitt School,Lippitt School,Lippitt School,30 Almy Street, ,Warwick,RI,02886,KF,05,1,N,N,Y,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35124,Randall Holden School,Holden School,Holden School,61 Hoxsie Avenue, ,Warwick,RI,02889,KF,06,2,N,N,Y,12/19/2002,8/29/2018,E,35,12/19/2002,8/29/2018,Y,N,N
+35125,Francis School,Francis School,Francis School,325 Miantonomo Drive, ,Warwick,RI,02888,KF,06,2,N,N,N,12/19/2002,8/1/2018,E,35,12/19/2002,8/1/2018,Y,N,N
+35126,Rhodes School,Rhodes School,Rhodes School,110 Sherwood Avenue, ,Warwick,RI,02888,KG,06,2,N,N,Y,8/7/2008,6/30/2008,E,35,8/7/2008,6/30/2008,Y,N,N
+35127,Sherman School,Sherman School,Sherman School,120 Killey Avenue, ,Warwick,RI,02889,KF,05,1,N,N,N,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35128,Holliman School,Holliman School,Holliman School,70 Deborah Road, ,Warwick,RI,02888,KF,05,1,N,N,Y,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35129,John Wickes School,Wickes School,Wickes School,50 Child Lane, ,Warwick,RI,02886,KF,06,2,N,N,Y,12/19/2002,8/1/2018,E,35,12/19/2002,8/1/2018,Y,N,N
+35130,Warwick Veterans Memorial HS,Warwick Veterans High,Warwick Vets.,2401 West Shore Road, ,Warwick,RI,02889,09,12,2,N,N,N,12/19/2002,8/15/2016,H,35,12/19/2002,8/15/2016,N,N,N
+35131,Cedar Hill School,Cedar Hill School,Cedar Hill,35 Red Chimney Drive, ,Warwick,RI,02886,KF,05,1,N,N,N,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35132,Park School,Park School,Park School,40 Asylum Road, ,Warwick,RI,02886,KF,05,1,N,N,N,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35133,Warwick Neck School,Warwick Neck School,Warwick Neck,150 Lennox Avenue (formerly 15, ,Warwick,RI,02889,KF,05,1,N,N,N,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35134,Pilgrim High School,Pilgrim High School,Pilgrim High,111 Pilgrim Parkway, ,Warwick,RI,02888,09,12,1,N,N,N,12/19/2002, ,H,35,12/19/2002, ,N,N,N
+35135,Harold F. Scott School,Scott School,Scott School,833 Centerville Road, ,Warwick,RI,02886,KF,05,1,N,N,N,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35136,Cottrell F. Hoxsie School,Hoxsie School,Hoxsie School,55 Glenwood Drive, ,Warwick,RI,02889,KF,05,1,N,N,Y,12/19/2002, ,E,35,12/19/2002, ,Y,N,N
+35137,Warwick Early Learning Center at John Brown Franci,Warwick Early Learning Center,Warwick Early L,325 Miantonomo Drive, ,Warwick,RI,02888,PK,PF,1,N,N,Y,9/12/2008, ,E,35,9/12/2008, ,N,N,N
+35138,Toll Gate High School,Toll Gate High School,Toll Gate High,575 Centerville Road, ,Warwick,RI,02886,09,12,1,N,N,N,12/19/2002, ,H,35,12/19/2002, ,N,N,N
+35139,Winman Middle School,Winman Middle School,Winman Middle,575 Centerville Road, ,Warwick,RI,02886,06,08,1,N,N,N,12/19/2002, ,M,35,12/19/2002, ,Y,N,N
+35140,Warwick Area Career and Technical Center,Warwick Career and Tech Center,Warwick Tech,575 Centerville Road-Bldg. 5, ,Warwick,RI,02886,10,12,1,N,N,N,12/19/2002, ,H,35,12/19/2002, ,N,N,N
+35141,West Bay Collaborative,West Bay Collaborative,West Bay,144 Bignall Street, ,Warwick,RI,02888,KG,12,1,N,N,N,12/19/2002, , ,76,12/19/2002, ,Y,N,N
+35142,Warwick Veterans Middle School,Warwick Veterans Middle School,Warwick Veteran,2401 West Shore Road, ,Warwick,RI,02889,06,08,1,N,N, ,8/15/2016, ,M,35,8/15/2016, ,Y,N,N
+35190,Warwick Public Schools,Warwick Public Schools,Administration,34 Warwick Lake Avenue, ,Warwick,RI,02889,PK,12,1,N,N,N,12/19/2002, ,EMH,35,12/19/2002, ,N,N,Y
+36101,Bradford Elementary School,Bradford Elementary School,Bradford School,15 Church Street, ,Bradford,RI,02808,KF,04,2,N,N,Y,12/19/2002,8/4/2017,E,36,12/19/2002,8/4/2017,Y,N,N
+36102,High Street School,High Street School,High Street,High Street, ,Westerly,RI,02891, , ,2,N,N,N,12/19/2002,8/1/2010, ,36,12/19/2002,8/1/2010,N,N,N
+36103,Westerly Middle School,Westerly Middle School,Westerly Middle,10 Sandy Hill Road, ,Westerly,RI,02891,05,08,1,N,N,N,12/19/2002, ,M,36,12/19/2002, ,Y,N,N
+36104,Westerly High School,Westerly High School,Westerly High,23 Ward Avenue, ,Westerly,RI,02891,09,12,1,N,N,N,12/19/2002, ,H,36,12/19/2002, ,N,N,N
+36105,Tower Street School,Tower Street School,Tower Street,93 Tower Street, ,Westerly,RI,02891,KG,05,2,N,N,Y,6/30/2009,6/30/2009,E,36,6/30/2009,6/30/2009,Y,N,N
+36106,State Street School,State Street School,State Street,35 State Street, ,Westerly,RI,02891,KF,04,1,N,N,Y,12/19/2002, ,E,36,12/19/2002, ,Y,N,N
+36107,Beach Street School,Beach Street School,Beach Street,Beach Street, ,Westerly,RI,02891, , ,2,N,N,N,12/19/2002,8/1/2010, ,36,12/19/2002,8/1/2010,N,N,N
+36108,Chestnut Street School,Chestnut Street School,Chestnut Street,Chestnut Street, ,Westerly,RI,02891, , ,2,N,N,N,12/19/2002,8/1/2010, ,36,12/19/2002,8/1/2010,N,N,N
+36109,Dunn's Corners School,Dunn's Corners School,Dunn's Corners,8 1/2 Plateau Road, ,Westerly,RI,02891,KF,04,1,N,N,N,12/19/2002, ,E,36,12/19/2002, ,Y,N,N
+36110,Tower Street School Annex,Tower Street Annex,Tower Annex,Highland Avenue, ,Westerly,RI,02891,PK,KG,2,N,N,N,12/19/2002,8/1/2010, ,36,12/19/2002,8/1/2010,Y,N,N
+36111,Springbrook Elementary School,Springbrook Elementary School,Springbrook,39 Springbrook Road, ,Westerly,RI,02891,KF,04,1,N,N,Y,12/19/2002, ,E,36,12/19/2002, ,Y,N,N
+36112,Grow and Go Seek,Grow and Go Seek,Grow and Go See,93 Tower Street, ,Westerly,RI,02891,PK,PF,2,N,N, ,3/21/2016,9/27/2016, ,36,3/21/2016,9/27/2016,N,N,N
+36113,Westerly Inclusion Preschool Program - Babcock Hal,Westerly Inclusion Preschool P,Babcock Hall,23 Highland Avenue, ,Westerly,RI,02891,PK,PK,1,N,N, ,3/21/2016, , ,36,3/21/2016, ,N,N,N
+36190,Westerly Public Schools,Westerly Public Schools,Administration,23 Highland Avenue,Babcock Hall,Westerly,RI,02891,KF,12,1,N,N,N,12/19/2002, ,EMH,36,12/19/2002, ,Y,N,Y
+38102,Providence Street School,Providence Street School,Providence St.,819 Providence Street, ,West Warwick,RI,02893,01,05,2,N,N,N,12/19/2002,8/1/2010,E,38,12/19/2002,8/1/2010,Y,N,N
+38103,Miriam A. Duffy School,Miriam A. Duffy School,Duffy School,10 Harris Avenue, ,West Warwick,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,38,12/19/2002,8/1/2010,N,N,N
+38104,John F. Horgan Elementary School,John F. Horgan School,Horgan School,124 Providence Street, ,West Warwick,RI,02893,KG,04,1,N,N,N,12/19/2002, ,E,38,12/19/2002, ,Y,N,N
+38105,Maisie E. Quinn Elementary School,Maisie E. Quinn School,Quinn School,1 Brown Street, ,West Warwick,RI,02893,PK,PF,1,N,N,Y,8/24/2002, ,PK,38,8/24/2002, ,N,N,N
+38106,West Warwick Senior High School,West Warwick High School,W. Warwick High,1 Webster Knight Drive, ,West Warwick,RI,02893,09,12,1,N,N,N,12/19/2002, ,H,38,12/19/2002, ,N,N,N
+38107,John F. Deering Middle School,John F. Deering Middle,Deering Middle,2 Webster Knight Drive, ,West Warwick,RI,02893,05,08,1,N,N,N,12/19/2002, ,M,38,12/19/2002, ,Y,N,N
+38108,Providence Street Annex,Providence Street Annex,Prov. St. Annex,820 Providence Street, ,West Warwick,RI,02893, , ,2,N,N,N,12/19/2002,8/1/2010, ,38,12/19/2002,8/1/2010,N,N,N
+38109,Greenbush Elementary School,Greenbush Elementary School,Greenbush Elem.,127 Greenbush Road, ,West Warwick,RI,02893,KG,04,1,N,N,N,12/19/2002, ,E,38,12/19/2002, ,Y,N,N
+38110,John F. Deering Middle School Annex,Deering Middle School Annex,Deering Annex,19 St. Mary Street, ,West Warwick,RI,02893,06,06,2,N,N,N,12/19/2002,8/1/2010,M,38,12/19/2002,8/1/2010,Y,N,N
+38111,Wakefield Hills Elementary School,Wakefield Hills El. School,Wakefield Hills,505 Wakefield Street, ,West Warwick,RI,02893,PK,04,1,N,N,N,1/21/2003, ,E,38,1/21/2003, ,Y,N,N
+38112,Maisie E. Quinn Elementary School,Maisie E. Quinn Elementary,Maisie E. Quinn,1 Brown Street, ,West Warwick,RI,02893,PK,PK,2,N,N, ,9/8/2011,9/27/2011, ,38,9/8/2011,9/27/2011,N,N,N
+38190,W. Warwick Public Schools,W. Warwick Public Schools,Administration,10 Harris Avenue, ,West Warwick,RI,02893,PK,12,1,N,N,N,12/19/2002, ,EMH,38,12/19/2002, ,N,N,Y
+39101,Harris School,Harris School,Harris School,60 High School Street, ,Woonsocket,RI,02895,KF,05,1,N,N,N,12/19/2002, ,E,39,12/19/2002, ,Y,N,N
+39106,Andrews Street School,Andrews Street School,Andrews Street,100 Andrews Street, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,N,N,N
+39108,Hope Street School,Hope Street School,Hope Street,46 Hope Street, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,N,N,N
+39109,Social Street School,Social Street School,Social Street,706 Social Street, ,Woonsocket,RI,02895,KG,05,2,N,N,Y,12/19/2002,6/30/2002,E,39,12/19/2002,6/30/2002,Y,N,N
+39110,Governor Aram J. Pothier School,Governor Aram J. Pothier Schoo,Gov. Aram,420 Robinson Street, ,Woonsocket,RI,02895,PK,02,1,N,N,N,12/19/2002, ,E,39,12/19/2002, ,Y,N,N
+39112,Fifth Avenue School,Fifth Avenue School,Fifth Avenue,65 Fifth Avenue, ,Woonsocket,RI,02895,KG,02,2,N,N,N,12/19/2002,10/3/2012,E,39,12/19/2002,10/3/2012,Y,N,N
+39113,Vose Street School,Vose Street School,Vose Street,388 Vose Street, ,Woonsocket,RI,02895,KG,01,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,Y,N,N
+39115,Woonsocket Middle School,Woonsocket Middle School,Woonsocket Midd,Woonsocket MS at Hamlet,60 Florence Dr.,Woonsocket,RI,02895,06,08,2,N,N,N,12/19/2002,8/4/2017,M,39,12/19/2002,8/4/2017,Y,N,N
+39117,Citizens Memorial School,Citizens Memorial School,Citizens School,250 Winthrop Street, ,Woonsocket,RI,02895,03,05,1,N,N,N,6/1/2009, ,E,39,6/1/2009, ,Y,N,N
+39118,Bernon Heights School,Bernon Heights School,Bernon Heights,657 Logee Street, ,Woonsocket,RI,02895,KF,05,1,N,N,N,12/19/2002, ,E,39,12/19/2002, ,Y,N,N
+39119,Globe Park School,Globe Park School,Globe Park,192 Avenue A, ,Woonsocket,RI,02895,PK,05,1,N,N,N,12/19/2002, ,E,39,12/19/2002, ,Y,N,N
+39120,Leo A. Savoie School,Leo A. Savoie School,Leo A. Savoie,990 Mendon Road, ,Woonsocket,RI,02895,KF,05,1,N,N,N,12/19/2002, ,E,39,12/19/2002, ,Y,N,N
+39121,Cass Park Education Center,Cass Park Education Center,Cass Park,350 Newland Avenue, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,N,N,N
+39123,Woonsocket High School,Woonsocket High School,Woonsocket High,777 Cass Avenue, ,Woonsocket,RI,02895,09,12,1,N,N,N,12/19/2002, ,H,39,12/19/2002, ,N,N,N
+39124,George Street School,George Street School,George Street,25 George Street, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,N,N,N
+39125,Occupational Training Center,Occupational Training Ctr.,Occupational,315 Social Street, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,N,N,N
+39126,South Main Street School,South Main Street School,So. Main Street,South Main Street, ,Woonsocket,RI,02895, , ,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,N,N,N
+39127,Woonsocket Area Career and Technical Center,Woonsocket Career an Tech Ctr.,Woonsocket Tech,400 Aylsworth Avenue, ,Woonsocket,RI,02895,10,12,1,N,N,N,12/19/2002, ,H,39,12/19/2002, ,N,N,N
+39128,Kevin K. Coleman Elementary School,Kevin K. Coleman School,Coleman School,96 Second Avenue, ,Woonsocket,RI,02895,KF,05,1,N,N,N,12/19/2002, ,E,39,12/19/2002, ,Y,N,N
+39129,Daniels Street School,Daniels Street School,Daniels Street,Daniels Street, ,Woonsocket,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,39,12/19/2002,8/1/2010,N,N,N
+39131,Woonsocket Middle School at Hamlet,Woonsocket Middle at Hamlet,Woon Hamlet,60 Florence Dr., ,Woonsocket,RI,02895,06,08,1,N,N, ,8/4/2017, ,M,39,8/4/2017, ,Y,N,N
+39132,Woonsocket Middle School at Villa Nova,Woonsocket Middle @ Villa Nova,Woon Villa Nova,240 Florence Dr., ,Woonsocket,RI,02895,06,08,1,N,N, ,8/4/2017, ,M,39,8/4/2017, ,Y,N,N
+39190,Woonsocket Public Schools,Woonsocket Public Schools,Administration,McFee Administration Bldg.,108 High Street,Woonsocket,RI,02895,PK,12,1,N,N,N,12/19/2002, ,EMH,39,12/19/2002, ,N,N,Y
+39601,BEACON Charter School,BEACON Charter School,BEACON,320 Main Street, ,Woonsocket,RI,02895,09,12,1,Y,N,N,8/28/2003, ,H,58,8/28/2003, ,N,N,N
+39602,RISE Prep Mayoral Academy,RISE Prep Mayoral Academy,RISE,1 Social Street, ,Woonsocket,RI,02895,KF,03,1,Y,N, ,8/1/2015, ,EM,79,8/1/2015, ,Y,N,N
+39603,Founders Academy,Founders Academy,Founders Acad,1 Social Street, ,Woonsocket,RI,02895,06,08,1,Y,N, ,8/1/2015, ,M,58,8/1/2015, ,Y,N,N
+40190,Davies Career and Tech Admin School,Davies Career and Tech Admin S,Davies Career a,50 Jenckes Hill Road, ,Lincoln,RI,02865,09,12,1,N,N, ,5/27/2014, , ,40,5/27/2014, ,N,N,Y
+41190,Achievement First Admin School,Achievement First Admin School,Admin School,370 Hartford Avenue, ,Providence,RI,02909,KF,06,1,N,N, ,4/2/2014, , ,41,4/2/2014, ,Y,N,Y
+42190,Nowell Admin School,Nowell Admin School,Admin,43 Hawes Street, ,Central Falls,RI,02863,09,12,1,N,N, ,4/2/2014, , ,42,4/2/2014, ,N,N,Y
+43190,SouthSide Admin School,SouthSide Admin School,SouthSide Admin,135 Prairie Ave, ,Providence,RI,02905,KF,04,1,N,N, ,11/21/2014, , ,43,11/21/2014, ,Y,N,Y
+46190,Segue Admin School,Segue Admin School,Segue Admin,325 Cowden Street, ,Central Falls,RI,02863,05,08,1,N,N, ,4/22/2014, , ,46,4/22/2014, ,Y,N,Y
+47190,Blackstone Valley Prep Admin School,Blackstone Valley Prep Admin S,BVP Admin,291 Broad St, ,Cumberland,RI,02864,KF,12,1,N,N, ,5/27/2014, ,EMH,47,5/27/2014, ,Y,N,Y
+48190,Highlander Admin School,Highlander Admin School,Admin School,42 Lexington Avenue, ,Providence,RI,02907,PF,12,1,N,N, ,5/27/2014, , ,48,5/27/2014, ,N,N,Y
+48601,Highlander Elementary Charter School,Highlander Elementary Charter,Highlander Elem,42 Lexington Avenue, ,Providence,RI,02907,PK,06,1,Y,N,Y,3/5/2018, ,E,48,3/5/2018, ,Y,N,N
+48602,Highlander Secondary Charter School,Highlander Secondary Charter S,Highlander Seco,360 Market Street, ,Warren,RI,02885,07,12,1,Y,N,Y,3/5/2018, ,MH,48,3/5/2018, ,Y,N,N
+50190,R.I. Sch for the Deaf Admin School,R.I. Sch for the Deaf Admin Sc,Admin School,One Corliss Park, ,Providence,RI,02908,PF,12,1,N,N, ,5/27/2014, , ,50,5/27/2014, ,N,N,Y
+51190,Paul Cuffee Admin School,Paul Cuffee Admin School,Admin School,459 Promenade Street, ,Providence,RI,02908,KF,12,1,N,N, ,5/27/2014, , ,51,5/27/2014, ,Y,N,Y
+51601,Paul Cuffee Lower School,Paul Cuffee Lower School,Paul Cuffee Low,459 Promenade Street, ,Providence,RI,02908,KF,05,1,Y,N,Y,3/5/2018, ,E,51,3/5/2018, ,Y,N,N
+51602,Paul Cuffee Middle School,Paul Cuffee Middle School,Paul Cuffee Mid,30 Barton Street, ,Providence,RI,02909,06,08,1,Y,N,Y,3/5/2018, ,M,51,3/5/2018, ,Y,N,N
+51603,Paul Cuffee Upper School,Paul Cuffee Upper School,Paul Cuffee Upp,544 Elmwood Avenue, ,Providence,RI,02907,09,12,1,Y,N,Y,3/5/2018, ,H,51,3/5/2018, ,N,N,N
+52190,Kingston Hill Admin School,Kingston Hill Admin School,Admin School,850 Stony Fort Road, ,Saunderstown,RI,02874,KF,05,1,N,N, ,5/27/2014, ,E,52,5/27/2014, ,Y,N,Y
+53190,International Admin School,International Admin School,Admin School,334 Pleasant Street, ,Pawtucket,RI,02860,KF,05,1,N,N, ,5/27/2014, , ,53,5/27/2014, ,Y,N,Y
+54190,Blackstone Admin School,Blackstone Admin School,Admin School,334 Pleasant Street, ,Pawtucket,RI,02860,09,12,1,N,N, ,5/27/2014, , ,54,5/27/2014, ,N,N,Y
+55190,Compass Admin School,Compass Admin School,Admin School,537 Old North Road, ,Kingston,RI,02881,KF,08,1,N,N, ,5/27/2014, , ,55,5/27/2014, ,Y,N,Y
+58190,Beacon Admin School,Beacon Admin School,Admin School,320 Main Street, ,Woonsocket,RI,02895,09,12,1,N,N, ,5/27/2014, , ,58,5/27/2014, ,N,N,Y
+59190,Learning Community Admin School,Learning Community Admin Schoo,Admin School,21 Lincoln Avenue, ,Central Falls,RI,02863,KF,08,1,N,N, ,5/27/2014, ,EM,59,5/27/2014, ,Y,N,Y
+60000,RI Department of Education,RI Department of Education,RI Dept Ed,Shepard Building,255 Westminster Street,Providence,RI,02903, , ,2,N,N,N,12/19/2002,8/1/2010, ,71,12/19/2002,8/1/2010,N,Y,N
+60190,MET Career and Tech Admin School,MET Career and Tech Admin Scho,Admin School,325 Public Street, ,Providence,RI,02905,09,12,1,N,N, ,5/27/2014, , ,60,5/27/2014, ,N,N,Y
+61190,Trinity Admin School,Trinity Admin School,Admin School,150 Washington Street, ,Providence,RI,02903,07,12,1,N,N, ,5/27/2014, ,EMH,61,5/27/2014, ,Y,N,Y
+62190,Greene Admin School,Greene Admin School,Admin School,94 John Potter Road, ,West Greenwich,RI,02817,09,12,1,N,N, ,5/27/2014, , ,62,5/27/2014, ,N,N,Y
+63190,Nurses Institute Admin School,Nurses Institute Admin School,Admin School,150 Washington Street, ,Providence,RI,02903,09,12,1,N,N, ,5/27/2014, , ,63,5/27/2014, ,N,N,Y
+64190,Village Green Virtual Admin School,Village Green Virtual Admin Sc,Admin School,135 Weybosset Street, ,Providence,RI,02903,09,11,1,N,N, ,5/27/2014, , ,64,5/27/2014, ,N,N,Y
+68190,The Hope Academy Admin,The Hope Academy Admin,The Hope Academ,1000 Eddy Street, ,Providence,RI,02905,KF,04,1,N,N, ,11/21/2014, , ,68,11/21/2014, ,Y,N,Y
+79190,RISE Prep Mayoral Academy Admin,RISE Prep Mayoral Academy,RISE Prep Mayor,1 Social Street, ,Woonsocket,RI,02895,KF,03,1,N,N, ,9/14/2015, ,EM,79,9/14/2015, ,Y,N,Y
+81190,Charette Charter School Admin,Charette Charter School Admin,Charette Charte,335 Westminster St., ,Providence,RI,02903,09,10,1,N,N, ,8/1/2018, , ,81,8/1/2018, ,N,N,Y
+81601,Charette Charter School,Charette Charter School,Charette,335 Westminster St., ,Providence,RI,02903,09,10,1,Y,N, ,4/24/2018, , ,81,4/24/2018, ,N,N,N
+82190,Wangari Maathai Community School,Wangari Maathai Community,Wangari Maathai,10 Dorrance Street,Suite 800,Providence,RI,02903,KF,08,1,N,N, ,2/28/2019, , ,82,2/28/2019, ,Y,N,Y
+82601,Wangari Maathai Community School,Wangari Maathai Community Sch,Wangari Maathai,10 Dorrance Street,Suite 800,Providence,RI,02903,KF,08,1,Y,N, ,2/28/2019, , ,82,2/28/2019, ,Y,N,N
+96101,Walley School,Walley School,Walley School,260 High Street, ,Bristol,RI,02809,01,03,2,N,N,N,12/19/2002,8/1/2010, ,96,12/19/2002,8/1/2010,Y,N,N
+96102,Oliver School,Oliver School,Oliver School,151 State Street, ,Bristol,RI,02809,KG,01,2,N,N,N,12/19/2002,8/1/2010, ,96,12/19/2002,8/1/2010,Y,N,N
+96103,Reynolds School,Reynolds School,Reynolds School,235 High Street, ,Bristol,RI,02809,KG,05,2,N,N,N,9/9/2008,6/30/2008,E,96,9/9/2008,6/30/2008,Y,N,N
+96104,Guiteras School,Guiteras School,Guiteras School,35 Washington Street, ,Bristol,RI,02809,KF,05,1,N,N,Y,12/19/2002, ,E,96,12/19/2002, ,Y,N,N
+96105,Colt Andrews School,Colt Andrews School,Colt Andrews,570-574 Hope Street, ,Bristol,RI,02809,KF,05,1,N,N, ,8/27/2008, ,E,96,8/27/2008, ,Y,N,N
+96106,Rockwell School,Rockwell School,Rockwell School,1225 Hope Street, ,Bristol,RI,02809,KF,05,1,N,N,N,12/19/2002, ,E,96,12/19/2002, ,Y,N,N
+96107,Mt. Hope High School,Mt. Hope High School,Mt. Hope,199 Chestnut Street, ,Bristol,RI,02809,09,12,1,N,N,N,12/19/2002, ,H,96,12/19/2002, ,N,N,N
+96108,Byfield School,Byfield School,Byfield School,220 High Street, ,Bristol,RI,02809,KG,05,2,N,N,Y,8/20/2008,8/20/2008,E,96,8/20/2008,8/20/2008,Y,N,N
+96110,Main Street School,Main Street School,Main Street,689 Main Street, ,Warren,RI,02885,01,03,2,N,N,N,12/19/2002,8/1/2010,E,96,12/19/2002,8/1/2010,Y,N,N
+96112,Kickemuit Middle School,Kickemuit Middle School,Kickemuit,525 Child Street, ,Warren,RI,02885,06,08,1,N,N,N,12/19/2002, ,M,96,12/19/2002, ,Y,N,N
+96113,Hugh Cole School,Hugh Cole School,Hugh Cole,50 Asylum Road, ,Warren,RI,02885,PK,05,1,N,N,Y,12/19/2002, ,E,96,12/19/2002, ,Y,N,N
+96114,East Bay Educational Collaborative,East Bay Educational Coll.,East Bay,317 Market Street, ,Warren,RI,02885,KG,12,1,N,N,N,12/19/2002, , ,77,12/19/2002, ,Y,N,N
+96190,Bristol Warren  Public Schools,Bristol Warren  Public Schools,Administration,151 State Street, ,Bristol,RI,02809,PK,12,1,N,N,N,12/19/2002, ,EMH,96,12/19/2002, ,N,N,Y
+97101,Wawaloam School,Wawaloam School,Wawaloam School,100 Victory Highway, ,Exeter,RI,02822,KF,01,1,N,N,N,12/19/2002, ,E,97,12/19/2002, ,Y,N,N
+97102,Mildred E. Lineham School,Mildred E. Lineham School,Lineham School,859 Nooseneck Hill Road, ,West Greenwich,RI,02817,PK,PK,1,N,N,N,12/19/2002, ,E,97,12/19/2002, ,N,N,N
+97103,Metcalf School,Metcalf School,Metcalf School,30 Nooseneck Hill Road, ,Exeter,RI,02822,02,06,1,N,N,Y,12/19/2002, ,E,97,12/19/2002, ,Y,N,N
+97105,Exeter-West Greenwich Regional  Junior High,Exeter-West Greenwich Reg. Jr.,Ex-W Grnwh Jr,930 Nooseneck Hill Road, ,West Greenwich,RI,02817,07,08,1,N,N,N,12/19/2002, ,M,97,12/19/2002, ,Y,N,N
+97106,Exeter-West Greenwich Regional High School,Exeter-West Greenwich Regional,Ex-W Grnwh High,930 Nooseneck Hill Road, ,West Greenwich,RI,02817,09,12,1,N,N,N,12/19/2002, ,H,97,12/19/2002, ,N,N,N
+97190,Exeter-W. Greenwich Schools,Exeter-W. Greenwich Schools,Administration,940 Nooseneck Hill Road, ,West Greenwich,RI,02817,PK,12,1,N,N,N,12/19/2002, ,EMH,97,12/19/2002, ,N,N,Y
+97320,Camp E-Hun-Tee,Camp E-Hun-Tee,E-Hun-Tee,One Camp E-Hun-Tee Place, ,Exeter,RI,02822,06,12,2,N,N,N,12/19/2002,9/15/2011, ,67,12/19/2002,9/15/2011,Y,N,N
+97601,The Greene School,The Greene School,The Greene Sch,94 John Potter Road, ,West Greenwich,RI,02817,09,12,1,Y,N, ,7/14/2010, ,H,62,7/14/2010, ,N,N,N
+97701,Dr. Joseph Ladd Center,Ladd School,Ladd School,"RR #1, P.O. Box 203", ,Exeter,RI, , , ,2,N,N,N,12/19/2002,8/1/2010, ,97,12/19/2002,8/1/2010,N,Y,N
+98101,Chariho Regional High School,Chariho High School,Chariho High,453 Switch Road, ,Wood River Junction,RI,02894,09,12,1,N,N,N,12/19/2002, ,H,98,12/19/2002, ,N,N,N
+98102,Chariho Area Career and Technical Center,Chariho Career and Tech Center,Chariho Tech,459 Switch Road, ,Wood River Junction,RI,02894,09,12,1,N,N,N,12/19/2002, ,H,98,12/19/2002, ,N,N,N
+98103,Chariho Regional Middle School,Chariho Regional Middle School,Chariho Middle,455B Switch Road, ,Wood River Junction,RI,02894,05,08,1,N,Y,Y,12/19/2002, ,M,98,12/19/2002, ,Y,N,N
+98104,Charlestown Elementary School,Charlestown Elementary School,Charlestown Sch,363 Carolina Back Road, ,Charlestown,RI,02813,KF,04,1,N,N,N,12/19/2002, ,E,98,12/19/2002, ,Y,N,N
+98105,Richmond Elementary School,Richmond Elementary School,Richmond School,190 Kingstown Road, ,Wyoming,RI,02898,KF,04,1,N,N,N,12/19/2002, ,E,98,12/19/2002, ,Y,N,N
+98106,Ashaway Elementary School,Ashaway Elementary School,Ashaway School,12A Hillside Avenue, ,Ashaway,RI,02804,KF,04,1,N,N,N,12/19/2002, ,E,98,12/19/2002, ,Y,N,N
+98107,Hope Valley Elementary School,Hope Valley Elementary School,Hope Valley Sch,15 Thelma Drive, ,Hope Valley,RI,02832,PK,04,1,N,N,N,12/19/2002, ,E,98,12/19/2002, ,Y,N,N
+98108,Chariho Alternative Learning Academy,Chariho Alternative Learning A,Chariho Alterna,455C Switch Road, ,Wood River Junction,RI,02894,KF,12,1,N,N,N,10/2/2003, ,EMH,98,10/2/2003, ,Y,N,N
+98109,Hope Valley Elementary School Annex,Hope Valley Elementary Annex,Hope Val Annex,453 Switch Road, ,Wood River Junction,RI,02894,PK,PF,1,N,N, ,8/15/2016, ,PK,98,8/15/2016, ,N,N,N
+98190,Chariho Regional District,Chariho Regional District,Administration,Switch Road 455A, ,Wood River Junction,RI,02894,PK,12,1,N,N,N,12/19/2002, ,EMH,98,12/19/2002, ,N,N,Y
+99101,Ponaganset Middle School,Ponaganset Middle School,Ponaganset Mid.,7 Rustic Hill Road, ,North Scituate,RI,02857,06,08,1,N,N,Y,12/19/2002, ,M,99,12/19/2002, ,Y,N,N
+99102,Ponaganset High School,Ponaganset High School,Ponaganset High,137 Anan Wade Road, ,North Scituate,RI,02857,09,12,1,N,N,N,12/19/2002, ,H,99,12/19/2002, ,N,N,N
+99190,Foster-Glocester Schools,Foster-Glocester Schools,Administration,91 Anan Wade Road, ,North Scituate,RI,02857,06,12,1,N,N,N,12/19/2002, ,EMH,99,12/19/2002, ,Y,N,Y

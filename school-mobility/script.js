@@ -1,11 +1,133 @@
-const migrationDataPromise = d3.csv('../data/un-migration/Table 1-Table 1.csv', parseMigrationData)
-	.then(data => data.reduce((acc,v) => acc.concat(v), []));
-const countryCodePromise = d3.csv('../data/un-migration/ANNEX-Table 1.csv', parseCountryCode)
-	.then(data => new Map(data));
-const metadataPromise = d3.csv('../data/country-metadata.csv', parseMetadata);
+//const migrationDataPromise = d3.csv('../data/un-migration/Table 1-Table 1.csv', parseMigrationData)
+	//.then(data => data.reduce((acc,v) => acc.concat(v), []));
+//const countryCodePromise = d3.csv('../data/un-migration/ANNEX-Table 1.csv', parseCountryCode)
+	//.then(data => new Map(data));
+//const metadataPromise = d3.csv('../data/country-metadata.csv', parseMetadata);
+
+const mobstabdataPromise = d3.csv('../school-mobility/data/mobstab18/school.csv',parseMobstab);
+const metadataPromise = d3.csv('../school-mobility/data/sch_metadata.csv',parseMetadata);
+
+function parseMobstab(d){
+    return{
+        schyear: d.schYear,
+        distcode: d.distcode,
+        distname: d.distname,
+        schcode: d.schcode,
+        schname: d.schname,
+        gradelevel: d.gradelevel,
+        adm: d.adm,
+        tot_enrolls: d.tot_enrolls,
+        enrolls: d.enrolls,
+        exits: d.exits,
+        enrolls_yr: d.enrolls_yr,
+        mobRate: d.mobRate,
+        mobRate1: d.mobRate1,
+        stabRate: d.stabRate
+    }
+}
+
+function parseMetadata(d){
+    return{
+        schcode: d.SCH_CODE,
+        schname: d.SCH_NAME,
+        schname30: d.SCH_NAME30,
+        schname15: d.SCH_NAME15,
+        city: d.sch_city,
+        lowGrade: d.SCH_LOW_GRADE,
+        highGrade: d.SCH_HIGH_GRADE,
+        status: d.SCH_STATUS,
+        charter: d.SCH_CHARTER,
+        magnet: d.SCH_MAGET,
+        title1: d.SCH_TITLE1,
+        gradeCfg: d.GRADECFG,
+        distcode: d.DISTCODE,
+        pk12: d.SCH_PK12,
+        stateOp: d.SCH_STATE_OPERATED,
+        adminSite: d.SCH_ADMINSITE
+    }
+    
+    delete d.SCH_ADD1;
+    delete d.SCH_ADD2;
+    delete d.SCH_STATE;
+    delete d.SCH_ZIP;
+    delete d.EFFECTIVE_START_DATE;
+    delete d.EFFECTIVE_END_DATE;
+    delete d.OPENDATE;
+    delete d.CLOSEDATE;
+    
+}
+
+Promise.all([
+    mobstabdataPromise,metadataPromise]).then(([mobstab,metadataSch]) => {
+                                              
+    console.log(metadataSch);        
+    //const mobstab_sch = mobstab.filter(d => d.schname != 'Tuitioned Out').filter(d => d.schname != '');
+    const mobstab_sch = mobstab.map(d => {
+        const md = metadataSch.get(d.schcode);
+    })
+    
+    /*const migration_origin_by_country_aug = migration_origin_by_country.map(d =>{
+            const origin_code = countryCode.get(d.origin_name);
+            
+            d.origin_code = origin_code;
+            
+            const origin_metadata = metadataMap.get(origin_code);
+            if(!origin_metadata){
+			console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
+			};
+            
+            if(origin_metadata){
+				d.origin_lngLat = origin_metadata.lngLat;
+			};
+            
+            return d;
+        });
+        console.log(migration_origin_by_country_aug);*/
+    
+    
+    console.log(mobstab_sch)
+    drawBarChart(d3.select('.overview').node(), mobstab_sch)
+}
+    
+)
+
+function drawBarChart(rootDom,data){
+    
+    const w = rootDom.clientWidth;
+    //const h = rootDom.clientHeight;
+    
+    const plot = d3.select(rootDom)
+        .append('svg')
+        .attr('width', w)
+        .attr('height', 100)
+        .append('g'); //adds g element in svg
+    
+    const nodes = plot.selectAll('.node')
+        .data(data,d => d.key);
+    const nodesEnter = nodes.enter().append ('g')
+        .attr('class','node')
+    nodes.merge(nodesEnter)
+		.attr('transform', d => {
+			//const xy = projection(d.origin_lngLat);
+			return `translate(${d.mobRate1*w/100}, 50)`;
+		})//not sure what this does
+    nodesEnter.append('circle');
+    nodes.merge(nodesEnter)
+        .attr('x', d => d.mobRate1)
+        .select('circle')
+		//.attr('r', d => scaleSize(d.total))
+        .attr('r', 10)
+		.style('fill-opacity', .03)
+		.style('stroke', '#000')
+		.style('stroke-width', '1px')
+		.style('stroke-opacity', .2) ;
+    
+    //console.loge(nodes);
+    
+}
 
 
-//Import all data via parallel promises
+/*//Import all data via parallel promises
 Promise.all([
 		migrationDataPromise,
 		countryCodePromise,
@@ -14,7 +136,6 @@ Promise.all([
 
 		//DATA MANIPULATION
 
-        console.log('Hello world');
 		//Convert metadata to a metadata map
 		const metadata_tmp = metadata.map(d => {
 				return [d.iso_num, d]
@@ -38,7 +159,7 @@ Promise.all([
                 total: d3.sum(d.values, e => e.value)
             }
         });
-        console.log(migration_origin_by_country);
+        //console.log(migration_origin_by_country);
         //COMPLETE HERE
 
 		//YOUR CODE HERE
@@ -52,7 +173,7 @@ Promise.all([
             
             const origin_metadata = metadataMap.get(origin_code);
             if(!origin_metadata){
-			//console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
+			console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
 			};
             
             if(origin_metadata){
@@ -61,7 +182,7 @@ Promise.all([
             
             return d;
         });
-        //console.log(migration_origin_by_country_aug);
+        console.log(migration_origin_by_country_aug);
 
 
 		//REPRESENT
@@ -177,4 +298,4 @@ function parseMigrationData(d){
 	}
 
 	return migrationFlows;
-}
+}*/
