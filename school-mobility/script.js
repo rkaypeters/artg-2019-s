@@ -4,8 +4,9 @@
 	//.then(data => new Map(data));
 //const metadataPromise = d3.csv('../data/country-metadata.csv', parseMetadata);
 
-const mobstabdataPromise = d3.csv('../school-mobility/data/mobstab18/school.csv',parseMobstab);
-const metadataPromise = d3.csv('../school-mobility/data/sch_metadata.csv',parseMetadata);
+const mobstabdataPromise = d3.csv('/school-mobility/data/mobstab18/school.csv',parseMobstab);
+const metadataPromise = d3.csv('/school-mobility/data/sch_metadata.csv',parseMetadata);
+const geodataPromise = d3.csv('/school-mobility/data/RI_Schools_coordinates_Mar2019.csv',parseGeodata);
 
 function parseMobstab(d){
     return{
@@ -57,36 +58,59 @@ function parseMetadata(d){
     
 }
 
+function parseGeodata(d){
+    return{
+        schcode: d.SCH_CODE,
+        schname: d.SCH_NAME,
+        city: d.SCH_CITY,
+        zip: d.SCH_ZIP,
+        geoAmentity: d.geocode_amentity,
+        //lng: d.Longitude_geocode,
+        //lat: d.Latitude_geocode
+        lngLat: [+d.Longitude_geocode, +d.Latitude_geocode]
+    }
+    
+    delete d.DISTCODE;
+    delete d.School_address_for_geocode;
+    delete d.SCH_STATE;
+    delete d.SCH_STATUS;
+    delete d.SCH_LEVEL_code;
+    delete d.school_level;
+    delete d.School_type_code;
+    delete d.School_type;
+    delete d.Update;
+    delete d.updated_by;
+}
+
 Promise.all([
-    mobstabdataPromise,metadataPromise]).then(([mobstab,metadataSch]) => {
+    mobstabdataPromise,metadataPromise,geodataPromise]).then(([mobstab,metadataSch,geodata]) => {
                                               
-    console.log(metadataSch);        
-    //const mobstab_sch = mobstab.filter(d => d.schname != 'Tuitioned Out').filter(d => d.schname != '');
-    const mobstab_sch = mobstab.map(d => {
-        const md = metadataSch.get(d.schcode);
+    console.log(metadataSch);
+    console.log(mobstab);
+    console.log(geodata);
+    
+    const admin_tmp = metadataSch.map(d => {
+				return [d.schcode, d]
+			});
+    const adminMap = new Map(admin_tmp);
+    //console.log(adminMap);
+    
+    const mobstab_sch = mobstab
+        .filter(d => d.schname != '')
+        .map(d => {
+        //console.log()
+        //console.log(adminMap.get(d.schcode));
+        const md = adminMap.get(d.schcode);
+        //console.log(d.schcode);
+        d.adminSite = md.adminSite;
+        
+        return d;
     })
+        .filter(d => d.adminSite == 'N');
     
-    /*const migration_origin_by_country_aug = migration_origin_by_country.map(d =>{
-            const origin_code = countryCode.get(d.origin_name);
-            
-            d.origin_code = origin_code;
-            
-            const origin_metadata = metadataMap.get(origin_code);
-            if(!origin_metadata){
-			console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
-			};
-            
-            if(origin_metadata){
-				d.origin_lngLat = origin_metadata.lngLat;
-			};
-            
-            return d;
-        });
-        console.log(migration_origin_by_country_aug);*/
-    
-    
-    console.log(mobstab_sch)
-    drawBarChart(d3.select('.overview').node(), mobstab_sch)
+    //console.log(mobstab_sch);
+    drawBarChart(d3.select('.overview').node(), mobstab_sch);
+    drawMap(d3.select('.map').node(),geodata);
 }
     
 )
@@ -126,26 +150,83 @@ function drawBarChart(rootDom,data){
     
 }
 
+function drawMap(rootDom,data){
+    const w = rootDom.clientWidth;
+    const h = rootDom.clientHeight;
+    
+    const projection_tm = d3.geoMercator()
+    
+    const minLng = d3.min(data, function(d){
+        return d.lngLat[0];
+    })
+    const maxLng = d3.max(data, function(d){
+        return d.lngLat[0];
+    })
+    const minLat = d3.min(data, function(d){
+        return d.lngLat[1];
+    })
+    const maxLat = d3.max(data, function(d){
+        return d.lngLat[1];
+    })
+    
+    console.log(minLng);
+    console.log(maxLng);
+    
+    console.log(projection_tm([minLng,minLat]));
+    console.log(projection_tm([maxLng,maxLat]));
+    
+    const scaleX = d3.scaleLinear()
+        .domain([projection_tm([minLng,minLat])[0],projection_tm([maxLng,maxLat])[0]])
+        .range ([5,w-5]);
+    
+    console.log(scaleX(289));
+    
+    const projection = d3.geoMercator()
+        .scale(40000)
+        .center([(maxLng+minLng)/2,(maxLat+minLat)/2])
+        //.center(289,127)
+        .translate([w/2,h/2]);
+    
+    const plot = d3.select(rootDom)
+        .append('svg')
+        .attr('width', w)
+        .attr('height', 1000)
+        .append('g');
+    
+    const nodes = plot.selectAll('.node')
+        .data(data,d => d.key);
+    const nodesEnter = nodes.enter().append ('g')
+        .attr('class','node');
+    nodesEnter.append('circle');
+    
+    nodes.merge(nodesEnter)
+        .filter(d => d.lngLat)
+		.attr('transform', d => {
+			const xy = projection(d.lngLat);
+			return `translate(${xy[0]}, ${xy[1]})`;
+            console.log(xy[0] + ' ' + xy[1]);
+        });
+    nodes.merge(nodesEnter)
+        //.attr('x', d => d.mobRate1)
+        .select('circle')
+		//.attr('r', d => scaleSize(d.total))
+        .attr('r', 10)
+		.style('fill-opacity', .3)
+		.style('stroke', '#000')
+		.style('stroke-width', '1px')
+		.style('stroke-opacity', .2) ;
+}
+
+
+
+
 
 /*//Import all data via parallel promises
 Promise.all([
 		migrationDataPromise,
 		countryCodePromise,
 		metadataPromise
-	]).then(([migration, countryCode, metadata]) => {
-
-		//DATA MANIPULATION
-
-		//Convert metadata to a metadata map
-		const metadata_tmp = metadata.map(d => {
-				return [d.iso_num, d]
-			});
-		const metadataMap = new Map(metadata_tmp);
-
-		//Let's pick a year, say 2000, and filter the migration data
-		const migration_2000 = migration.filter(d => d.year === 2000);
-		//console.log(migration_2000);
-    
+	]).then(([migration, countryCode, metadata]) => {  
 
 		//YOUR CODE HERE
 		//Nest/group migration_2000 by origin_country
@@ -164,25 +245,6 @@ Promise.all([
 
 		//YOUR CODE HERE
 		//Then, join the transformed migration data to the lngLat values in the metadata
-        
-        //console.log(metadataMap);
-        const migration_origin_by_country_aug = migration_origin_by_country.map(d =>{
-            const origin_code = countryCode.get(d.origin_name);
-            
-            d.origin_code = origin_code;
-            
-            const origin_metadata = metadataMap.get(origin_code);
-            if(!origin_metadata){
-			console.log(`lookup failed for ` + d.origin_name + ' ' + d.origin_code);
-			};
-            
-            if(origin_metadata){
-				d.origin_lngLat = origin_metadata.lngLat;
-			};
-            
-            return d;
-        });
-        console.log(migration_origin_by_country_aug);
 
 
 		//REPRESENT
@@ -245,57 +307,4 @@ function drawCartogram(rootDom, data){
 		.style('font-size', '10px')
 
 
-}
-
-//Utility functions for parsing metadata, migration data, and country code
-function parseMetadata(d){
-	return {
-		iso_a3: d.ISO_A3,
-		iso_num: d.ISO_num,
-		developed_or_developing: d.developed_or_developing,
-		region: d.region,
-		subregion: d.subregion,
-		name_formal: d.name_formal,
-		name_display: d.name_display,
-		lngLat: [+d.lng, +d.lat]
-	}
-}
-
-function parseCountryCode(d){
-	return [
-		d['Region, subregion, country or area'],
-		d.Code
-	]
-}
-
-function parseMigrationData(d){
-	if(+d.Code >= 900) return;
-
-	const migrationFlows = [];
-	const dest_name = d['Major area, region, country or area of destination'];
-	const year = +d.Year
-	
-	delete d.Year;
-	delete d['Sort order'];
-	delete d['Major area, region, country or area of destination'];
-	delete d.Notes;
-	delete d.Code;
-	delete d['Type of data (a)'];
-	delete d.Total;
-
-	for(let key in d){
-		const origin_name = key;
-		const value = d[key];
-
-		if(value !== '..'){
-			migrationFlows.push({
-				origin_name,
-				dest_name,
-				year,
-				value: +value.replace(/,/g, '')
-			})
-		}
-	}
-
-	return migrationFlows;
 }*/

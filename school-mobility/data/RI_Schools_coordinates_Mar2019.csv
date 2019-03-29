@@ -1,0 +1,652 @@
+SCH_CODE,DISTCODE,SCH_NAME,School_address_for_geocode,SCH_CITY,SCH_STATE,SCH_ZIP,SCH_STATUS,SCH_LEVEL_code,school_level,School_type_code,School_type,geocode_amentity,Longitude_geocode,Latitude_geocode,Updated,updated_by
+01103,01,Primrose Hill School,60 Middle Highway,Barrington,RI,02806,1,12,PK-3,1,Public,building,-71.32978,41.75371,3/22/19,MJJames
+01104,01,Nayatt School,400 Nayatt Road,Barrington,RI,02806,1,12,PK-3,1,Public,building,-71.30619,41.72988,3/22/19,MJJames
+01105,01,Hampden Meadows School,297 New Meadow Road,Barrington,RI,02806,1,20,Elementary,1,Public,building,-71.30146,41.75386,3/22/19,MJJames
+01106,01,Barrington High School,220 Lincoln Avenue,Barrington,RI,02806,1,40,Secondary,1,Public,amenity,-71.32062,41.74753,3/22/19,MJJames
+01108,01,Barrington Middle School,261 Middle Highway,Barrington,RI,02806,1,30,Middle,1,Public,building,-71.33342,41.74443,3/22/19,MJJames
+01109,01,Sowams Elementary School,364 Sowams Road,Barrington,RI,02806,1,50,PK-3/Elementary,1,Public,place,-71.29387,41.75634,3/22/19,MJJames
+01201,01,St. Luke School,10 Waldron Avenue,Barrington,RI,02806,1,50,PK-3/Elementary,2,Parochial,place,-71.33964,41.75065,3/22/19,MJJames
+01301,01,St. Andrew's School,63 Federal Road,Barrington,RI,02806,1,54,Elementary/Secondary,3,Private,amenity,-71.32469,41.74939,3/22/19,MJJames
+01303,01,Montessori Centre of Barrington,303 Sowams Road,Barrington,RI,02806,1,50,PK-3/Elementary,3,Private,place,-71.2942,41.7533,3/22/19,MJJames
+01304,01,JCC at Temple Habonim-Barrington,165 New Meadow Road,Barrington,RI,02806,1,10,PK Only,3,Private,place,-71.30331,41.74481,3/22/19,MJJames
+01322,01,Red Brick School,50 Middle Highway,Barrington,RI,02806,1,12,PK-3,3,Private,place,-71.33106,41.75733,3/22/19,MJJames
+01323,01,Kids Quarters Inc.,64 Bay Spring Avenue,Barrington,RI,02806,1,10,PK Only,3,Private,place,-71.34398,41.7479,3/22/19,MJJames
+01324,01,Tot's Cooperative Nursery School,461 County Road,Barrington,RI,02806,1,10,PK Only,3,Private,place,-71.31897,41.74922,3/22/19,MJJames
+01329,01,Barrington Early Childhood Center,27 College Lane,Barrington,RI,02806,1,10,PK Only,3,Private,place,-71.32695,41.76172,3/22/19,MJJames
+01332,01,Barrington Christian Academy,9 Old County Road,Barrington,RI,02806,1,54,Elementary/Secondary,3,Private,place,-71.32717,41.7551,3/22/19,MJJames
+03104,03,Burrillville Middle School,2220 Broncos Highway,Burrillville,RI,02830,1,30,Middle,1,Public,place,-71.62261,41.97992,3/22/19,MJJames
+03105,03,Steere Farm Elementary School,915 Steere Farm Road,Burrillville,RI,02859,1,20,Elementary,1,Public,highway,-71.67358,41.94517,3/22/19,MJJames
+03107,03,William L. Callahan School,75 Callahan School Street,Harrisville,RI,02830,1,20,Elementary,1,Public,place,-71.68586,41.97059,3/22/19,MJJames
+03108,03,Austin T. Levy School,135 Harrisville Main Street,Harrisville,RI,02830,1,20,Elementary,1,Public,place,-71.67683,41.96567,3/22/19,MJJames
+03109,03,Burrillville High School,425 East Avenue,Harrisville,RI,02830,1,40,Secondary,1,Public,place,-71.66245,41.9693,3/22/19,MJJames
+03310,03,Harrisville Preschool,474 Chapel Street,Harrisville,RI,02830,1,10,PK Only,3,Private,place,-71.67873,41.96642,3/22/19,MJJames
+03311,03,Community Christian School,113 Church Street,Pascoag,RI,02859,1,52,PK-12,3,Private,place,-71.70564,41.95857,3/22/19,MJJames
+04101,04,Ella Risk School,949 Dexter Street,Central Falls,RI,02863,1,20,Elementary,1,Public,place,-71.40005,41.88947,3/22/19,MJJames
+04104,04,Capt. G. Harold Hunt School,12 Kendall Street,Central Falls,RI,02863,1,50,PK-3/Elementary,1,Public,place,-71.39807,41.88528,3/22/19,MJJames
+04106,04,Veterans Memorial Elementary,150 Fuller Avenue,Central Falls,RI,02863,1,20,Elementary,1,Public,place,-71.39609,41.88925,3/22/19,MJJames
+04108,04,Central Falls Senior High School,24 Summer Street,Central Falls,RI,02863,1,40,Secondary,1,Public,place,-71.39105,41.88736,3/22/19,MJJames
+04115,04,Dr. Earl F. Calcutt Middle School,112 Washington Street,Central Falls,RI,02863,1,20,Elementary,1,Public,place,-71.39159,41.88965,3/22/19,MJJames
+04117,04,Margaret I. Robertson School,135 Hunt Street,Central Falls,RI,02863,1,20,Elementary,1,Public,highway,-71.39394,41.89453,3/22/19,MJJames
+04302,04,Play Plus Preschool (YWCA),43 Hawes Street,Central Falls,RI,02863,1,10,PK Only,3,Private,place,-71.38827,41.88334,3/22/19,MJJames
+04304,04,The Children's Workshop-CF,151 Hunt Street,Central Falls,RI,02863,1,50,PK-3/Elementary,3,Private,amenity,-71.38986,41.89671,3/22/19,MJJames
+04305,04,Progreso Latino Excellence Academy,626 Broad Street,Central Falls,RI,02863,1,50,PK-3/Elementary,3,Private,place,-71.38737,41.88832,3/22/19,MJJames
+04601,59,The Learning Community Charter School,21 Lincoln Avenue,Central Falls,RI,02863,1,20,Elementary,6,Charter,amenity,-71.388,41.89253,3/22/19,MJJames
+04602,46,Segue Institute for Learning,325 Cowden Street,Central Falls,RI,02863,1,30,Middle,6,Charter,place,-71.39606,41.88837,3/22/19,MJJames
+04603,42,Sheila Skip Nowell Leadership Academy (Central Cam,43 Hawes Street,Central Falls,RI,02863,1,40,Secondary,6,Charter,place,-71.38827,41.88334,3/22/19,MJJames
+06104,06,Alan Shawn Feinstein Middle School Of Coventry,15 Foster Drive,Coventry,RI,02816,1,30,Middle,1,Public,place,-71.55841,41.69569,3/22/19,MJJames
+06109,06,Western Coventry School,4588 Flat River Road,Coventry,RI,02816,1,20,Elementary,1,Public,place,-71.69143,41.69425,3/22/19,MJJames
+06112,06,Hopkins Hill School,95 Johnson Boulevard,Coventry,RI,02816,1,50,PK-3/Elementary,1,Public,place,-71.56531,41.67319,3/22/19,MJJames
+06116,06,Tiogue School,170 East Shore Drive,Coventry,RI,02816,1,20,Elementary,1,Public,place,-71.54585,41.6792,3/22/19,MJJames
+06117,06,Blackrock School,12 La Casa Drive,Coventry,RI,02816,1,20,Elementary,1,Public,place,-71.5514,41.71171,3/22/19,MJJames
+06119,06,Coventry High School,40 Reservoir Road,Coventry,RI,02816,1,40,Secondary,1,Public,amenity,-71.5905,41.6853,3/22/19,MJJames
+06121,06,Washington Oak School,801 Read School House Road,Coventry,RI,02816,1,50,PK-3/Elementary,1,Public,place,-71.60297,41.72495,3/22/19,MJJames
+06123,06,The Regional Career and Technical Center at Covent,40 Reservoir Road,Coventry,RI,02816,1,40,Secondary,1,Public,amenity,-71.5905,41.6853,3/22/19,MJJames
+06204,06,Father John V. Doyle School,343 South Main Street,Coventry,RI,02816,1,50,PK-3/Elementary,2,Parochial,highway,-71.56662,41.69004,3/22/19,MJJames
+06302,06,Creative Child,613 Tiogue Avenue,Coventry,RI,02816,1,10,PK Only,3,Private,place,-71.55815,41.68339,3/22/19,MJJames
+06303,,Groden Center South,2 St Vincent de Paul Street,Coventry,RI,02816,1,54,Elementary/Secondary,3,Private,place,-71.5479,41.69803,3/22/19,MJJames
+06323,06,CHILD  Inc,23 Cady Street,Coventry,RI,02816,1,10,PK Only,3,Private,place,-71.56729,41.68825,3/22/19,MJJames
+06324,06,Raggedy Ann and Andy Nursery School,179 Hopkins Hollow Road,Greene,RI,02827,1,10,PK Only,3,Private,place,-71.74761,41.68931,3/22/19,MJJames
+06908,06,Community Solutions,344 Hopkins Hill Road,Coventry,RI,02816,1,54,Elementary/Secondary,9,Other,place,-71.56952,41.66817,3/22/19,MJJames
+07103,07,Oak Lawn School,36 Stoneham Street,Cranston,RI,02920,1,50,PK-3/Elementary,1,Public,place,-71.48167,41.7463,3/22/19,MJJames
+07104,07,Cranston Early Learning Center,45 Sprague Avenue,Cranston,RI,02910,1,12,PK-3,1,Public,place,-71.43753,41.78592,3/22/19,MJJames
+07110,07,Daniel D. Waterman School,722 Pontiac Avenue,Cranston,RI,02910,1,20,Elementary,1,Public,place,-71.44066,41.76647,3/22/19,MJJames
+07112,07,Chester W. Barrows School,9 Beachmont Avenue,Cranston,RI,02905,1,20,Elementary,1,Public,place,-71.40722,41.77287,3/22/19,MJJames
+07113,07,Cranston High School East,899 Park Avenue,Cranston,RI,02910,1,40,Secondary,1,Public,amenity,-71.4378,41.78022,3/22/19,MJJames
+07115,07,Hugh B. Bain Middle School,135 Gansett Avenue,Cranston,RI,02910,1,30,Middle,1,Public,amenity,-71.45228,41.78605,3/22/19,MJJames
+07116,07,William R. Dutemple School,32 Garden Street,Cranston,RI,02910,1,20,Elementary,1,Public,place,-71.43074,41.78141,3/22/19,MJJames
+07117,07,Edward S. Rhodes School,160 Shaw Avenue,Cranston,RI,02905,1,20,Elementary,1,Public,place,-71.39699,41.77495,3/22/19,MJJames
+07118,07,Eden Park School,180 Oakland Avenue,Cranston,RI,02910,1,20,Elementary,1,Public,place,-71.44441,41.77285,3/22/19,MJJames
+07119,07,Gladstone Street School,50 Gladstone Street,Cranston,RI,02920,1,20,Elementary,1,Public,place,-71.45,41.79939,3/22/19,MJJames
+07120,07,Stadium School,100 Crescent Avenue,Cranston,RI,02910,1,20,Elementary,1,Public,place,-71.44757,41.78882,3/22/19,MJJames
+07121,07,Woodridge School,401 Budlong Road,Cranston,RI,02920,1,50,PK-3/Elementary,1,Public,place,-71.4577,41.77198,3/22/19,MJJames
+07122,07,Garden City School,70 Plantation Drive,Cranston,RI,02920,1,50,PK-3/Elementary,1,Public,place,-71.45255,41.76114,3/22/19,MJJames
+07123,07,Park View Middle School,25 Park View Boulevard,Cranston,RI,02910,1,30,Middle,1,Public,place,-71.41513,41.77308,3/22/19,MJJames
+07124,07,George J. Peters School,15 Mayberry Street,Cranston,RI,02920,1,20,Elementary,1,Public,place,-71.47204,41.78269,3/22/19,MJJames
+07125,07,Arlington School,155 Princess Avenue,Cranston,RI,02920,1,20,Elementary,1,Public,place,-71.45538,41.79364,3/22/19,MJJames
+07126,07,Cranston High School West,80 Metropolitan Avenue,Cranston,RI,02920,1,40,Secondary,1,Public,place,-71.47912,41.7721,3/22/19,MJJames
+07127,07,Stone Hill School,21 Village Avenue,Cranston,RI,02920,1,20,Elementary,1,Public,place,-71.48279,41.78663,3/22/19,MJJames
+07128,07,Glen Hills School,50 Glen Hills Drive,Cranston,RI,02920,1,20,Elementary,1,Public,place,-71.46962,41.75483,3/22/19,MJJames
+07129,07,Western Hills Middle School,400 Phenix Avenue,Cranston,RI,02920,1,30,Middle,1,Public,place,-71.48123,41.77364,3/22/19,MJJames
+07130,07,Edgewood Highland School,160 Pawtuxet Avenue,Cranston,RI,02905,1,50,PK-3/Elementary,1,Public,place,-71.39708,41.78096,3/22/19,MJJames
+07132,07,Cranston Area Career Technical Center,100 Metropolitan Avenue,Cranston,RI,02920,1,40,Secondary,1,Public,place,-71.47732,41.77159,3/22/19,MJJames
+07135,07,NEL/CPS Construction Career Academy,4 Sharpe Drive,Cranston,RI,02920,1,40,Secondary,1,Public,place,-71.45708,41.73963,3/22/19,MJJames
+07136,07,Orchard Farms Elementary School,1555 Scituate Avenue,Cranston,RI,02921,1,20,Elementary,1,Public,place,-71.53026,41.77438,3/22/19,MJJames
+07137,07,Hope Highlands Middle School,300 Hope Road,Cranston,RI,02921,1,30,Middle,1,Public,place,-71.50821,41.75425,3/22/19,MJJames
+07202,07,Immaculate Conception Catholic Regional,235 Garden Hills Drive,Cranston,RI,02920,1,20,Elementary,2,Parochial,place,-71.47521,41.75098,3/22/19,MJJames
+07203,07,St. Mary School,85 Chester Avenue,Cranston,RI,02920,1,50,PK-3/Elementary,2,Parochial,place,-71.46473,41.78927,3/22/19,MJJames
+07205,07,St. Paul School,1789 Broad Street,Cranston,RI,02905,1,50,PK-3/Elementary,2,Parochial,place,-71.40075,41.77922,3/22/19,MJJames
+07301,07,Cornerstone School,665 Dyer Avenue,Cranston,RI,02920,1,54,Elementary/Secondary,3,Private,place,-71.45776,41.7945,3/22/19,MJJames
+07302,07,St. David's Preschool,200 Meshanticut Valley Pky.,Cranston,RI,02920,1,10,PK Only,3,Private,place,-71.46687,41.76743,3/22/19,MJJames
+07303,07,The Little Shepherd Preschool,565 Pontiac Avenue,Cranston,RI,02910,1,10,PK Only,3,Private,place,-71.43706,41.77212,3/22/19,MJJames
+07308,07,Kid's Kingdom,116 Puritan Avenue,Cranston,RI,02920,1,50,PK-3/Elementary,3,Private,place,-71.4562,41.7934,3/22/19,MJJames
+07309,07,Cranston Child Development Center,848 Atwood Avenue,Cranston,RI,02920,1,10,PK Only,3,Private,place,-71.48111,41.79507,3/22/19,MJJames
+07311,07,Western Cranston Learning Center,140 Natick Avenue,Cranston,RI,02920,1,10,PK Only,3,Private,place,-71.48681,41.75197,3/22/19,MJJames
+07312,07,Sunshine Pre-School,690 Dyer Avenue,Cranston,RI,02920,1,50,PK-3/Elementary,3,Private,place,-71.45754,41.79327,3/22/19,MJJames
+07315,,The Children's Workshop,546 Budlong Road,Cranston,RI,02920,1,12,PK-3,3,Private,place,-71.45875,41.76787,3/22/19,MJJames
+07316,,Ocean State Academy,1301 Elmwood Ave,Cranston,RI,02910,1,52,PK-12,3,Private,place,-71.42201,41.77537,3/22/19,MJJames
+07331,07,Happy Hollow Nursery School,139 Ocean Avenue,Cranston,RI,02905,1,10,PK Only,3,Private,place,-71.38987,41.76752,3/22/19,MJJames
+07336,07,Learning Brooke,1170 Pontiac Avenue,Cranston,RI,02920,1,50,PK-3/Elementary,3,Private,place,-71.44888,41.75361,3/22/19,MJJames
+07342,07,Carriage House Day Care,156 Shaw Avenue,Cranston,RI,02905,1,20,Elementary,3,Private,place,-71.39686,41.77497,3/22/19,MJJames
+07345,07,Faith Nursery School,499 Hope Road,Cranston,RI,02921,1,10,PK Only,3,Private,place,-71.51497,41.75182,3/22/19,MJJames
+07350,07,Pumpkin Patch Early Learning Center,220 Comstock Parkway,Cranston,RI,02921,1,50,PK-3/Elementary,3,Private,place,-71.51491,41.78029,3/22/19,MJJames
+07351,,Miss Lee Ann's Early Learning Center,180 Oaklawn Avenue,Cranston,RI,02920,1,50,PK-3/Elementary,3,Private,place,-71.46955,41.77149,3/22/19,MJJames
+07353,,A Childs University - Cranston,695 Park Avenue,Cranston,RI,02910,1,12,PK-3,3,Private,place,-71.43713,41.78096,3/22/19,MJJames
+07406,07,Paul Mitchell-The School,379 Atwood Avenue,Cranston,RI,02920,1,60,Postsecondary,4,Postsecondary,place,-71.4725,41.78642,3/22/19,MJJames
+07407,,Toni and Guy Hairdressing Academy,1400 Oaklawn Avenue,Cranston,RI,02920,1,60,Postsecondary,4,Postsecondary,shop,-71.4788,41.73282,3/22/19,MJJames
+07702,67,DCYF Alternative Education Program,57 Power Road,Cranston,RI,02920,1,56,Ungraded,7,State_operated,place,-71.45969,41.74444,3/22/19,MJJames
+07704,66,RI Department of Corrections,18 Wilma Schesler Lane,Cranston,RI,02920,1,56,Ungraded,7,State_operated,place,-71.46557,41.73864,3/22/19,MJJames
+08107,08,B.F. Norton Elementary School,364 Broad Street,Cumberland,RI,02864,1,20,Elementary,1,Public,amenity,-71.39502,41.90883,3/22/19,MJJames
+08108,08,Garvin Memorial School,1364 Diamond Hill Road,Cumberland,RI,02864,1,20,Elementary,1,Public,amenity,-71.4021,41.92837,3/22/19,MJJames
+08109,08,Community School,15 Arnold Mills Road,Cumberland,RI,02864,1,20,Elementary,1,Public,place,-71.39797,41.97722,3/22/19,MJJames
+08110,08,John J. McLaughlin Cumberland Hill School,205 Manville Hill Road,Cumberland,RI,02864,1,20,Elementary,1,Public,place,-71.46122,41.9765,3/22/19,MJJames
+08112,08,Ashton School,130 Scott Road,Cumberland,RI,02864,1,20,Elementary,1,Public,building,-71.42779,41.9474,3/22/19,MJJames
+08114,08,Cumberland High School,2600 Mendon Road,Cumberland,RI,02864,1,40,Secondary,1,Public,place,-71.44516,41.96406,3/22/19,MJJames
+08115,08,Joseph L. McCourt Middle School,45 Highland Avenue,Cumberland,RI,02864,1,30,Middle,1,Public,amenity,-71.39256,41.9185,3/22/19,MJJames
+08116,08,North Cumberland Middle School,400 Nate Whipple Highway,Cumberland,RI,02864,1,30,Middle,1,Public,place,-71.41992,41.98232,3/22/19,MJJames
+08120,75,Northern RI Collaborative,640 George Washington Hwy,Lincoln,RI,02865,1,54,Elementary/Secondary,1,Public,place,-71.48412,41.93539,3/22/19,MJJames
+08121,08,Cumberland Preschool Center,130 Scott Road,Cumberland,RI,02864,1,10,PK Only,1,Public,building,-71.42779,41.9474,3/22/19,MJJames
+08201,08,Mercymount Country Day School,35 Wrentham Road,Cumberland,RI,02864,1,50,PK-3/Elementary,2,Parochial,place,-71.41471,42.01003,3/22/19,MJJames
+08301,08,Academy for Little Children-Cumberland,35 Industrial Road,Cumberland,RI,02864,1,50,PK-3/Elementary,3,Private,place,-71.39894,41.95305,3/22/19,MJJames
+08302,08,Cherry Blossom Early Enrichment School,3191 Mendon Road,Cumberland,RI,02864,1,50,PK-3/Elementary,3,Private,place,-71.45582,41.97447,3/22/19,MJJames
+08303,,Bradley School North,7 Fatima Drive,Cumberland,RI,02864,1,20,Elementary,3,Private,place,-71.38978,41.90528,3/22/19,MJJames
+08322,08,Four Corners YMCA Early Learning Center,160 Bear Hill Road,Cumberland,RI,02864,1,50,PK-3/Elementary,3,Private,place,-71.38823,41.94841,3/22/19,MJJames
+08330,08,Emmanuel Nursery School,120 Nate Whipple Highway,Cumberland,RI,02864,1,10,PK Only,3,Private,place,-71.4479,41.97879,3/22/19,MJJames
+08331,08,The Neighborhood Nursery,2550 Diamond Hill Road,Cumberland,RI,02864,1,10,PK Only,3,Private,place,-71.40139,41.95978,3/22/19,MJJames
+08332,,Hand in Hand Christian Preschool,126 Angell Road,Cumberland,RI,02864,1,10,PK Only,3,Private,place,-71.41521,41.9463,3/22/19,MJJames
+08601,47,Blackstone Valley Prep Elementary School,291 Broad Street,Cumberland,RI,02864,1,20,Elementary,6,Charter,place,-71.39221,41.90466,3/22/19,MJJames
+08602,47,Blackstone Valley Prep Middle School,909 Lonsdale,Central Falls,RI,02863,1,30,Middle,6,Charter,place,-71.40199,41.88914,3/22/19,MJJames
+08603,47,Blackstone Valley Prep Elementary 2 School,52 Broad St.,Cumberland,RI,02864,1,20,Elementary,6,Charter,place,-71.39093,41.90113,3/22/19,MJJames
+08604,47,Blackstone Valley Prep High School,65 Macondray Avenue,Cumberland,RI,02864,1,40,Secondary,6,Charter,place,-71.3936,41.9021,3/22/19,MJJames
+08605,47,Blackstone Valley Prep Elementary 3 School,3357 Mendon Rd.,Cumberland,RI,02864,1,20,Elementary,6,Charter,amenity,-71.45824,41.97786,3/22/19,MJJames
+08606,47,Blackstone Valley Prep Middle School 2,3 Fairlawn Way,Lincoln,RI,02865,1,30,Middle,6,Charter,place,-71.41536,41.8874,3/22/19,MJJames
+09102,09,James H. Eldredge El. School,101 First Avenue,East Greenwich,RI,02818,1,20,Elementary,1,Public,building,-71.45614,41.65746,3/22/19,MJJames
+09103,09,Archie R. Cole Middle School,100 Cedar Avenue,East Greenwich,RI,02818,1,30,Middle,1,Public,amenity,-71.46305,41.651,3/22/19,MJJames
+09105,09,Frenchtown School,1100 Frenchtown Road,East Greenwich,RI,02818,1,20,Elementary,1,Public,amenity,-71.50449,41.62362,3/22/19,MJJames
+09106,09,East Greenwich High School,300 Avenger Drive,East Greenwich,RI,02818,1,40,Secondary,1,Public,amenity,-71.48425,41.63698,3/22/19,MJJames
+09107,09,Meadowbrook Farms School,2 Chestnut Drive,East Greenwich,RI,02818,1,20,Elementary,1,Public,amenity,-71.48171,41.63644,3/22/19,MJJames
+09108,09,George Hanaford School,200 Middle Road,East Greenwich,RI,02818,1,20,Elementary,1,Public,amenity,-71.46894,41.65023,3/22/19,MJJames
+09201,09,Our Lady of Mercy Regional School,55 Fourth Avenue,East Greenwich,RI,02818,1,50,PK-3/Elementary,2,Parochial,amenity,-71.45657,41.6546,3/22/19,MJJames
+09301,09,The Stork's Nest Child Academy,3116 South County Trail,East Greenwich,RI,02818,1,50,PK-3/Elementary,3,Private,amenity,-71.49288,41.63508,3/22/19,MJJames
+09303,09,London Bridge Child Care Center,146 Duke Street,East Greenwich,RI,02818,1,50,PK-3/Elementary,3,Private,building,-71.44802,41.65946,3/22/19,MJJames
+09305,,The Nested Academy,3116 South County Trail,East Greenwich,RI,02818,1,10,PK Only,3,Private,amenity,-71.49288,41.63508,3/22/19,MJJames
+09322,09,Happy Hearts Learning Center,2608 South County Trail,East Greenwich,RI,02818,1,10,PK Only,3,Private,building,-71.492,41.6256,3/22/19,MJJames
+09323,09,Barbara M. Tufts Cooperative Preschool,1558 South County Trail,East Greenwich,RI,02818,1,10,PK Only,3,Private,amenity,-71.49508,41.65377,3/22/19,MJJames
+09324,09,East Greenwich Pre-School,167 Tillinghast Road,East Greenwich,RI,02818,1,10,PK Only,3,Private,amenity,-71.51529,41.63886,3/22/19,MJJames
+09327,09,A Step Up,88 Crompton Road,East Greenwich,RI,02818,1,50,PK-3/Elementary,3,Private,amenity,-71.53131,41.66102,3/22/19,MJJames
+09328,09,The Children's Workshop,934 Main Street,East Greenwich,RI,02818,1,50,PK-3/Elementary,3,Private,amenity,-71.45594,41.65227,3/22/19,MJJames
+09332,09,Aim High Early Learning Center,3355 South County Trail,East Greenwich,RI,02818,1,10,PK Only,3,Private,leisure,-71.4956,41.60517,3/22/19,MJJames
+09333,,Playground Prep,1635 Division Road,East Greenwich,RI,02818,1,50,PK-3/Elementary,3,Private,building,-71.51031,41.66236,3/22/19,MJJames
+09334,,Sweet Peas Village (Annex),836 Middle Road,East Greenwich,RI,02818,1,50,PK-3/Elementary,3,Private,amenity,-71.49033,41.64489,3/22/19,MJJames
+09335,,SWEET PEAS VILLAGE Early Childhood School,836 Middle Road,East Greenwich,RI,02818,1,50,PK-3/Elementary,3,Private,amenity,-71.49033,41.64489,3/22/19,MJJames
+09902,,Montessori of Greenwich Bay,3285 South County Trail,East Greenwich,RI,02818,1,10,PK Only,9,Other,building,-71.49372,41.6076,3/22/19,MJJames
+10104,10,Edward R. Martin Middle School Annex,111 Brown Street,East Providence,RI,02914,1,10,PK Only,1,Public,place,-71.3641,41.80897,3/22/19,MJJames
+10105,10,James R. D. Oldham School Annex,60 Bart Drive,East Providence,RI,02915,1,10,PK Only,1,Public,place,-71.34545,41.77247,3/22/19,MJJames
+10109,10,Edward R. Martin Middle School,111 Brown Street,East Providence,RI,02914,1,30,Middle,1,Public,place,-71.3641,41.80897,3/22/19,MJJames
+10111,10,James R. D. Oldham School,60 Bart Drive,East Providence,RI,02915,1,20,Elementary,1,Public,place,-71.34545,41.77247,3/22/19,MJJames
+10112,10,East Providence High School,2000 Pawtucket Avenue,East Providence,RI,02914,1,40,Secondary,1,Public,highway,-71.34798,41.83388,3/22/19,MJJames
+10113,10,Kent Heights School,2680 Pawtucket Avenue,East Providence,RI,02914,1,20,Elementary,1,Public,amenity,-71.36123,41.80151,3/22/19,MJJames
+10114,10,Alice M. Waddington School,101 Legion Way,Riverside,RI,02915,1,20,Elementary,1,Public,place,-71.34158,41.76333,3/22/19,MJJames
+10116,10,Agnes B. Hennessey School,75 Fort Street,East Providence,RI,02914,1,20,Elementary,1,Public,place,-71.3835,41.81295,3/22/19,MJJames
+10117,10,Emma G. Whiteknact School,261 Grosvenor Avenue,East Providence,RI,02914,1,20,Elementary,1,Public,place,-71.36329,41.81553,3/22/19,MJJames
+10122,10,Riverside Middle School,179 Forbes Street,Riverside,RI,02915,1,30,Middle,1,Public,highway,-71.35473,41.77583,3/22/19,MJJames
+10123,10,Silver Spring School,120 Silver Spring Avenue,East Providence,RI,02914,1,20,Elementary,1,Public,amenity,-71.36928,41.7983,3/22/19,MJJames
+10124,10,Orlo Avenue School,25 Orlo Avenue,East Providence,RI,02914,1,20,Elementary,1,Public,place,-71.36313,41.82484,3/22/19,MJJames
+10125,10,Myron J. Francis Elementary School,64 Bourne Avenue,Rumford,RI,02916,1,20,Elementary,1,Public,amenity,-71.36065,41.84166,3/22/19,MJJames
+10130,10,E. Providence Area Career and Technical Center,1998 Pawtucket Avenue,East Providence,RI,02914,1,40,Secondary,1,Public,place,-71.35629,41.82125,3/22/19,MJJames
+10202,10,Sacred Heart School,56 Purchase Street,East Providence,RI,02914,1,20,Elementary,2,Parochial,place,-71.37785,41.81842,3/22/19,MJJames
+10205,10,St. Margaret School,42 Bishop Avenue,East Providence,RI,02916,1,50,PK-3/Elementary,2,Parochial,place,-71.34955,41.8438,3/22/19,MJJames
+10208,10,St. Mary Academy-Bay View,3070 Pawtucket Avenue,East Providence,RI,02915,1,52,PK-12,2,Parochial,place,-71.36524,41.79105,3/22/19,MJJames
+10301,10,Providence Country Day School,660 Waterman Avenue,East Providence,RI,02914,1,54,Elementary/Secondary,3,Private,place,-71.35774,41.81682,3/22/19,MJJames
+10303,10,E. Providence Early Childhood Center,240 Crescent View Avenue,East Providence,RI,02915,1,10,PK Only,3,Private,amenity,-71.35669,41.75856,3/22/19,MJJames
+10304,10,The Gordon School,45 Maxfield Avenue,East Providence,RI,02914,1,50,PK-3/Elementary,3,Private,amenity,-71.37287,41.80137,3/22/19,MJJames
+10305,28,Meeting Street School,1000 Eddy Street,Providence,RI,02905,1,54,Elementary/Secondary,3,Private,building,-71.4056,41.80121,3/22/19,MJJames
+10309,10,Brown Play School,4 Newman Avenue,Rumford,RI,02916,1,10,PK Only,3,Private,place,-71.35204,41.84131,3/22/19,MJJames
+10310,10,The Children's Workshop-Rumford,411 Narragansett Park Drive,Rumford,RI,02916,1,20,Elementary,3,Private,highway,-71.34399,41.85778,3/22/19,MJJames
+10312,10,The Wolf School,215 Ferris Avenue,East Providence,RI,02916,1,20,Elementary,3,Private,place,-71.34945,41.84979,3/22/19,MJJames
+10325,10,Oliver Day School,162 Robinson Street,East Providence,RI,02914,1,50,PK-3/Elementary,3,Private,place,-71.36666,41.79924,3/22/19,MJJames
+10332,10,Covenant Cooperative Nursery School,165 Rounds Avenue,Riverside,RI,02915,1,10,PK Only,3,Private,place,-71.3406,41.76817,3/22/19,MJJames
+10333,10,Ocean State Montessori School,100 Grove Avenue,East Providence,RI,02914,1,50,PK-3/Elementary,3,Private,place,-71.37177,41.81769,3/22/19,MJJames
+10344,,East Bay Head Start-Willett Avenue,386 Willett Avenue,Riverside,RI,02915,1,10,PK Only,3,Private,place,-71.35441,41.77378,3/22/19,MJJames
+10406,10,Motoring Technical Training Institute,54 Water Street,East Providence,RI,02914,1,60,Postsecondary,4,Postsecondary,place,-71.38561,41.81758,3/22/19,MJJames
+12101,12,Captain Isaac Paine Elementary School,160 Foster Center Road,Foster,RI,02825,1,20,Elementary,1,Public,place,-71.72771,41.80465,3/22/19,MJJames
+13103,13,Fogarty Memorial School,736 Snake Hill Road,Glocester,RI,02857,1,20,Elementary,1,Public,place,-71.63731,41.87895,3/22/19,MJJames
+13104,13,West Glocester Elementary,111 Reynolds Road,Glocester,RI,02814,1,50,PK-3/Elementary,1,Public,place,-71.77243,41.91246,3/22/19,MJJames
+13301,13,Harmony Hill School,63 Harmony Hill Road,Glocester,RI,02814,1,54,Elementary/Secondary,3,Private,place,-71.62328,41.9156,3/22/19,MJJames
+13302,13,The Learning Place,21 Terry Lane,Glocester,RI,02814,1,50,PK-Private/Elementary,3,Private,place,-71.64612,41.90226,3/22/19,MJJames
+13903,,Harmony Child Care & Learning Center,185 Putnam Pike,Chepachet,RI,02814,1,10,PK Only,9,Other,highway,-71.67161,41.9153,3/22/19,MJJames
+15101,15,Jamestown School-Lawn,55 Lawn Avenue,Jamestown,RI,02835,1,30,Middle,1,Public,place,-71.37787,41.49921,3/22/19,MJJames
+15102,15,Jamestown School-Melrose,76 Melrose Avenue,Jamestown,RI,02835,1,20,Elementary,1,Public,place,-71.38113,41.50004,3/22/19,MJJames
+16103,16,Thornton School,4 School Street,Johnston,RI,02919,1,20,Elementary,1,Public,place,-71.47873,41.798,3/22/19,MJJames
+16106,16,Brown Avenue School,14 Brown Avenue,Johnston,RI,02919,1,20,Elementary,1,Public,place,-71.54835,41.83379,3/22/19,MJJames
+16108,16,Sarah Dyer Barnes School,24 Barnes Avenue,Johnston,RI,02919,1,20,Elementary,1,Public,place,-71.48625,41.83742,3/22/19,MJJames
+16109,16,Winsor Hill School,100 Theresa Street,Johnston,RI,02919,1,20,Elementary,1,Public,place,-71.47566,41.81682,3/22/19,MJJames
+16110,16,Graniteville School,6 Collins Avenue,Johnston,RI,02919,1,10,PK Only,1,Public,place,-71.49409,41.86308,3/22/19,MJJames
+16111,16,Nicholas A. Ferri Middle School,10 Memorial Avenue,Johnston,RI,02919,1,30,Middle,1,Public,place,-71.50768,41.8284,3/22/19,MJJames
+16112,16,Johnston Senior High School,345 Cherry Hill Road,Johnston,RI,02919,1,40,Secondary,1,Public,place,-71.49733,41.83136,3/22/19,MJJames
+16114,16,Early Childhood Center,10 Memorial Avenue,Johnston,RI,02919,1,20,Elementary,1,Public,place,-71.50768,41.8284,3/22/19,MJJames
+16116,16,Calef School (High School Annex),7 Waveland Street,Johnston,RI,02919,1,40,Secondary,1,Public,place,-71.47506,41.83149,3/22/19,MJJames
+16221,16,St. Rocco School,931 Atwood Avenue,Johnston,RI,02919,1,50,PK-3/Elementary,2,Parochial,place,-71.48419,41.79706,3/22/19,MJJames
+16302,,Creative Center Daycare and Preschool II,2952 Hartford Avenue,Johnston,RI,02919,1,50,PK-3/Elementary,3,Private,highway,-71.47974,41.8207,3/22/19,MJJames
+16304,,Vanguard Christian Academy,300 Morgan Avenue,Johnston,RI,02919,1,40,Secondary,3,Private,place,-71.48672,41.80527,3/22/19,MJJames
+16326,16,Johnston Child Care Center,87 Putnam Pike,Johnston,RI,02919,1,10,PK Only,3,Private,amenity,-71.49201,41.86268,3/22/19,MJJames
+16330,16,Cherry Hill Preschool,10 Waterman Avenue,Johnston,RI,02919,1,10,PK Only,3,Private,place,-71.47727,41.83423,3/22/19,MJJames
+16332,16,Kinder-Care At Work,350 Central Avenue,Johnston,RI,02919,1,50,PK-3/Elementary,3,Private,place,-71.49027,41.8102,3/22/19,MJJames
+16334,16,Trinity Christian Academy,2119 Hartford Avenue,Johnston,RI,02919,1,50,PK-3/Elementary,3,Private,highway,-71.47974,41.8207,3/22/19,MJJames
+17106,17,Lonsdale Elementary School,270 River Road,Lincoln,RI,02865,1,20,Elementary,1,Public,amenity,-71.41626,41.90868,3/22/19,MJJames
+17109,17,Lincoln Central Elementary School,1081 Great Road,Lincoln,RI,02865,1,20,Elementary,1,Public,amenity,-71.44588,41.92862,3/22/19,MJJames
+17110,17,Lincoln Senior High School,135 Old River Road,Lincoln,RI,02865,1,40,Secondary,1,Public,amenity,-71.45058,41.93722,3/22/19,MJJames
+17112,17,Saylesville Elementary School,50 Woodland Street,Lincoln,RI,02865,1,20,Elementary,1,Public,amenity,-71.41339,41.89273,3/22/19,MJJames
+17113,17,Northern Lincoln Elementary School,315 New River Road,Manville,RI,02838,1,50,PK-3/Elementary,1,Public,place,-71.46705,41.9618,3/22/19,MJJames
+17117,17,Lincoln Middle School,152 Jenckes Hill Road,Lincoln,RI,02865,1,30,Middle,1,Public,amenity,-71.47373,41.91026,3/22/19,MJJames
+17302,17,Maple Hill Early Learning Center,3357 Mendon Rd,Cumberland,RI,02864,1,10,PK Only,3,Private,amenity,-71.45824,41.97786,3/22/19,MJJames
+17304,,A Childs University - Smithfield,370 George Washington Highway,Smithfield,RI,02917,1,12,PK-3,3,Private,highway,-71.48528,41.93505,3/22/19,MJJames
+17323,17,MacColl YMCA,32 Breakneck Hill Rd.,Lincoln,RI,02865,1,10,PK Only,3,Private,place,-71.44449,41.90314,3/22/19,MJJames
+17330,17,The Children's Workshop-Lincoln,25 Blackstone Valley Place,Lincoln,RI,02865,1,10,PK Only,3,Private,place,-71.45742,41.93729,3/22/19,MJJames
+17336,17,The Spurwink School,11 Maplehurst Street,Lincoln,RI,02865,1,54,Elementary/Secondary,3,Private,place,-71.41585,41.91307,3/22/19,MJJames
+17403,17,Smithfield Tractor Trailer Driving School,10 A Appian Way,Smithfield,RI,02917,1,60,Postsecondary,4,Postsecondary,place,-71.53381,41.91027,3/22/19,MJJames
+17404,17,Lincoln Technical Institute,622 George Washington Highway,Lincoln,RI,02865,1,60,Postsecondary,4,Postsecondary,amenity,-71.47732,41.93884,3/22/19,MJJames
+17501,H1,Community College of R.I. - Flanagan Campus,1762 Old Louisquisset Pike,Lincoln,RI,02865,1,60,Postsecondary,5,Postsecondary,place,-71.45115,41.90175,3/22/19,MJJames
+17701,40,Wm. M. Davies Jr. Career-Technical  High School,50 Jenckes Hill Road,Lincoln,RI,02865,1,40,Secondary,7,State_operated,amenity,-71.45652,41.90223,3/22/19,MJJames
+18101,18,Wilbur and McMahon Schools,28 Commons,Little Compton,RI,02837,1,20,Elementary,1,Public,place,-71.17387,41.50902,3/22/19,MJJames
+18301,18,Little Compton Nursery School,149 Long Highway,Little Compton,RI,02837,1,10,PK Only,3,Private,place,-71.15734,41.54282,3/22/19,MJJames
+18302,18,Little Peeps Montessori Naturskola,4 Commons Street,Little Compton,RI,02837,1,50,PK-3/Elementary,3,Private,highway,-71.17309,41.50905,3/22/19,MJJames
+19106,19,Aquidneck School,70 Reservoir Road,Middletown,RI,02842,1,50,PK-3/Elementary,1,Public,place,-71.28221,41.49596,3/22/19,MJJames
+19107,19,Forest Avenue School,315 Forest Avenue,Middletown,RI,02842,1,50,PK-3/Elementary,1,Public,place,-71.28596,41.52559,3/22/19,MJJames
+19111,19,Middletown High School,130 Valley Road,Middletown,RI,02842,1,40,Secondary,1,Public,place,-71.29131,41.51496,3/22/19,MJJames
+19114,19,Joseph H. Gaudet School,1113 Aquidneck Avenue,Middletown,RI,02842,1,20,Elementary,1,Public,place,-71.28309,41.51806,3/22/19,MJJames
+19117,19,Joseph H. Gaudet Learning Academy,1113 Aquidneck Ave.,Middletown,RI,02842,1,20,Elementary,1,Public,place,-71.28309,41.51806,3/22/19,MJJames
+19201,19,All Saints Academy,915 West Main Road,Middletown,RI,02842,1,20,Elementary,2,Parochial,highway,-71.29586,41.52826,3/22/19,MJJames
+19301,19,St. George's School,372 Purgatory Road,Middletown,RI,02842,1,40,Secondary,3,Private,place,-71.27132,41.48828,3/22/19,MJJames
+19304,19,Little Friends,33 Mitchells Lane,Middletown,RI,02842,1,50,PK-3/Elementary,3,Private,place,-71.26092,41.53436,3/22/19,MJJames
+19305,19,Shining Star Preschool,365 Valley Road,Middletown,RI,02842,1,10,PK Only,3,Private,place,-71.28958,41.50903,3/22/19,MJJames
+19307,19,Kinder Art,146 Aquidneck Avenue,Middletown,RI,02842,1,20,Elementary,3,Private,place,-71.28479,41.49472,3/22/19,MJJames
+19308,19,Calvary Christian Preschool,200 Turner Road,Middletown,RI,02842,1,10,PK Only,3,Private,place,-71.27638,41.52064,3/22/19,MJJames
+19309,19,Sandpipers Early Learning Center,31 John Clarke Road,Middletown,RI,02842,1,10,PK Only,3,Private,place,-71.28656,41.50231,3/22/19,MJJames
+19321,19,Silveira Kindergarten and Nursery School,143 Peckham Lane,Middletown,RI,02842,1,50,PK-3/Elementary,3,Private,place,-71.25015,41.51915,3/22/19,MJJames
+19322,19,Bright Ideas,1272 West Main Road,Middletown,RI,02842,1,50,PK-3/Elementary,3,Private,highway,-71.29586,41.52826,3/22/19,MJJames
+19328,19,KinderCare Learning Center-Middletown,70 Corporate Place,Middletown,RI,02842,1,50,PK-3/Elementary,3,Private,place,-71.29813,41.53068,3/22/19,MJJames
+19334,,East Bay Community Action Program Head Start,654 Green End Ave.,Middletown,RI,02842,1,50,PK-3/Elementary,3,Private,place,-71.27428,41.50884,3/22/19,MJJames
+20102,20,Narragansett Elementary School,55 Mumford Road,Narragansett,RI,02882,1,50,PK-3/Elementary,1,Public,place,-71.47413,41.43834,3/22/19,MJJames
+20103,20,Narragansett Pier School,235 South Pier Road,Narragansett,RI,02882,1,30,Middle,1,Public,place,-71.47085,41.42698,3/22/19,MJJames
+20104,20,Narragansett High School,245 South Pier Road,Narragansett,RI,02882,1,40,Secondary,1,Public,building,-71.4697,41.43037,3/22/19,MJJames
+20330,20,St. Peter's Preschool By-the-Sea,66 Central Street,Narragansett,RI,02882,1,10,PK Only,3,Private,place,-71.45939,41.42874,3/22/19,MJJames
+20332,67,Ocean Tides,635 Ocean Road,Narragansett,RI,02882,1,40,Secondary,3,Private,place,-71.46457,41.40084,3/22/19,MJJames
+21106,21,Frank E. Thompson Middle School,55 Broadway,Newport,RI,02840,1,30,Middle,1,Public,place,-71.31131,41.49204,3/22/19,MJJames
+21107,21,Claiborne Pell Elementary School,35 Dexter Street,Newport,RI,02840,1,20,Elementary,1,Public,place,-71.30623,41.50874,3/22/19,MJJames
+21111,21,Rogers High School,15 Wickham Road,Newport,RI,02840,1,40,Secondary,1,Public,amenity,-71.32163,41.46875,3/22/19,MJJames
+21113,21,The Pell Annex @ John F. Kennedy School,740 West Main Road,Middletown,RI,02842,1,12,PK-3,1,Public,place,-71.29815,41.5242,3/22/19,MJJames
+21117,21,Newport Area Career and Technical Center,15 Wickham Rd,Newport,RI,02840,1,40,Secondary,1,Public,amenity,-71.32163,41.46875,3/22/19,MJJames
+21304,21,St. Michael's Country Day School,180 Rhode Island Avenue,Newport,RI,02840,1,52,PK-12,3,Private,place,-71.30168,41.48534,3/22/19,MJJames
+21306,21,The Emmanuel Day School,42 Dearborn Street,Newport,RI,02840,1,10,PK Only,3,Private,amenity,-71.31274,41.4795,3/22/19,MJJames
+21307,28,Child Development Center,1376 Bushnell Street,Newport,RI,02841,1,10,PK Only,3,Private,highway,-71.30812,41.5299,3/22/19,MJJames
+21339,,East Bay Community Action Program Head Start,8 John H Chafee Blvd,Newport,RI,02840,1,10,PK Only,3,Private,place,-71.31347,41.51819,3/22/19,MJJames
+21405,21,International Yacht Restoration School,449 Thames Street,Newport,RI,02840,1,60,Postsecondary,4,Postsecondary,highway,-71.31512,41.48852,3/22/19,MJJames
+21501,21,Salve Regina University,100 Ochre Point Avenue,Newport,RI,02840,1,60,Postsecondary,5,Postsecondary,highway,-71.30009,41.47222,3/22/19,MJJames
+21502,21,Naval War College,686 Cushing Road,Newport,RI,02841,1,60,Postsecondary,5,Postsecondary,highway,-71.32917,41.51187,3/22/19,MJJames
+21503,H1,Community College of R.I. Newport County Campus,One John H. Chafee Blvd.,Newport,RI,02840,1,60,Postsecondary,5,Postsecondary,highway,-71.31289,41.5172,3/22/19,MJJames
+21901,,James L. Maher School,120 Hillside Avenue,Newport,RI,02840,1,40,Secondary,9,Other,highway,-71.30891,41.51209,3/22/19,MJJames
+21903,,Newport Public Library,300 Spring Street,Newport,RI,02840,1,54,Elementary/Secondary,9,Other,building,-71.3124,41.48259,3/22/19,MJJames
+22101,22,Block Island School,15 High Street,New Shoreham,RI,02807,1,54,Elementary/Secondary,1,Public,place,-71.5585,41.17057,3/22/19,MJJames
+22301,22,Block Island Early Learning Center,91 Chapel Street,New Shoreham,RI,02807,1,10,PK Only,3,Private,place,-71.55921,41.17268,3/22/19,MJJames
+23105,23,Wickford Middle School,250 Tower Hill Road,North Kingstown,RI,02852,1,30,Middle,1,Public,amenity,-71.46034,41.5676,3/22/19,MJJames
+23108,23,North Kingstown Senior High School,150 Fairway Drive,North Kingstown,RI,02852,1,40,Secondary,1,Public,amenity,-71.4463,41.55678,3/22/19,MJJames
+23109,23,Fishing Cove Elementary School,110 Wickford Point Road,North Kingstown,RI,02852,1,50,PK-3/Elementary,1,Public,place,-71.44541,41.58978,3/22/19,MJJames
+23110,23,Forest Park Elementary School,50 Woodlawn Drive,North Kingstown,RI,02852,1,20,Elementary,1,Public,place,-71.45338,41.621,3/22/19,MJJames
+23111,23,Hamilton Elementary School,25 Salisbury Avenue,North Kingstown,RI,02852,1,20,Elementary,1,Public,place,-71.44042,41.54824,3/22/19,MJJames
+23112,23,Davisville Middle School,200 School Street,North Kingstown,RI,02852,1,30,Middle,1,Public,place,-71.46589,41.61985,3/22/19,MJJames
+23113,23,Suzanne M. Henseler Quidnessett Elementary School,166 Mark Drive,North Kingstown,RI,02852,1,20,Elementary,1,Public,place,-71.43987,41.61342,3/22/19,MJJames
+23114,23,Stony Lane Elementary School,825 Stony Lane,North Kingstown,RI,02852,1,20,Elementary,1,Public,amenity,-71.48621,41.5938,3/22/19,MJJames
+23301,23,North Kingstown Day Care and Preschool,690 Boston Neck Road,North Kingstown,RI,02852,1,10,PK Only,3,Private,place,-71.44073,41.55282,3/22/19,MJJames
+23303,23,Sunshine Child Development Center,11 Iafrate Way,North Kingstown,RI,02852,1,10,PK Only,3,Private,highway,-71.45033,41.6063,3/22/19,MJJames
+23304,,Perspectives Therapeutic Classroom,1130 Ten Rod Road,North Kingstown,RI,02852,1,22,Elementary/Middle,3,Private,place,-71.49637,41.58276,3/22/19,MJJames
+23322,23,St. Paul's Nursery School,76 Main Street,North Kingstown,RI,02852,1,10,PK Only,3,Private,place,-71.44971,41.57196,3/22/19,MJJames
+23324,23,The Children's Workshop,445 School Street,North Kingstown,RI,02852,1,10,PK Only,3,Private,place,-71.47031,41.61598,3/22/19,MJJames
+23328,23,Wickford Nursery School,640 Ten Rod Road,North Kingstown,RI,02852,1,10,PK Only,3,Private,place,-71.48474,41.57276,3/22/19,MJJames
+23331,23,South County Montessori School,1239 Tower Hill Road,North Kingstown,RI,02852,1,50,PK-3/Elementary,3,Private,place,-71.46857,41.54111,3/22/19,MJJames
+23334,23,West Bay Christian Academy,475 School Street,North Kingstown,RI,02852,1,20,Elementary,3,Private,amenity,-71.47231,41.61514,3/22/19,MJJames
+23337,23,Children's Learning Express,7525 Post Road,North Kingstown,RI,02852,1,50,PK-3/Elementary,3,Private,place,-71.45764,41.58994,3/22/19,MJJames
+23601,55,The Compass School,537 Old North Road,Kingston,RI,02881,1,20,Elementary,6,Charter,place,-71.5173,41.49459,3/22/19,MJJames
+23903,,Creative Options,91 Weaver Road,North Kingstown,RI,02852,1,56,Ungraded,9,Other,place,-71.44238,41.54474,3/22/19,MJJames
+24103,24,Marieville Elementary School,1135 Mineral Spring Avenue,North Providence,RI,02904,1,20,Elementary,1,Public,place,-71.43319,41.8686,3/22/19,MJJames
+24105,24,North Providence High School,1828 Mineral Spring Avenue,North Providence,RI,02904,1,40,Secondary,1,Public,amenity,-71.45931,41.85998,3/22/19,MJJames
+24106,24,Stephen Olney School,622 Woonasquatucket Avenue,North Providence,RI,02911,1,20,Elementary,1,Public,place,-71.48236,41.85515,3/22/19,MJJames
+24107,24,James L. McGuire School,7 Waveland Street,Johnston,RI,02919,1,20,Elementary,1,Public,place,-71.47506,41.83149,3/22/19,MJJames
+24108,24,Dr. Joseph A Whelan Elementary School,1440 Mineral Spring Avenue,North Providence,RI,02904,1,20,Elementary,1,Public,place,-71.44258,41.86599,3/22/19,MJJames
+24109,24,Centredale School,41 Angell Avenue,North Providence,RI,02911,1,50,PK-3/Elementary,1,Public,place,-71.47832,41.8572,3/22/19,MJJames
+24110,24,Greystone School,100 Morgan Avenue,North Providence,RI,02911,1,20,Elementary,1,Public,amenity,-71.48318,41.86204,3/22/19,MJJames
+24111,24,Dr. Edward A. Ricci Middle School,51 Intervale Avenue,North Providence,RI,02911,1,30,Middle,1,Public,highway,-71.47627,41.84669,3/22/19,MJJames
+24112,24,Birchwood Middle School,10 Birchwood Drive,North Providence,RI,02904,1,30,Middle,1,Public,amenity,-71.45105,41.86853,3/22/19,MJJames
+24303,,Way to Grow,One Falco Street,North Providence,RI,02911,1,10,PK Only,3,Private,highway,-71.47836,41.84507,3/22/19,MJJames
+24305,24,St. Mary's Home for Children/George N. Hunt Campus,420 Fruit Hill Avenue,North Providence,RI,02911,1,54,Elementary/Secondary,3,Private,place,-71.46483,41.84983,3/22/19,MJJames
+25106,25,Dr. Harry L. Halliwell Memorial School,358 Victory Highway,North Smithfield,RI,02896,1,20,Elementary,1,Public,highway,-71.59933,41.99153,3/22/19,MJJames
+25108,25,North Smithfield High School,412 Greenville Road,North Smithfield,RI,02896,1,40,Secondary,1,Public,place,-71.54363,41.95555,3/22/19,MJJames
+25109,25,North Smithfield Middle School,1850 Providence Pike,North Smithfield,RI,02896,1,30,Middle,1,Public,place,-71.54686,41.95301,3/22/19,MJJames
+25110,25,North Smithfield Elementary School,2214 Providence Pike,North Smithfield,RI,02896,1,50,PK-3/Elementary,1,Public,amenity,-71.5399,41.94026,3/22/19,MJJames
+25302,,Dr. Day Care Child Development Center North Smithf,621 Pound Hill Road,North Smithfield,RI,02896,1,50,PK-3/Elementary,3,Private,place,-71.5555,41.98827,3/22/19,MJJames
+26103,26,Joseph Jenks Middle School,350 Division Street,Pawtucket,RI,02860,1,30,Middle,1,Public,amenity,-71.37074,41.87613,3/22/19,MJJames
+26105,26,William E Tolman Senior High School,150 Exchange Street,Pawtucket,RI,02860,1,40,Secondary,1,Public,highway,-71.37976,41.87975,3/22/19,MJJames
+26106,26,Samuel Slater Middle School,281 Mineral Spring Avenue,Pawtucket,RI,02860,1,30,Middle,1,Public,amenity,-71.40033,41.87427,3/22/19,MJJames
+26107,26,Lyman B. Goff Middle School,974 Newport Avenue,Pawtucket,RI,02861,1,30,Middle,1,Public,place,-71.3541,41.88137,3/22/19,MJJames
+26109,26,Jacqueline M. Walsh School for the Performing and Visual Arts,350 Division Street,Pawtucket,RI,02860,1,40,Secondary,1,Public,amenity,-71.37074,41.87613,3/22/19,MJJames
+26110,26,Potter-Burns School,973 Newport Avenue,Pawtucket,RI,02861,1,20,Elementary,1,Public,amenity,-71.35351,41.88184,3/22/19,MJJames
+26111,26,Nathanael Greene School,"285 Smithfield Ave  Pawtucket,",Pawtucket,RI,02861,1,50,PK-3/Elementary,1,Public,amenity,-71.41214,41.86757,3/22/19,MJJames
+26113,26,Fallon Memorial School,62 Lincoln Avenue,Pawtucket,RI,02861,1,20,Elementary,1,Public,place,-71.36081,41.86884,3/22/19,MJJames
+26115,26,Flora S. Curtis Memorial School,582 Benefit Street,Pawtucket,RI,02861,1,20,Elementary,1,Public,place,-71.34841,41.89189,3/22/19,MJJames
+26116,26,Curvin-McCabe School,466 Cottage Street,Pawtucket,RI,02861,1,20,Elementary,1,Public,highway,-71.3779,41.87918,3/22/19,MJJames
+26118,26,Charles E. Shea High School,485 East Avenue,Pawtucket,RI,02860,1,40,Secondary,1,Public,place,-71.38742,41.86583,3/22/19,MJJames
+26119,26,Henry J. Winters School,481 Broadway,Pawtucket,RI,02860,1,20,Elementary,1,Public,place,-71.37512,41.88664,3/22/19,MJJames
+26120,26,Elizabeth Baldwin School,50 Whitman Street,Pawtucket,RI,02860,1,20,Elementary,1,Public,amenity,-71.39638,41.86824,3/22/19,MJJames
+26121,26,M. Virginia Cunningham School,40 Baldwin Street,Pawtucket,RI,02860,1,20,Elementary,1,Public,place,-71.40147,41.87537,3/22/19,MJJames
+26122,26,Agnes E. Little School,60 South Bend Street,Pawtucket,RI,02860,1,20,Elementary,1,Public,amenity,-71.37184,41.87672,3/22/19,MJJames
+26125,26,Francis J. Varieur School,486 Pleasant Street,Pawtucket,RI,02860,1,20,Elementary,1,Public,place,-71.38421,41.86638,3/22/19,MJJames
+26203,26,St. Cecilia School,755 Central Avenue,Pawtucket,RI,02861,1,50,PK-3/Elementary,2,Parochial,place,-71.35292,41.88815,3/22/19,MJJames
+26210,26,St. Raphael Academy,123 Walcott Street,Pawtucket,RI,02860,1,40,Secondary,2,Parochial,amenity,-71.37654,41.87675,3/22/19,MJJames
+26211,26,St. Teresa School,140 Woodhaven Road,Pawtucket,RI,02861,1,20,Elementary,2,Parochial,place,-71.35609,41.86733,3/22/19,MJJames
+26213,26,Woodlawn Catholic Regional School,61 Hope Street,Pawtucket,RI,02860,1,20,Elementary,2,Parochial,place,-71.40201,41.87611,3/22/19,MJJames
+26214,,Getsemani Christian Academy-Pending approval,1080 Newport Ave.,Pawtucket,RI,02861,1,52,PK-12,2,Parochial,place,-71.35429,41.884,3/22/19,MJJames
+26308,26,Heritage Park Early Learning Center,333 Roosevelt Avenue,Pawtucket,RI,02860,1,10,PK Only,3,Private,amenity,-71.38168,41.88224,3/22/19,MJJames
+26325,26,Puss 'n Boots Nursery School,178 Sayles Avenue,Pawtucket,RI,02860,1,10,PK Only,3,Private,place,-71.39332,41.86503,3/22/19,MJJames
+26327,26,Smithfield Avenue Nursery School and Kindergarten,514 Smithfield Avenue,Pawtucket,RI,02860,1,50,PK-3/Elementary,3,Private,amenity,-71.41524,41.87605,3/22/19,MJJames
+26328,26,Darlington Early Childhood Center,680 Newport Avenue,Pawtucket,RI,02861,1,50,PK-3/Elementary,3,Private,amenity,-71.35464,41.87519,3/22/19,MJJames
+26329,26,The Children's Workshop-East Street,178 East Street,Pawtucket,RI,02860,1,10,PK Only,3,Private,place,-71.37555,41.89039,3/22/19,MJJames
+26332,26,T.L.C. Day Care Center,550 Newport Avenue,Pawtucket,RI,02861,1,50,PK-3/Elementary,3,Private,place,-71.35446,41.87141,3/22/19,MJJames
+26336,26,The Tides School - Pawtucket,242 Dexter Street,Pawtucket,RI,02860,1,54,Elementary/Secondary,3,Private,highway,-71.38727,41.87817,3/22/19,MJJames
+26339,,Dr. Day Care Child Development Center,301 Concord Street,Pawtucket,RI,02860,1,50,PK-3/Elementary,3,Private,highway,-71.4076,41.86116,3/22/19,MJJames
+26341,26,Rhode Island Alternative Academy,249 Roosevelt Ave #1,Pawtucket,RI,02860,1,54,Elementary/Secondary,3,Private,place,-71.38224,41.88239,3/22/19,MJJames
+26404,26,Sawyer School,101 Main Street,Pawtucket,RI,02860,1,60,Postsecondary,4,Postsecondary,place,-71.38198,41.87577,3/22/19,MJJames
+26410,26,NE Tractor Trailer Training School of MA,600 Moshassuck Valley Industrial Highway,Pawtucket,RI,02860,1,60,Postsecondary,4,Postsecondary,place,-71.40522,41.87974,3/22/19,MJJames
+26424,26,Newport School of Hairdressing,222-226 Main Street,Pawtucket,RI,02860,1,60,Postsecondary,4,Postsecondary,place,-71.38404,41.87691,3/22/19,MJJames
+26601,53,International Charter School,334 Pleasant Street,Pawtucket,RI,02860,1,20,Elementary,6,Charter,place,-71.38519,41.86895,3/22/19,MJJames
+26602,54,Blackstone Academy Charter School,334 Pleasant Street,Pawtucket,RI,02860,1,40,Secondary,6,Charter,place,-71.38519,41.86895,3/22/19,MJJames
+27104,27,Howard Hathaway School,53 Tallman Avenue,Portsmouth,RI,02871,1,50,PK-3/Elementary,1,Public,place,-71.24465,41.61732,3/22/19,MJJames
+27106,27,Portsmouth High School,120 Education Lane,Portsmouth,RI,02871,1,40,Secondary,1,Public,amenity,-71.25085,41.61117,3/22/19,MJJames
+27111,27,Melville Elementary School,1351 West Main Road,Portsmouth,RI,02871,1,20,Elementary,1,Public,highway,-71.26002,41.60994,3/22/19,MJJames
+27112,27,Portsmouth Middle School,125 Jepson Lane,Portsmouth,RI,02871,1,30,Middle,1,Public,amenity,-71.28515,41.55497,3/22/19,MJJames
+27202,27,St. Philomena School,324 Cory's Lane,Portsmouth,RI,02871,1,20,Elementary,2,Parochial,place,-71.27294,41.59992,3/22/19,MJJames
+27301,27,Portsmouth Abbey School,285 Cory's Lane,Portsmouth,RI,02871,1,40,Secondary,3,Private,highway,-71.27068,41.59808,3/22/19,MJJames
+27302,27,The Bradley School,2820 East Main Road,Portsmouth,RI,02871,1,54,Elementary/Secondary,3,Private,place,-71.24713,41.6068,3/22/19,MJJames
+27304,27,Aquidneck Island Christian Academy,321 East Main Road,Portsmouth,RI,02871,1,54,Elementary/Secondary,3,Private,place,-71.26038,41.54578,3/22/19,MJJames
+27305,27,The Poplar School-North Campus,324 East Main Road,Portsmouth,RI,02871,1,10,PK Only,3,Private,place,-71.26061,41.5458,3/22/19,MJJames
+27306,,Sea Rose Montessori Co-op,324 East Main Road,Portsmouth,RI,02871,1,12,PK-3,3,Private,place,-71.26061,41.5458,3/22/19,MJJames
+27324,27,The Pennfield School,110 Sandy Point Avenue,Portsmouth,RI,02871,1,50,PK-3/Elementary,3,Private,amenity,-71.25212,41.55228,3/22/19,MJJames
+27325,27,Portsmouth Nursery School,2732 East Main Road,Portsmouth,RI,02871,1,10,PK Only,3,Private,place,-71.24761,41.6034,3/22/19,MJJames
+27903,,Great Place To Learn,934 East Main Road,Portsmouth,RI,02871,1,56,Ungraded,9,Other,place,-71.25495,41.55957,3/22/19,MJJames
+27904,,Portsmouth Preschool and Child Care,2870 East Main Road,Portsmouth,RI,02871,1,10,PK Only,9,Other,highway,-71.24543,41.61996,3/22/19,MJJames
+27905,,Countryside Children's Center,1676 East Main Road,Portsmouth,RI,02871,1,10,PK Only,9,Other,place,-71.25204,41.57748,3/22/19,MJJames
+27906,,The Children's School-Montessori,1985 E Main Rd,Portsmouth,RI,02871,1,10,PK Only,9,Other,highway,-71.24543,41.61996,3/22/19,MJJames
+28103,28,Leviton Dual Language School,65 Greenwich Street,Providence,RI,02907,1,50,PK-3/Elementary,1,Public,place,-71.42858,41.80238,3/22/19,MJJames
+28106,28,Frank D. Spaziano Elementary School Annex,240 Laban Street,Providence,RI,02909,1,20,Elementary,1,Public,place,-71.45637,41.81443,3/22/19,MJJames
+28113,28,Dr. Jorge Alvarez High School,375 Adelaide Avenue,Providence,RI,02907,1,40,Secondary,1,Public,place,-71.43156,41.79386,3/22/19,MJJames
+28115,28,Asa Messer Elementary School,1655 Westminster Street,Providence,RI,02909,1,20,Elementary,1,Public,building,-71.4374,41.81655,3/22/19,MJJames
+28116,28,Alan Shawn Feinstein Elementary at Broad Street,1450 Broad Street,Providence,RI,02905,1,20,Elementary,1,Public,amenity,-71.40289,41.78799,3/22/19,MJJames
+28121,28,Alfred Lima Sr. Elementary School,222 Daboll Street,Providence,RI,02907,1,20,Elementary,1,Public,place,-71.42836,41.804,3/22/19,MJJames
+28122,28,Charles N. Fortes Elementary School,234 Daboll Street,Providence,RI,02907,1,20,Elementary,1,Public,place,-71.42861,41.80399,3/22/19,MJJames
+28127,28,Webster Avenue School,191 Webster Avenue,Providence,RI,02909,1,20,Elementary,1,Public,place,-71.44951,41.81072,3/22/19,MJJames
+28130,28,Veazie Street School,211 Veazie Street,Providence,RI,02904,1,20,Elementary,1,Public,place,-71.43463,41.85168,3/22/19,MJJames
+28134,28,Frank D. Spaziano Elementary School,85 Laurel Hill Avenue,Providence,RI,02909,1,20,Elementary,1,Public,place,-71.71031,41.96548,3/22/19,MJJames
+28135,28,George J. West Elementary School,145 Beaufort Street,Providence,RI,02908,1,20,Elementary,1,Public,place,-71.45034,41.83043,3/22/19,MJJames
+28137,28,Esek Hopkins Middle School,480 Charles Street,Providence,RI,02904,1,30,Middle,1,Public,place,-71.41966,41.84756,3/22/19,MJJames
+28138,28,Robert F. Kennedy Elementary School,195 Nelson Street,Providence,RI,02908,1,20,Elementary,1,Public,amenity,-71.4438,41.84294,3/22/19,MJJames
+28139,28,Central High School,70 Fricker Street,Providence,RI,02903,1,40,Secondary,1,Public,place,-71.42159,41.81652,3/22/19,MJJames
+28140,28,Carl G. Lauro Elementary School,99 Kenyon Street,Providence,RI,02903,1,20,Elementary,1,Public,place,-71.42538,41.82144,3/22/19,MJJames
+28142,28,Reservoir Avenue School,156 Reservoir Avenue,Providence,RI,02907,1,20,Elementary,1,Public,amenity,-71.42769,41.79175,3/22/19,MJJames
+28143,28,Nathan Bishop Middle School,101 Sessions Street,Providence,RI,02906,1,30,Middle,1,Public,place,-71.39242,41.84123,3/22/19,MJJames
+28144,28,Gilbert Stuart Middle School,188 Princeton Avenue,Providence,RI,02907,1,30,Middle,1,Public,place,-71.42486,41.80528,3/22/19,MJJames
+28145,28,Nathanael Greene Middle School,721 Chalkstone Avenue,Providence,RI,02908,1,30,Middle,1,Public,amenity,-71.43144,41.83456,3/22/19,MJJames
+28147,28,Roger Williams Middle School,278 Thurbers Avenue,Providence,RI,02905,1,30,Middle,1,Public,place,-71.41083,41.79886,3/22/19,MJJames
+28149,28,Hope High School,324 Hope Street,Providence,RI,02906,1,40,Secondary,1,Public,place,-71.40154,41.83456,3/22/19,MJJames
+28150,28,Mount Pleasant High School,434 Mt. Pleasant Avenue,Providence,RI,02908,1,40,Secondary,1,Public,amenity,-71.45327,41.83882,3/22/19,MJJames
+28151,28,Vartan Gregorian Elementary School,455 Wickenden St.,Providence,RI,02903,1,20,Elementary,1,Public,place,-71.39491,41.81987,3/22/19,MJJames
+28153,28,William D'Abate Elementary School,60 Kossuth Street,Providence,RI,02909,1,20,Elementary,1,Public,place,-71.44702,41.82214,3/22/19,MJJames
+28156,28,Robert L Bailey IV Elementary School,65 Gordon Avenue,Providence,RI,02905,1,50,PK-3/Elementary,1,Public,place,-71.41599,41.80404,3/22/19,MJJames
+28157,28,Lillian Feinstein Elementary,159 Sackett Street,Providence,RI,02907,1,20,Elementary,1,Public,place,-71.41929,41.79402,3/22/19,MJJames
+28160,28,Mary E. Fogarty Elementary School,199 Oxford Street,Providence,RI,02905,1,20,Elementary,1,Public,place,-71.41137,41.80189,3/22/19,MJJames
+28161,28,Harry Kizirian Elementary School,60 Camden Avenue,Providence,RI,02908,1,20,Elementary,1,Public,place,-71.42592,41.83714,3/22/19,MJJames
+28162,28,The Sgt. Cornel Young Jr & Charlotte Woods Elementary,674 Prairie Avenue,Providence,RI,02905,1,20,Elementary,1,Public,place,-71.41032,41.79529,3/22/19,MJJames
+28163,28,Dr. Martin Luther King Jr. Elementary School,35 Camp Street,Providence,RI,02906,1,50,PK-3/Elementary,1,Public,place,-71.40441,41.8379,3/22/19,MJJames
+28164,28,Classical High School,770 Westminster Street,Providence,RI,02903,1,40,Secondary,1,Public,place,-71.42084,41.81801,3/22/19,MJJames
+28165,28,Pleasant View School,50 Obadiah Brown Road,Providence,RI,02909,1,50,PK-3/Elementary,1,Public,amenity,-71.46239,41.83493,3/22/19,MJJames
+28167,49,Urban Collaborative Accelerated Program,75 Carpenter Street,Providence,RI,02903,1,40,Secondary,1,Public,place,-71.42165,41.8208,3/22/19,MJJames
+28170,28,Times2 Academy,50 Fillmore Street,Providence,RI,02908,1,54,Elementary/Secondary,1,Public,amenity,-71.42222,41.83851,3/22/19,MJJames
+28178,28,Academy for Career Exploration,155 Harrison Street,Providence,RI,02907,1,40,Secondary,1,Public,place,-71.42794,41.81128,3/22/19,MJJames
+28181,28,Anthony Carnevale Elementary School,50 Springfield Street,Providence,RI,02909,1,50,PK-3/Elementary,1,Public,place,-71.46383,41.81587,3/22/19,MJJames
+28182,28,Governor Christopher DelSesto Middle School,152 Springfield Street,Providence,RI,02909,1,30,Middle,1,Public,place,-71.4646,41.81806,3/22/19,MJJames
+28187,28,E-Cubed Academy,812 Branch Avenue,Providence,RI,02904,1,40,Secondary,1,Public,place,-71.43215,41.85438,3/22/19,MJJames
+28189,28,William B. Cooley Sr. High School and the Providence Academy,182 Thurbers Avenue,Providence,RI,02905,1,40,Secondary,1,Public,place,-71.40641,41.79973,3/22/19,MJJames
+28193,28,Providence Career and Technical Academy,41 Fricker street,Providence,RI,02903,1,40,Secondary,1,Public,amenity,-71.42257,41.81593,3/22/19,MJJames
+28194,28,West Broadway Middle School,29 Bainbridge Avenue,Providence,RI,02909,1,30,Middle,1,Public,building,-71.43601,41.81701,3/22/19,MJJames
+28195,28,360 High School,182 Thurbers Avenue,Providence,RI,02905,1,40,Secondary,1,Public,place,-71.40641,41.79973,3/22/19,MJJames
+28196,28,Evolutions High School,434 Mount Pleasant Avenue,Providence,RI,02909,1,40,Secondary,1,Public,amenity,-71.45327,41.83882,3/22/19,MJJames
+28202,28,Blessed Sacrament School,240 Regent Avenue,Providence,RI,02908,1,50,PK-3/Elementary,2,Parochial,place,-71.44319,41.82927,3/22/19,MJJames
+28206,28,La Salle Academy,612 Academy Avenue,Providence,RI,02908,1,40,Secondary,2,Parochial,amenity,-71.44709,41.84104,3/22/19,MJJames
+28211,28,St. Augustine School,635 Mt. Pleasant Avenue,Providence,RI,02908,1,50,PK-3/Elementary,2,Parochial,place,-71.45319,41.84401,3/22/19,MJJames
+28217,28,Bishop McVinney Regional School,155 Gordon Avenue,Providence,RI,02905,1,50,PK-3/Elementary,2,Parochial,place,-71.41529,41.80295,3/22/19,MJJames
+28219,28,St. Pius V School,49 Elmhurst Avenue,Providence,RI,02908,1,50,PK-3/Elementary,2,Parochial,place,-71.43714,41.83993,3/22/19,MJJames
+28223,28,St. Thomas Regional School,15 Edendale Avenue,Providence,RI,02911,1,20,Elementary,2,Parochial,place,-71.35398,41.87103,3/22/19,MJJames
+28230,28,St. Patrick School,244 Smith Street,Providence,RI,02908,1,40,Secondary,2,Parochial,place,-71.44631,41.70622,3/22/19,MJJames
+28302,28,Rhode Island College Cooperative Preschool,600 Mt. Pleasant Avenue,Providence,RI,02908,1,10,PK Only,3,Private,amenity,-71.46287,41.8416,3/22/19,MJJames
+28304,28,Lincoln School,301 Butler Avenue,Providence,RI,02906,1,52,PK-12,3,Private,place,-71.38388,41.83253,3/22/19,MJJames
+28305,28,Moses Brown School,250 Lloyd Avenue,Providence,RI,02906,1,52,PK-12,3,Private,place,-71.39833,41.83213,3/22/19,MJJames
+28308,28,Providence Hebrew Day/N.E. Academy of Torah,450 Elmgrove Avenue,Providence,RI,02906,1,52,PK-12,3,Private,place,-71.3923,41.8444,3/22/19,MJJames
+28312,28,Dr. Pat Feinstein Child Development Center,80 Washington Street,Providence,RI,02903,1,50,PK-3/Elementary,3,Private,place,-71.41454,41.82312,3/22/19,MJJames
+28313,28,The Wheeler School,216 Hope Street,Providence,RI,02906,1,52,PK-12,3,Private,amenity,-71.39825,41.82885,3/22/19,MJJames
+28315,28,Community Preparatory School,135 Prairie Avenue,Providence,RI,02907,1,22,Elementary/Middle,3,Private,place,-71.41565,41.81061,3/22/19,MJJames
+28319,28,Tavares Educational Center/Tavares Pediatric Ctr,101 Plain Street,Providence,RI,02903,1,54,Elementary/Secondary,3,Private,amenity,-71.4128,41.81361,3/22/19,MJJames
+28337,28,East Side Nursery School,372 Wayland Avenue,Providence,RI,02906,1,10,PK Only,3,Private,place,-71.38937,41.83518,3/22/19,MJJames
+28338,28,Federal Hill House Association,9 Courtland Street,Providence,RI,02909,1,10,PK Only,3,Private,place,-71.43233,41.82229,3/22/19,MJJames
+28339,28,Jewish Community Center of R.I. Preschool,401 Elmgrove Avenue,Providence,RI,02906,1,50,PK-3/Elementary,3,Private,place,-71.39248,41.84339,3/22/19,MJJames
+28342,28,Jewish Community Day School of Rhode Island,85 Taft Avenue,Providence,RI,02906,1,50,PK-3/Elementary,3,Private,place,-71.39592,41.84281,3/22/19,MJJames
+28345,28,Center for Individualized Training and Ed.,15 Bough Street,Providence,RI,02909,1,54,Elementary/Secondary,3,Private,place,-71.442,41.81638,3/22/19,MJJames
+28348,28,Roger Williams Day Care Center,64 Applegate Lane,Providence,RI,02905,1,50,PK-3/Elementary,3,Private,place,-71.40644,41.79872,3/22/19,MJJames
+28353,28,School One,220 University Avenue,Providence,RI,02906,1,40,Secondary,3,Private,place,-71.38639,41.83444,3/22/19,MJJames
+28354,28,The Providence Center School,520 Hope Street,Providence,RI,02906,1,54,Elementary/Secondary,3,Private,place,-71.39893,41.84138,3/22/19,MJJames
+28356,28,The Groden Center,86 Mount Hope Avenue,Providence,RI,02906,1,54,Elementary/Secondary,3,Private,place,-71.39989,41.84046,3/22/19,MJJames
+28358,28,High Road School of Providence,100 Houghton Street,Providence,RI,02904,1,40,Secondary,3,Private,place,-71.4354,41.85675,3/22/19,MJJames
+28361,28,Jo-Ann Caffey McDowell Early Learning Center,7 Burgess Street,Providence,RI,02903,1,20,Elementary,3,Private,place,-71.4252,41.81709,3/22/19,MJJames
+28362,28,Brown Fox Point Early Childhood Ed. Center,150 Hope Street,Providence,RI,02906,1,10,PK Only,3,Private,place,-71.39735,41.82477,3/22/19,MJJames
+28365,28,Henry Barnard School,600 Mt. Pleasant Avenue,Providence,RI,02908,1,50,PK-3/Elementary,3,Private,amenity,-71.46287,41.8416,3/22/19,MJJames
+28366,28,Bright Horizons Family Center,225 Blackstone Street,Providence,RI,02905,1,50,PK-3/Elementary,3,Private,place,-71.41634,41.80943,3/22/19,MJJames
+28371,28,Montessori Children's House,518 Lloyd Avenue,Providence,RI,02906,1,12,PK-3,3,Private,place,-71.3866,41.83505,3/22/19,MJJames
+28373,28,San Miguel School,525 Branch Avenue,Providence,RI,02904,1,20,Elementary,3,Private,place,-71.42295,41.85165,3/22/19,MJJames
+28376,67,Ocean Tides School,260 Highland Avenue,Providence,RI,02906,1,40,Secondary,3,Private,amenity,-71.39865,41.85404,3/22/19,MJJames
+28377,28,The French-American School of RI,75 John Street,Providence,RI,02906,1,50,PK-3/Elementary,3,Private,place,-71.39706,41.82178,3/22/19,MJJames
+28379,28,Beautiful Beginnings Child Care Center,700 Elmwood Avenue,Providence,RI,02907,1,50,PK-3/Elementary,3,Private,place,-71.42334,41.79313,3/22/19,MJJames
+28381,28,Mount Pleasant Academy,1246 Chalkstone Avenue,Providence,RI,02908,1,20,Elementary,3,Private,place,-71.45081,41.83251,3/22/19,MJJames
+28382,28,Sophia Academy,582 Elmwood Avenue,Providence,RI,02907,1,30,Middle,3,Private,place,-71.42511,41.79631,3/22/19,MJJames
+28384,,The Grace School,1000 Eddy Street,Providence,RI,02905,1,22,Elementary/Middle,3,Private,building,-71.4056,41.80121,3/22/19,MJJames
+28385,28,Ready to Learn Providence,One Empire Street,Providence,RI,02905,1,50,PK-3/Elementary,3,Private,highway,-71.41743,41.82256,3/22/19,MJJames
+28386,28,Highlander Charter School/Mariposa Center@Meeting,1000 Eddy Street,Providence,RI,02907,1,50,PK-3/Elementary,3,Private,building,-71.4056,41.80121,3/22/19,MJJames
+28387,,Bradley School Providence,130 Broadway,Providence,RI,02903,1,54,Elementary/Secondary,3,Private,place,-71.42128,41.82161,3/22/19,MJJames
+28388,,Montessori Community School of Rhode Island,74 Dexter Street,Providence,RI,02909,1,50,PK-3/Elementary,3,Private,place,-71.4303,41.81447,3/22/19,MJJames
+28389,,The Genesis Daycare Center,620 Potters Avenue,Providence,RI,02905,1,10,PK Only,3,Private,place,-71.43094,41.80252,3/22/19,MJJames
+28390,,The Croft School,179 Wayland Avenue,Providence,RI,02904,1,20,Elementary,3,Private,place,-71.38846,41.82717,3/22/19,MJJames
+28414,28,Empire Beauty School,151 Broadway,Providence,RI,02903,1,60,Postsecondary,4,Postsecondary,place,-71.42233,41.82154,3/22/19,MJJames
+28422,,Learning Gate,155 South Main Street,Providence,RI,02903,1,60,Postsecondary,4,Postsecondary,place,-71.40765,41.82524,3/22/19,MJJames
+28501,28,Brown University,Prospect Street,Providence,RI,02912,1,60,Postsecondary,5,Postsecondary,highway,-71.40523,41.82958,3/22/19,MJJames
+28502,28,Providence College,549 River Avenue,Providence,RI,02918,1,60,Postsecondary,5,Postsecondary,place,-71.44042,41.8421,3/22/19,MJJames
+28503,28,Rhode Island School of Design,2 College Street,Providence,RI,02903,1,60,Postsecondary,5,Postsecondary,place,-71.40761,41.82563,3/22/19,MJJames
+28504,28,Johnson and Wales University,8 Abbott Park Place,Providence,RI,02903,1,60,Postsecondary,5,Postsecondary,place,-71.41346,41.82044,3/22/19,MJJames
+28505,28,Rhode Island College,600 Mt. Pleasant Avenue,Providence,RI,02908,1,60,Postsecondary,5,Postsecondary,amenity,-71.46287,41.8416,3/22/19,MJJames
+28507,H1,Community College of R.I. - Liston Campus,One Hilton Street,Providence,RI,02905,1,60,Postsecondary,5,Postsecondary,highway,-71.41337,41.80659,3/22/19,MJJames
+28508,,URI/Alan Shawn Feinstein College of Continuing Edu,80 Washington Street,Providence,RI,02903,1,60,Postsecondary,5,Postsecondary,place,-71.41454,41.82312,3/22/19,MJJames
+28606,61,Trinity Academy for the Performing Arts,150 Washington Street,Providence,RI,02903,1,30,Middle,6,Charter,place,-71.41497,41.8228,3/22/19,MJJames
+28607,63,RI Nurses Institute Middle College Charter High Sc,150 washington Street,Providence,RI,02903,1,40,Secondary,6,Charter,place,-71.41497,41.8228,3/22/19,MJJames
+28608,64,Village Green Virtual Charter School,135 Weybosset Street,Providence,RI,02903,1,40,Secondary,6,Charter,place,-71.41133,41.8229,3/22/19,MJJames
+28609,41,Achievement First Providence Mayoral Academy,370 Hartford Avenue,Providence,RI,02909,1,20,Elementary,6,Charter,place,-71.4566,41.81811,3/22/19,MJJames
+28610,42,Sheila Skip Nowell Leadership Academy (Capital Cam,133 Delaine Street,Providence,RI,02909,1,40,Secondary,6,Charter,place,-71.44343,41.81884,3/22/19,MJJames
+28611,43,SouthSide Elementary Charter School,135 Prairie Ave,Providence,RI,02905,1,20,Elementary,6,Charter,place,-71.41565,41.81061,3/22/19,MJJames
+28613,68,The Hope Academy,1000 Eddy Street,Providence,RI,02905,1,20,Elementary,6,Charter,building,-71.4056,41.80121,3/22/19,MJJames
+28614,41,Achievement First Illuminar Mayoral Academy,370 Hartford Avenue,Providence,RI,02909,1,20,Elementary,6,Charter,place,-71.4566,41.81811,3/22/19,MJJames
+28615,41,AF Providence Mayoral Academy Middle,370 Hartford Avenue,Providence,RI,02909,1,30,Middle,6,Charter,place,-71.4566,41.81811,3/22/19,MJJames
+28702,50,Rhode Island School for the Deaf,One Corliss Park,Providence,RI,02908,1,54,Elementary/Secondary,7,State_operated,highway,-71.42724,41.84885,3/22/19,MJJames
+28703,60,Metropolitan Regional Career and Technical Center,325 Public Street,Providence,RI,02905,1,40,Secondary,7,State_operated,place,-71.41343,41.80595,3/22/19,MJJames
+28908,28,Hasbro Children's Hospital,593 Eddy Street,Providence,RI,02903,1,56,Ungraded,9,Other,amenity,-71.40913,41.81186,3/22/19,MJJames
+28909,,RI Vision and Education Services,600 Mount Pleasant Avenue,Providence,RI,02908,1,56,Ungraded,9,Other,amenity,-71.46287,41.8416,3/22/19,MJJames
+28920,28,Paul  V. Sherlock Center on Disabilities,600 Mount Pleasant Avenue,Providence,RI,02908,1,40,Secondary,9,Other,amenity,-71.46287,41.8416,3/22/19,MJJames
+28945,28,Gateway to College,1 Old Ferry Rd,Bristol,RI,02809,1,40,Secondary,9,Other,highway,-71.25973,41.64493,3/22/19,MJJames
+30102,30,Hope Elementary School,391 North Road,Hope,RI,02831,1,20,Elementary,1,Public,place,-71.56345,41.73631,3/22/19,MJJames
+30103,30,Clayville Elementary School,3 George Washington Highway,Clayville,RI,02815,1,50,PK-3/Elementary,1,Public,place,-71.67201,41.76109,3/22/19,MJJames
+30104,30,Scituate High School,94 Trimtown Road,North Scituate,RI,02857,1,40,Secondary,1,Public,place,-71.62443,41.82849,3/22/19,MJJames
+30105,30,Scituate Middle School,94 Trimtown Road,North Scituate,RI,02857,1,30,Middle,1,Public,place,-71.62443,41.82849,3/22/19,MJJames
+30106,30,North Scituate Elementary School,46 Institute Lane,North Scituate,RI,02857,1,20,Elementary,1,Public,place,-71.58419,41.834,3/22/19,MJJames
+30901,,Scituate Early Learning Center,686 Hartford Pike,Scituate,RI,02857,1,10,PK Only,9,Other,place,-71.633,41.83922,3/22/19,MJJames
+31103,31,William Winsor School,562 Putnam Pike,Greenville,RI,02828,1,20,Elementary,1,Public,highway,-71.54205,41.87027,3/22/19,MJJames
+31104,31,Old County Road School,200 Old County Road,Smithfield,RI,02917,1,20,Elementary,1,Public,place,-71.51117,41.88223,3/22/19,MJJames
+31105,31,Anna M. McCabe School,100 Pleasant View Avenue,Smithfield,RI,02917,1,50,PK-3/Elementary,1,Public,place,-71.54169,41.88536,3/22/19,MJJames
+31107,31,Smithfield Senior High School,90 Pleasant View Avenue,Smithfield,RI,02917,1,40,Secondary,1,Public,place,-71.54126,41.87979,3/22/19,MJJames
+31108,31,Raymond C. LaPerche School,11 Limerock Road,Smithfield,RI,02917,1,20,Elementary,1,Public,place,-71.50578,41.89908,3/22/19,MJJames
+31109,31,Vincent J. Gallagher Middle School,10 Indian Run Trail,Smithfield,RI,02917,1,30,Middle,1,Public,place,-71.54449,41.88423,3/22/19,MJJames
+31202,31,St. Philip School,618 Putnam Pike,Smithfield,RI,02828,1,50,PK-3/Elementary,2,Parochial,highway,-71.51454,41.86924,3/22/19,MJJames
+31301,31,The Stork's Nest Child Academy II,440 George Washington Highway,Smithfield,RI,02917,1,50,PK-3/Elementary,3,Private,highway,-71.48528,41.93505,3/22/19,MJJames
+31302,31,The Little Village Schoolhouse,170 Pleasant View Avenue,Smithfield,RI,02917,1,12,PK-3,3,Private,place,-71.54209,41.89338,3/22/19,MJJames
+31320,31,Breezy Knoll Child Care Center,311 Stillwater Road,Smithfield,RI,02917,1,50,PK-3/Elementary,3,Private,place,-71.52429,41.9089,3/22/19,MJJames
+31321,31,The Children's Workshop-Smithfield,22 Cedar Swamp Road,Smithfield,RI,02917,1,50,PK-3/Elementary,3,Private,place,-71.53384,41.87495,3/22/19,MJJames
+31323,31,Greenville Nursery School,One Church Street,Smithfield,RI,02828,1,10,PK Only,3,Private,highway,-71.55508,41.87056,3/22/19,MJJames
+31330,31,Masters Regional Academy,915 Douglas Pike,Smithfield,RI,02917,1,40,Secondary,3,Private,building,-71.5137,41.91251,3/22/19,MJJames
+31501,31,Bryant University,1150 Douglas Pike,Smithfield,RI,02917,1,60,Postsecondary,5,Postsecondary,amenity,-71.53715,41.92209,3/22/19,MJJames
+31902,31,Momentum Professional Behavioral Services,715 Putnam Pike,Greenville,RI,02828,1,12,PK-3,9,Other,highway,-71.54205,41.87027,3/22/19,MJJames
+32103,32,Wakefield Elementary School,101 High Street,Wakefield,RI,02879,1,20,Elementary,1,Public,amenity,-71.50081,41.43981,3/22/19,MJJames
+32107,32,Peace Dale Elementary School,109 Kersey Road,South Kingstown,RI,02879,1,20,Elementary,1,Public,place,-71.50179,41.45299,3/22/19,MJJames
+32108,32,South Kingstown High School,215 Columbia Street,Wakefield,RI,02879,1,40,Secondary,1,Public,amenity,-71.49482,41.44603,3/22/19,MJJames
+32110,32,Curtis Corner Middle School,301 Curtis Corner Road,South Kingstown,RI,02879,1,30,Middle,1,Public,place,-71.51961,41.4588,3/22/19,MJJames
+32112,32,West Kingston Elementary School,3119 Ministerial Road,West Kingston,RI,02892,1,20,Elementary,1,Public,amenity,-71.55046,41.47832,3/22/19,MJJames
+32113,32,Matunuck School,380 Matunuck Beach Road,South Kingstown,RI,02879,1,20,Elementary,1,Public,place,-71.54958,41.3873,3/22/19,MJJames
+32114,32,Broad Rock Middle School,351 Broad Rock Road,Wakefield,RI,02879,1,22,Elementary/Middle,1,Public,amenity,-71.48475,41.45649,3/22/19,MJJames
+32202,32,The Prout School,4640 Tower Hill Road,Wakefield,RI,02879,1,40,Secondary,2,Parochial,place,-71.46957,41.45194,3/22/19,MJJames
+32203,32,Msgr. Matthew F. Clarke Catholic Regional School,5074 Tower Hill Road,Wakefield,RI,02891,1,50,PK-3/Elementary,2,Parochial,highway,-71.48064,41.44034,3/22/19,MJJames
+32301,32,Bradley School-South,4781 Tower Hill Road,Wakefield,RI,02879,1,52,PK-12,3,Private,place,-71.46895,41.45338,3/22/19,MJJames
+32302,32,Windswept Montessori School,220 Moonstone Beach Road,South Kingstown,RI,02879,1,50,PK-3/Elementary,3,Private,highway,-71.57235,41.3839,3/22/19,MJJames
+32320,32,Stepping Stone Preschool,30 Spring Street,Wakefield,RI,02879,1,10,PK Only,3,Private,place,-71.49464,41.44816,3/22/19,MJJames
+32323,32,URI Child Development Center,10 Lower College Road,Kingston,RI,02881,1,50,PK-3/Elementary,3,Private,place,-71.5298,41.48147,3/22/19,MJJames
+32327,32,Gingerbread House Nursery School,366 Main Street,Wakefield,RI,02880,1,10,PK Only,3,Private,place,-71.50086,41.43722,3/22/19,MJJames
+32329,32,Village Cooperative Nursery School,981 Kingstown Road,Peace Dale,RI,02883,1,10,PK Only,3,Private,amenity,-71.49509,41.45108,3/22/19,MJJames
+32338,32,Sandcastles Montessori Preschool,251B Post Road,Wakefield,RI,02879,1,50,PK-3/Elementary,3,Private,place,-71.51799,41.4299,3/22/19,MJJames
+32340,,Middlebridge School,333 Ocean Rd,Narragansett,RI,02882,1,40,Secondary,3,Private,place,-71.45543,41.41445,3/22/19,MJJames
+32341,,Growing Children of RI,1175 South Rd.,Wakefield,RI,02879,1,50,PK-3/Elementary,3,Private,place,-71.52616,41.46273,3/22/19,MJJames
+32501,32,University of Rhode Island,Green Hall,Kingston,RI,02881,1,60,Postsecondary,5,Postsecondary,building,-71.52732,41.48482,3/22/19,MJJames
+32601,52,Kingston Hill Academy,850 Stony Fort Road,South Kingstown,RI,02874,1,20,Elementary,6,Charter,place,-71.5109,41.5005,3/22/19,MJJames
+32914,,The Goddard School,20 Preservation way,South Kingstown,RI,02879,1,12,PK-3,9,Other,place,-71.47373,41.45706,3/22/19,MJJames
+33105,33,Walter E. Ranger School,278 North Brayton Road,Tiverton,RI,02878,1,20,Elementary,1,Public,highway,-71.16653,41.62823,3/22/19,MJJames
+33106,33,Fort Barton School,117 Neck Road,Tiverton,RI,02878,1,20,Elementary,1,Public,place,-71.19845,41.57192,3/22/19,MJJames
+33107,33,Pocasset School,1185 Stafford Road,Tiverton,RI,02878,1,20,Elementary,1,Public,place,-71.14651,41.62793,3/22/19,MJJames
+33108,33,Tiverton High School,100 North Brayton Road,Tiverton,RI,02878,1,40,Secondary,1,Public,place,-71.16674,41.62978,3/22/19,MJJames
+33110,33,Tiverton Middle School,10 Quintal Drive,Tiverton,RI,02878,1,30,Middle,1,Public,place,-71.15644,41.62552,3/22/19,MJJames
+33901,,Silvia Health Center,Stafford Road,Tiverton,RI,02878,1,56,Ungraded,9,Other,highway,-71.15352,41.66365,3/22/19,MJJames
+33902,,Sakonnet Early Learning Center,752 East Rd,Tiverton,RI,02878,1,10,PK Only,9,Other,place,-71.15985,41.56926,3/22/19,MJJames
+35101,35,Norwood School,266 Norwood Avenue,Warwick,RI,02888,1,50,PK-3/Elementary,1,Public,amenity,-71.42681,41.75074,3/22/19,MJJames
+35104,35,Oakland Beach Elementary School,383 Oakland Beach Avenue,Warwick,RI,02889,1,50,PK-3/Elementary,1,Public,place,-71.39905,41.69966,3/22/19,MJJames
+35114,35,Greenwood School,93 Sharon Street,Warwick,RI,02886,1,20,Elementary,1,Public,place,-71.45418,41.71004,3/22/19,MJJames
+35119,35,Wyman School,1 Columbia Avenue,Warwick,RI,02888,1,20,Elementary,1,Public,place,-71.39047,41.75318,3/22/19,MJJames
+35121,35,E. G. Robertson School,70 Nausauket Road,Warwick,RI,02886,1,50,PK-3/Elementary,1,Public,place,-71.44052,41.69862,3/22/19,MJJames
+35123,35,Lippitt School,30 Almy Street,Warwick,RI,02886,1,50,PK-3/Elementary,1,Public,place,-71.42222,41.70787,3/22/19,MJJames
+35127,35,Sherman School,120 Killey Avenue,Warwick,RI,02889,1,20,Elementary,1,Public,place,-71.39758,41.71871,3/22/19,MJJames
+35128,35,Holliman School,70 Deborah Road,Warwick,RI,02888,1,50,PK-3/Elementary,1,Public,place,-71.41439,41.7487,3/22/19,MJJames
+35131,35,Cedar Hill School,35 Red Chimney Drive,Warwick,RI,02886,1,20,Elementary,1,Public,amenity,-71.46408,41.6841,3/22/19,MJJames
+35132,35,Park School,40 Asylum Road,Warwick,RI,02886,1,50,PK-3/Elementary,1,Public,place,-71.41966,41.6935,3/22/19,MJJames
+35133,35,Warwick Neck School,155 Rocky Point Avenue,Warwick,RI,02889,1,20,Elementary,1,Public,place,-71.37652,41.6888,3/22/19,MJJames
+35134,35,Pilgrim High School,111 Pilgrim Parkway,Warwick,RI,02888,1,40,Secondary,1,Public,amenity,-71.41121,41.74667,3/22/19,MJJames
+35135,35,Harold F. Scott School,833 Centerville Road,Warwick,RI,02886,1,50,PK-3/Elementary,1,Public,place,-71.49067,41.69686,3/22/19,MJJames
+35136,35,Cottrell F. Hoxsie School,55 Glenwood Drive,Warwick,RI,02889,1,20,Elementary,1,Public,place,-71.39867,41.73002,3/22/19,MJJames
+35137,35,Warwick Early Learning Center at John Brown Franci,325 Miantonomo Drive,Warwick,RI,02888,1,20,Elementary,1,Public,place,-71.40472,41.74293,3/22/19,MJJames
+35138,35,Toll Gate High School,575 Centerville Road,Warwick,RI,02886,1,40,Secondary,1,Public,place,-71.47955,41.69754,3/22/19,MJJames
+35139,35,Winman Middle School,575 Centerville Road,Warwick,RI,02886,1,30,Middle,1,Public,place,-71.47955,41.69754,3/22/19,MJJames
+35140,35,Warwick Area Career and Technical Center,575 Centerville Road,Warwick,RI,02886,1,40,Secondary,1,Public,place,-71.47955,41.69754,3/22/19,MJJames
+35141,76,West Bay Collaborative,144 Bignall Street,Warwick,RI,02888,1,54,Elementary/Secondary,1,Public,highway,-71.43291,41.75671,3/22/19,MJJames
+35142,35,Warwick Veterans Middle School,2401 West Shore Road,Warwick,RI,02889,1,30,Middle,1,Public,place,-71.41151,41.70421,3/22/19,MJJames
+35201,35,Bishop Hendricken High School,2615 Warwick Avenue,Warwick,RI,02889,1,40,Secondary,2,Parochial,place,-71.39537,41.70638,3/22/19,MJJames
+35204,35,St. Kevin School,39 Cathedral Road,Warwick,RI,02889,1,50,PK-3/Elementary,2,Parochial,amenity,-71.39193,41.71256,3/22/19,MJJames
+35205,35,St. Peter School,120 Mayfair Road,Warwick,RI,02888,1,50,PK-3/Elementary,2,Parochial,place,-71.39193,41.75481,3/22/19,MJJames
+35208,35,St. Rose of Lima School,200 Brentwood Avenue,Warwick,RI,02886,1,50,PK-3/Elementary,2,Parochial,place,-71.43173,41.70835,3/22/19,MJJames
+35301,35,Rocky Hill School,530 Ives Road,Warwick,RI,02818,1,52,PK-12,3,Private,place,-71.42768,41.65836,3/22/19,MJJames
+35303,35,Pathways Strategic Teaching Center,75 Centre of New England Blvd,Coventry,RI,02816,1,20,Elementary,3,Private,place,-71.57174,41.66182,3/22/19,MJJames
+35305,35,Buttonwoods School for Young Children,311 Buttonwoods Avenue,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.42912,41.69809,3/22/19,MJJames
+35311,35,Westbay Community Action Children's Center,22 Astral Street,Warwick,RI,02888,1,50,PK-3/Elementary,3,Private,place,-71.41063,41.73724,3/22/19,MJJames
+35313,35,Little Red Hen Preschool/Kindergarten,358 Forge Road,Warwick,RI,02818,1,50,PK-3/Elementary,3,Private,highway,-71.44493,41.64134,3/22/19,MJJames
+35316,35,Jack and Jill Learning Center,300 Centerville Road,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.47084,41.6979,3/22/19,MJJames
+35318,35,Progressive Learning for Children,189 Tollgate Road,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.47106,41.70134,3/22/19,MJJames
+35319,35,Precious Angels Child Care Center,20 Jefferson Park Road,Warwick,RI,02888,1,20,Elementary,3,Private,building,-71.43384,41.75556,3/22/19,MJJames
+35320,35,Greenwood Montessori School,11 Clifford Street,Warwick,RI,02886,1,12,PK-3,3,Private,place,-71.46191,41.70375,3/22/19,MJJames
+35322,,Creative Minds Early Learning Center,1160 Post Road,Warwick,RI,02888,1,20,Elementary,3,Private,place,-71.42501,41.74734,3/22/19,MJJames
+35324,35,WonderKids,73 Alhambra Road,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.4405,41.72841,3/22/19,MJJames
+35326,35,Overbrook Academy,60 Austin Avenue,Greenville,RI,02828,1,20,Elementary,3,Private,highway,-71.55379,41.87277,3/22/19,MJJames
+35328,35,Tender Hearts Child Care and Learning Center,935 Jefferson Boulevard,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,highway,-71.44133,41.73341,3/22/19,MJJames
+35335,35,Sargent Rehabilitation Center,800 Quaker Lane,Warwick,RI,02818,1,52,PK-12,3,Private,amenity,-71.4983,41.67432,3/22/19,MJJames
+35339,35,Discovery Years Learning Center,501 Centerville Road,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.47888,41.69755,3/22/19,MJJames
+35354,35,YS Owl Nursery School,900 Centerville Road,Warwick,RI,02886,1,10,PK Only,3,Private,place,-71.49329,41.69679,3/22/19,MJJames
+35356,35,Apponaug Christian Academy,75 Prospect Street,Warwick,RI,02886,1,54,Elementary/Secondary,3,Private,place,-71.45605,41.70066,3/22/19,MJJames
+35358,35,Eleanor Briggs School,116 Long Street,Warwick,RI,02886,1,54,Elementary/Secondary,3,Private,place,-71.43153,41.69634,3/22/19,MJJames
+35367,35,Crayons Child Care and Family Services,3445 Post Road,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.45817,41.69532,3/22/19,MJJames
+35369,35,CHILD Inc. Draper Avenue Center,160 Draper Avenue,Warwick,RI,02889,1,50,PK-3/Elementary,3,Private,place,-71.37911,41.70657,3/22/19,MJJames
+35370,,CHILD Inc. Centerville Road,849 Centerville Road,Warwick,RI,02889,1,10,PK Only,3,Private,place,-71.49124,41.69687,3/22/19,MJJames
+35371,35,The Stork's Nest Child Academy III,1100 Tollgate Road,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.49802,41.71112,3/22/19,MJJames
+35373,,The Martin School,220 Tollgate Road,Warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.47022,41.70089,3/22/19,MJJames
+35374,,Imagine Preschool,520 Hope St,Providence,RI,02906,1,50,PK-3/Elementary,3,Private,place,-71.39893,41.84138,3/22/19,MJJames
+35375,,The Romerry School for Young Children,36 Greco Lane,warwick,RI,02886,1,50,PK-3/Elementary,3,Private,place,-71.46934,41.72889,3/22/19,MJJames
+35376,,The Learning Garden,295 Warwick Neck Ave,Warwick,RI,02889,1,10,PK Only,3,Private,highway,-71.37944,41.69771,3/22/19,MJJames
+35377,,FOSSIL Academy,2928 Post Road,Warwick,RI,02886,1,30,Middle,3,Private,place,-71.45321,41.70498,3/22/19,MJJames
+35413,35,Empire Beauty School,1276 Bald Hill Road,Warwick,RI,02886,1,60,Postsecondary,4,Postsecondary,place,-71.49638,41.69962,3/22/19,MJJames
+35501,H1,Community College of R.I. - Knight Campus,400 East Avenue,Warwick,RI,02886,1,60,Postsecondary,5,Postsecondary,amenity,-71.47968,41.71306,3/22/19,MJJames
+35506,35,New England Institute of Technology,1 New England Tech Boulevard,East Greenwich,RI,02818,1,60,Postsecondary,5,Postsecondary,building,-71.50271,41.6616,3/22/19,MJJames
+36103,36,Westerly Middle School,10 Locksley Drive,Westerly,RI,02891,1,30,Middle,1,Public,place,-71.78699,41.35056,3/22/19,MJJames
+36104,36,Westerly High School,23 Ward Avenue,Westerly,RI,02891,1,40,Secondary,1,Public,building,-71.81909,41.376,3/22/19,MJJames
+36106,36,State Street School,35 State Street,Westerly,RI,02891,1,50,PK-3/Elementary,1,Public,place,-71.82598,41.3648,3/22/19,MJJames
+36109,36,Dunn's Corners School,8 1/2 Plateau Road,Westerly,RI,02891,1,20,Elementary,1,Public,place,-71.77763,41.34773,3/22/19,MJJames
+36111,36,Springbrook Elementary School,39 Springbrook Road,Westerly,RI,02891,1,20,Elementary,1,Public,amenity,-71.82979,41.40183,3/22/19,MJJames
+36113,36,Westerly Inclusion Preschool Program - Babcock Hal,23 Highland Avenue,Westerly,RI,02891,1,12,PK-3,1,Public,place,-71.82222,41.37737,3/22/19,MJJames
+36302,36,The Children's Workshop-Westerly,42 Franklin Street,Westerly,RI,02891,1,10,PK Only,3,Private,place,-71.81641,41.3645,3/22/19,MJJames
+36320,36,Westerly Pre-School Childhood Center,13 Cross Street,Westerly,RI,02891,1,10,PK Only,3,Private,highway,-71.82147,41.37084,3/22/19,MJJames
+36324,36,Central Nursery School,16 Elm Street,Westerly,RI,02891,1,10,PK Only,3,Private,place,-71.8287,41.3749,3/22/19,MJJames
+36325,36,Dunn's Corners Church Early Learning Center,221 Post Road,Westerly,RI,02891,1,10,PK Only,3,Private,place,-71.77392,41.35084,3/22/19,MJJames
+36326,,Bradley School - Westerly site,93 Tower Street,Westerly,RI,02891,1,52,PK-12,3,Private,place,-71.81461,41.3793,3/22/19,MJJames
+38104,38,John F. Horgan Elementary School,124 Providence Street,West Warwick,RI,02893,1,20,Elementary,1,Public,place,-71.51737,41.71311,3/22/19,MJJames
+38105,38,Maisie E. Quinn Elementary School,1 Brown Street,West Warwick,RI,02893,1,10,PK Only,1,Public,place,-71.52176,41.69004,3/22/19,MJJames
+38106,38,West Warwick Senior High School,1 Webster Knight Drive,West Warwick,RI,02893,1,40,Secondary,1,Public,place,-71.51684,41.70652,3/22/19,MJJames
+38107,38,John F. Deering Middle School,2 Webster Knight Drive,West Warwick,RI,02893,1,30,Middle,1,Public,place,-71.51663,41.70648,3/22/19,MJJames
+38109,38,Greenbush Elementary School,127 Greenbush Road,West Warwick,RI,02893,1,20,Elementary,1,Public,place,-71.52365,41.67164,3/22/19,MJJames
+38111,38,Wakefield Hills Elementary School,505 Wakefield Street,West Warwick,RI,02893,1,50,PK-3/Elementary,1,Public,place,-71.50629,41.72533,3/22/19,MJJames
+38206,38,St. Joseph School,850 Wakefield Street,West Warwick,RI,02893,1,50,PK-3/Elementary,2,Parochial,place,-71.49355,41.72547,3/22/19,MJJames
+38302,,Dr. Day Care - West Warwick,297 Cowesett Avenue,West Warwick,RI,02893,1,10,PK Only,3,Private,place,-71.50438,41.68483,3/22/19,MJJames
+38304,38,Academy For Little Children,10 James P Murphy Industrial Highway,West Warwick,RI,02893,1,50,PK-3/Elementary,3,Private,place,-71.51535,41.66594,3/22/19,MJJames
+38305,38,The Tides School - West Warwick,222 Washington Street,West Warwick,RI,02893,1,40,Secondary,3,Private,place,-71.52784,41.70104,3/22/19,MJJames
+38306,38,Islamic School of RI,840 Providence Street,West Warwick,RI,02893,1,50,PK-3/Elementary,3,Private,place,-71.49156,41.72464,3/22/19,MJJames
+38335,38,CHILD Payan Street,28 Payan Street,West Warwick,RI,02893,1,10,PK Only,3,Private,place,-71.52613,41.70692,3/22/19,MJJames
+38993,,Dreamland Learning Center,110 Pulaski Street,West Warwick,RI,02893,1,10,PK Only,9,Other,place,-71.52942,41.68736,3/22/19,MJJames
+39101,39,Harris School,60 High School Street,Woonsocket,RI,02895,1,20,Elementary,1,Public,place,-71.51521,42.0072,3/22/19,MJJames
+39110,39,Governor Aram J. Pothier School,420 Robinson Street,Woonsocket,RI,02895,1,50,PK-3/Elementary,1,Public,amenity,-71.49376,42.01018,3/22/19,MJJames
+39117,39,Citizens Memorial School,250 Winthrop Street,Woonsocket,RI,02895,1,20,Elementary,1,Public,amenity,-71.49319,42.01171,3/22/19,MJJames
+39118,39,Bernon Heights School,657 Logee Street,Woonsocket,RI,02895,1,20,Elementary,1,Public,amenity,-71.50333,41.99317,3/22/19,MJJames
+39119,39,Globe Park School,192 Avenue A,Woonsocket,RI,02895,1,20,Elementary,1,Public,amenity,-71.52555,41.98897,3/22/19,MJJames
+39120,39,Leo A. Savoie School,990 Mendon Road,Woonsocket,RI,02895,1,20,Elementary,1,Public,place,-71.47762,42.00615,3/22/19,MJJames
+39123,39,Woonsocket High School,777 Cass Avenue,Woonsocket,RI,02895,1,40,Secondary,1,Public,place,-71.48427,42.00474,3/22/19,MJJames
+39127,39,Woonsocket Area Career and Technical Center,400 Aylsworth Avenue,Woonsocket,RI,02895,1,40,Secondary,1,Public,place,-71.48553,42.00123,3/22/19,MJJames
+39128,39,Kevin K. Coleman Elementary School,96 2nd Avenue,Woonsocket,RI,02895,1,20,Elementary,1,Public,place,-71.52611,41.99952,3/22/19,MJJames
+39131,39,Woonsocket Middle School at Hamlet,60 Florence Dr.,Woonsocket,RI,02895,1,30,Middle,1,Public,highway,-71.49921,42.00301,3/22/19,MJJames
+39132,39,Woonsocket Middle School at Villa Nova,240 Florence Dr.,Woonsocket,RI,02895,1,30,Middle,1,Public,highway,-71.49921,42.00301,3/22/19,MJJames
+39202,39,Mount St. Charles Academy,800 Logee Street,Woonsocket,RI,02895,1,40,Secondary,2,Parochial,amenity,-71.50252,41.99608,3/22/19,MJJames
+39210,39,Msgr. Gadoury Primary Regional School,1371 Park Avenue,Woonsocket,RI,02895,1,50,PK-3/Elementary,2,Parochial,amenity,-71.51652,41.98509,3/22/19,MJJames
+39214,39,Good Shepherd Catholic Regional School,1210 Mendon Road,Woonsocket,RI,02895,1,22,Elementary/Middle,2,Parochial,place,-71.48015,42.00297,3/22/19,MJJames
+39304,39,Karen Bouchard Children's Center,204 Warwick Street,Woonsocket,RI,02895,1,10,PK Only,3,Private,place,-71.51235,41.98689,3/22/19,MJJames
+39320,39,Hamlet Learning Center,73 Hamlet Avenue,Woonsocket,RI,02895,1,50,PK-3/Elementary,3,Private,place,-71.50445,42.00205,3/22/19,MJJames
+39321,39,Viola M. Berard School,181 Cumberland St,Woonsocket,RI,02895,1,54,Elementary/Secondary,3,Private,place,-71.5002,42.00599,3/22/19,MJJames
+39325,39,YWCA of Northern RI Preschool,514 Blackstone Street,Woonsocket,RI,02895,1,50,PK-3/Elementary,3,Private,place,-71.52087,42.00599,3/22/19,MJJames
+39328,39,Woonsocket Head Start-Bourdon Blvd Center,2 Bourdon Blvd.,Woonsocket,RI,02895,1,10,PK Only,3,Private,place,-71.53331,41.99734,3/22/19,MJJames
+39329,39,Woonsocket Head Start-Cass Park Center,350 Newland Avenue,Woonsocket,RI,02895,1,50,PK-3/Elementary,3,Private,place,-71.48929,42.00254,3/22/19,MJJames
+39330,39,Benoit - Brown Children's Center,2390 Mendon Road,Woonsocket,RI,02895,1,10,PK Only,3,Private,place,-71.48104,41.98671,3/22/19,MJJames
+39332,39,Hillside Alternative Program,141 Main Street,Woonsocket,RI,02895,1,40,Secondary,3,Private,place,-71.51383,42.00266,3/22/19,MJJames
+39333,39,Action Based Enterprises,141 Main Street,Woonsocket,RI,02895,1,54,Elementary/Secondary,3,Private,place,-71.51383,42.00266,3/22/19,MJJames
+39411,39,Rob-Roy Academy,251 Main Street,Woonsocket,RI,02895,1,60,Postsecondary,4,Postsecondary,place,-71.51263,42.00382,3/22/19,MJJames
+39601,58,BEACON Charter School,320 Main Street,Woonsocket,RI,02895,1,40,Secondary,6,Charter,place,-71.51244,42.00539,3/22/19,MJJames
+39602,79,RISE Prep Mayoral Academy,1 Social Street,Woonsocket,RI,02895,1,22,Elementary/Middle,6,Charter,place,-71.5121,42.00577,3/22/19,MJJames
+39603,58,Founders Academy,1 Social Street,Woonsocket,RI,02895,1,30,Middle,6,Charter,place,-71.5121,42.00577,3/22/19,MJJames
+39901,39,Woonsocket Head Start and Day Care,2 Bourdon Boulevard,Woonsocket,RI,02895,1,10,PK Only,9,Other,place,-71.53331,41.99734,3/22/19,MJJames
+39903,,Hope Street School,Hope Street,Woonsocket,RI,02895,1,10,PK Only,9,Other,highway,-71.52068,41.99972,3/22/19,MJJames
+39907,,Cass Park Head Start,350 Newland Avenue,Woonsocket,RI,02895,1,10,PK Only,9,Other,place,-71.48929,42.00254,3/22/19,MJJames
+48601,48,Highlander Elementary Charter School,42 Lexington Avenue,Providence,RI,02907,1,20,Elementary,6,Charter,place,-71.41821,41.7994,3/22/19,MJJames
+48602,48,Highlander Secondary Charter School,360 Market Street,Warren,RI,02885,1,40,Secondary,6,Charter,place,-71.27288,41.74592,3/22/19,MJJames
+51601,51,Paul Cuffee Lower School,459 Promenade Street,Providence,RI,02908,1,20,Elementary,6,Charter,place,-71.4276,41.82915,3/22/19,MJJames
+51602,51,Paul Cuffee Middle School,30 Barton Street,Providence,RI,02909,1,30,Middle,6,Charter,building,-71.43649,41.81706,3/22/19,MJJames
+51603,51,Paul Cuffee Upper School,544 Elmwood Avenue,Providence,RI,02907,1,40,Secondary,6,Charter,place,-71.42629,41.79795,3/22/19,MJJames
+81601,81,Charette Charter School,335 Westminster St.,Providence,RI,02903,1,40,Secondary,6,Charter,place,-71.41426,41.82182,3/22/19,MJJames
+82190,82,Wangari Maathai Community School,10 Dorrance Street,Providence,RI,02903,1,22,Elementary/Middle,1,Public,place,-71.4121,41.82406,3/22/19,MJJames
+82601,82,Wangari Maathai Community School,10 Dorrance Street,Providence,RI,02903,1,22,Elementary/Middle,6,Charter,place,-71.4121,41.82406,3/22/19,MJJames
+96104,96,Guiteras School,35 Washington Street,Bristol,RI,02809,1,20,Elementary,1,Public,place,-71.39756,41.75931,3/22/19,MJJames
+96105,96,Colt Andrews School,570-574 Hope Street,Bristol,RI,02809,1,20,Elementary,1,Public,place,-71.39855,41.84214,3/22/19,MJJames
+96106,96,Rockwell School,1225 Hope Street,Bristol,RI,02809,1,50,PK-3/Elementary,1,Public,place,-71.27953,41.69871,3/22/19,MJJames
+96107,96,Mt. Hope High School,199 Chestnut Street,Bristol,RI,02809,1,40,Secondary,1,Public,place,-71.43537,41.75038,3/22/19,MJJames
+96112,96,Kickemuit Middle School,525 Child Street,Warren,RI,02885,1,30,Middle,1,Public,place,-71.25981,41.73017,3/22/19,MJJames
+96113,96,Hugh Cole School,50 Asylum Road,Warren,RI,02885,1,50,PK-3/Elementary,1,Public,amenity,-71.25396,41.72563,3/22/19,MJJames
+96114,77,East Bay Educational Collaborative,317 Market Street,Warren,RI,02885,1,54,Elementary/Secondary,1,Public,place,-71.27387,41.73966,3/22/19,MJJames
+96201,96,Our Lady of Mt. Carmel,127 State Street,Bristol,RI,02809,1,20,Elementary,2,Parochial,amenity,-71.27293,41.6713,3/22/19,MJJames
+96305,96,Raggedy Ann Nursery School,210 Metacom Avenue,Warren,RI,02885,1,10,PK Only,3,Private,place,-71.26948,41.73284,3/22/19,MJJames
+96309,96,The Children's Workshop-Warren,410 Child Street,Warren,RI,02885,1,10,PK Only,3,Private,place,-71.2672,41.72905,3/22/19,MJJames
+96310,96,Little Friends Preschool,300 High Street,Bristol,RI,02809,1,10,PK Only,3,Private,place,-71.27443,41.67268,3/22/19,MJJames
+96501,96,Roger Williams University,One Old Ferry Road,Bristol,RI,02809,1,60,Postsecondary,5,Postsecondary,highway,-71.25973,41.64493,3/22/19,MJJames
+97101,97,Wawaloam School,100 Victory Highway,Exeter,RI,02822,1,20,Elementary,1,Public,amenity,-71.61846,41.58553,3/22/19,MJJames
+97102,97,Mildred E. Lineham School,859 Nooseneck Hill Road,West Greenwich,RI,02817,1,50,PK-3/Elementary,1,Public,amenity,-71.63797,41.61324,3/22/19,MJJames
+97103,97,Metcalf School,30 Nooseneck Hill Road,Exeter,RI,02822,1,20,Elementary,1,Public,amenity,-71.64293,41.5994,3/22/19,MJJames
+97105,97,Exeter-West Greenwich Regional  Junior High,930 Nooseneck Hill Road,West Greenwich,RI,02817,1,30,Middle,1,Public,amenity,-71.63775,41.60486,3/22/19,MJJames
+97106,97,Exeter-West Greenwich Regional High School,930 Nooseneck Hill Road,West Greenwich,RI,02817,1,40,Secondary,1,Public,amenity,-71.63775,41.60486,3/22/19,MJJames
+97302,97,Bright Horizons-West Greenwich,51 Technology Way,West Greenwich,RI,02817,1,50,PK-3/Elementary,3,Private,place,-71.57124,41.6587,3/22/19,MJJames
+97303,98,Meadowbrook Waldorf School,300 Kingstown Road,Richmond,RI,02892,1,50,PK-3/Elementary,3,Private,place,-71.63862,41.49858,3/22/19,MJJames
+97304,97,Quest Montessori School,1150 Boston Neck Road,Narragansett,RI,02882,1,20,Elementary,3,Private,amenity,-71.43914,41.48835,3/22/19,MJJames
+97305,97,Children's Centre of New England,45 Nooseneck Hill Road,West Greenwich,RI,02817,1,10,PK Only,3,Private,place,-71.61691,41.644,3/22/19,MJJames
+97307,97,The Children's Village,567 South County Trail #201,Exeter,RI,02822,1,10,PK Only,3,Private,place,-71.55151,41.52622,3/22/19,MJJames
+97308,,Montessori Pathways School,567 South County Trail,Exeter,RI,02822,1,22,Elementary/Middle,3,Private,place,-71.55151,41.52622,3/22/19,MJJames
+97321,97,Greenwich Village Nursery and Kindergarten,227 Nooseneck Hill Road,West Greenwich,RI,02817,1,50,PK-3/Elementary,3,Private,amenity,-71.60992,41.64735,3/22/19,MJJames
+97601,62,The Greene School,94 John Potter Road,West Greenwich,RI,02817,1,40,Secondary,6,Charter,place,-71.68027,41.62269,3/22/19,MJJames
+98101,98,Chariho Regional High School,453 Switch Road,Wood River Junction,RI,02894,1,40,Secondary,1,Public,building,-71.69594,41.44962,3/22/19,MJJames
+98102,98,Chariho Area Career and Technical Center,459 Switch Road,Wood River Junction,RI,02894,1,40,Secondary,1,Public,building,-71.69563,41.44831,3/22/19,MJJames
+98103,98,Chariho Regional Middle School,455B Switch Road,Wood River Junction,RI,02894,1,30,Middle,1,Public,building,-71.69772,41.44872,3/22/19,MJJames
+98104,98,Charlestown Elementary School,363 Carolina Back Road,Charlestown,RI,02813,1,20,Elementary,1,Public,place,-71.657,41.45051,3/22/19,MJJames
+98105,98,Richmond Elementary School,190 Kingstown Road,Wyoming,RI,02898,1,20,Elementary,1,Public,highway,-71.68969,41.51208,3/22/19,MJJames
+98106,98,Ashaway Elementary School,12A Hillside Avenue,Ashaway,RI,02804,1,20,Elementary,1,Public,place,-71.79327,41.41953,3/22/19,MJJames
+98107,98,Hope Valley Elementary School,15 Thelma Drive,Hope Valley,RI,02832,1,20,Elementary,1,Public,amenity,-71.71339,41.51071,3/22/19,MJJames
+98108,98,Chariho Alternative Learning Academy,455C Switch Road,Wood River Junction,RI,02894,1,40,Secondary,1,Public,place,-71.69788,41.45496,3/22/19,MJJames
+98109,98,Hope Valley Elementary School Annex,453 Switch Road,Wood River Junction,RI,02894,1,10,PK Only,1,Public,building,-71.69594,41.44962,3/22/19,MJJames
+98301,98,Charlestown Early Learning Center,4605 Old Post Road,Charlestown,RI,02813,1,10,PK Only,3,Private,place,-71.64915,41.38485,3/22/19,MJJames
+98303,98,Wood River Preschool,1059 Main Street,Hope Valley,RI,02832,1,10,PK Only,3,Private,place,-71.71205,41.51044,3/22/19,MJJames
+98304,98,Trinity Lutheran Preschool,110 High Street,Ashaway,RI,02804,1,10,PK Only,3,Private,place,-71.79487,41.43442,3/22/19,MJJames
+98307,98,St. Andrew Preschool,15 East Beach Road,Charlestown,RI,02813,1,10,PK Only,3,Private,place,-71.70128,41.34897,3/22/19,MJJames
+98309,98,New Hope Preschool,80 Richmond Townhouse Road,Carolina,RI,02812,1,10,PK Only,3,Private,place,-71.66062,41.48985,3/22/19,MJJames
+99101,99,Ponaganset Middle School,7 Rustic Hill Road,Glocester,RI,02857,1,30,Middle,1,Public,place,-71.68209,41.86808,3/22/19,MJJames
+99102,99,Ponaganset High School,137 Anan Wade Road,Glocester,RI,02857,1,40,Secondary,1,Public,amenity,-71.71446,41.86541,3/22/19,MJJames
