@@ -1,12 +1,16 @@
-//const migrationDataPromise = d3.csv('../data/un-migration/Table 1-Table 1.csv', parseMigrationData)
-	//.then(data => data.reduce((acc,v) => acc.concat(v), []));
-//const countryCodePromise = d3.csv('../data/un-migration/ANNEX-Table 1.csv', parseCountryCode)
-	//.then(data => new Map(data));
-//const metadataPromise = d3.csv('../data/country-metadata.csv', parseMetadata);
-
 const mobstabdataPromise = d3.csv('/school-mobility/data/mobstab18/school.csv',parseMobstab);
 const metadataPromise = d3.csv('/school-mobility/data/sch_metadata.csv',parseMetadata);
 const geodataPromise = d3.csv('/school-mobility/data/RI_Schools_coordinates_Mar2019.csv',parseGeodata);
+const schEntersPromise = d3.csv('/school-mobility/data/sch_enters_data_0809_1718.csv',parseEnterdata);
+
+function parseEnterdata(d){
+    return{
+        reportID: d.reportID,
+        schcode_origin: d.schcode_origin_enter,
+        schcode_dest: d.schcode_dest_enter,
+        enters: +d.enters
+    }
+}
 
 function parseMobstab(d){
     return{
@@ -83,11 +87,12 @@ function parseGeodata(d){
 }
 
 Promise.all([
-    mobstabdataPromise,metadataPromise,geodataPromise]).then(([mobstab,metadataSch,geodata]) => {
+    mobstabdataPromise,metadataPromise,geodataPromise,schEntersPromise]).then(([mobstab,metadataSch,geodata,entersdata]) => {
                                               
-    console.log(metadataSch);
-    console.log(mobstab);
-    console.log(geodata);
+    //console.log(metadataSch);
+    //console.log(mobstab);
+    //console.log(geodata);
+    //console.log(entersdata);
     
     const admin_tmp = metadataSch.map(d => {
 				return [d.schcode, d]
@@ -95,13 +100,65 @@ Promise.all([
     const adminMap = new Map(admin_tmp);
     //console.log(adminMap);
     
+    const enters1718 = entersdata.filter(d => d.reportID ==77)
+        .filter(d => d.schcode_dest != ' ')
+        .filter(d => d.schcode_origin != d.schcode_dest);
+    console.log(enters1718);
+    
+    const nodesData18 = new Map();
+    const linksData18 = [];
+    
+    enters1718.forEach(d => {
+        const newLink ={
+            value:d.enters
+        }
+        
+        if(!nodesData18.get(d.schcode_dest)){ //undefined is false
+            const newNode = {
+                schcode: d.schcode_dest
+                //incoming: [newLink],
+                //incomingTotal: newLink.value
+            };
+            
+            nodesData18.set(d.schcode_dest, newNode); //add it to the map
+            newLink.dest = newNode
+            ;
+        }else{
+            const existingNode = nodesData18.get(d.schcode_dest);
+            //existingNode.schcode = d.schcode_dest,
+            //existingNode.incoming.push(newLink);
+            //existingNode.incomingTotal += newLink.value;
+            newLink.dest = existingNode;
+        }
+        
+        if(!nodesData18.get(d.schcode_origin)){
+            const newNode = {
+                schcode: d.schcode_origin
+            };
+            
+            nodesData18.set(d.schcode_origin, newNode);
+            newLink.origin = newNode;
+        }else{
+            const existingNode = nodesData18.get(d.schcode_origin);
+            //existingNode.schcode = 
+            newLink.origin = existingNode;
+        }
+        
+        
+        linksData18.push(newLink);
+        
+        //if present, then modify the existing node
+        //if not present, create a new node
+    })
+    
+    console.log(nodesData18);
+    console.log(linksData18);
+    
     const mobstab_sch = mobstab
         .filter(d => d.schname != '')
         .map(d => {
-        //console.log()
         //console.log(adminMap.get(d.schcode));
         const md = adminMap.get(d.schcode);
-        //console.log(d.schcode);
         d.adminSite = md.adminSite;
         
         return d;
@@ -115,6 +172,68 @@ Promise.all([
     
 )
 
+
+//Converts origin destination flows to nodes and links
+/*function generateNetwork(data, year){
+    
+    let filteredData = data.filter(d => d.year === year);
+    
+    const nodesData = new Map();
+    const linksData = [];
+    
+    filteredData.forEach(od => {
+        //console.log(od);
+        
+        const newLink ={
+            value: od.value
+        }
+        
+        //check to see if node is already in the nodesData map
+        //! or if makes non-undefined values true
+        if(!nodesData.get(od.origin_name)){ //undefined is false
+            const newNode = {
+                name: od.origin_name,
+                incoming: [],
+                outgoing: [newLink],
+                incomingTotal: 0,
+                outgoingTotal: newLink.value
+            };
+            
+            nodesData.set(od.origin_name, newNode); //add it to the map
+            newLink.source = newNode;
+        }else{
+            const existingNode = nodesData.get(od.origin_name);
+            
+            existingNode.outgoing.push(newLink);
+            existingNode.outgoingTotal += newLink.value;
+            newLink.source = existingNode;
+        }
+        
+        if(!nodesData.get(od.dest_name)){
+            const newNode = {
+                name: od.dest_name,
+                incoming: [newLink],
+                outgoing: [],
+                incomingTotal: newLink.value,
+                outgoingTotal: 0
+            };
+            nodesData.set(od.dest_name,newNode);
+            newLink.target = newNode;
+        }else{
+            const existingNode = nodesData.get(od.dest_name);
+            existingNode.incoming.push(newLink);
+            existingNode.incomingTotal += newLink.value;
+            newLink.target = existingNode;
+        }
+        
+        linksData.push(newLink);
+        
+        //if present, then modify the existing node
+        //if not present, create a new node
+    });*/
+
+
+
 function drawBarChart(rootDom,data){
     
     const w = rootDom.clientWidth;
@@ -127,7 +246,7 @@ function drawBarChart(rootDom,data){
         .append('g'); //adds g element in svg
     
     const nodes = plot.selectAll('.node')
-        .data(data,d => d.key);
+        .data(data,d => d.key); //what is this
     const nodesEnter = nodes.enter().append ('g')
         .attr('class','node')
     nodes.merge(nodesEnter)
@@ -169,21 +288,21 @@ function drawMap(rootDom,data){
         return d.lngLat[1];
     })
     
-    console.log(minLng);
-    console.log(maxLng);
+    //console.log(minLng);
+    //console.log(maxLng);
     
-    console.log(projection_tm([minLng,minLat]));
-    console.log(projection_tm([maxLng,maxLat]));
+    //console.log(projection_tm([minLng,minLat]));
+    //console.log(projection_tm([maxLng,maxLat]));
     
-    const scaleX = d3.scaleLinear()
+    /*const scaleX = d3.scaleLinear()
         .domain([projection_tm([minLng,minLat])[0],projection_tm([maxLng,maxLat])[0]])
-        .range ([5,w-5]);
+        .range ([5,w-5]);*/
     
-    console.log(scaleX(289));
+    //console.log(scaleX(289));
     
     const projection = d3.geoMercator()
-        .scale(40000)
-        .center([(maxLng+minLng)/2,(maxLat+minLat)/2])
+        .scale(45000)
+        .center([(maxLng+minLng)/2,(maxLat+minLat)/2+.2])
         //.center(289,127)
         .translate([w/2,h/2]);
     
