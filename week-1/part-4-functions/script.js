@@ -18,6 +18,8 @@ d3.csv('../../data/world-bank/cb704cf4-fe8f-4f1b-ae0c-2a51c26f295f_Data.csv', pa
 		//And return small array of values, sorted by year
 		function filterByCountrySeries(rows, country, series){
 			//YOUR CODE HERE
+            
+            return rows.filter(d => d.countryCode == country).filter(d=> d.series = series);
 		}
 
 		//Now test this function
