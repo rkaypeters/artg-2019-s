@@ -74,7 +74,6 @@ function parseGeodata(d){
         schname: d.SCH_NAME,
         city: d.SCH_CITY,
         zip: d.SCH_ZIP,
-        geoAmentity: d.geocode_amentity,
         //lng: d.Longitude_geocode,
         //lat: d.Latitude_geocode
         lngLat: [+d.Longitude_geocode, +d.Latitude_geocode]
@@ -90,6 +89,7 @@ function parseGeodata(d){
     delete d.School_type;
     delete d.Update;
     delete d.updated_by;
+    delete d.geocode_amentity;
 }
 
 
@@ -110,7 +110,8 @@ Promise.all([
     const metaMap = new Map(meta_tmp);
     //console.log(metaMap);
     
-    myProjection(d3.select('.network').node(),geodata); //still need to set up network DOM dimentions
+    myProjection(d3.select('.network').node(),geodata,45000) //still need to set up network DOM dimensions
+        .push({schcode: '00000',xy: [20,20]}); ///This is the out of system position
     //console.log(geodata);
     
     const geo_tmp = geodata.map(d => {
@@ -129,6 +130,7 @@ Promise.all([
         d.adminSite_dest = md.adminSite;
         d.distcode_dest = md.distcode;
         d.schname30_dest = md.schname30;
+        d.gradeCfg_dest = md.gradeCfg;
         return d;
     })
         .filter(d => d.adminSite_dest == 'N')
@@ -146,7 +148,7 @@ Promise.all([
             return d;
             });
         
-    console.log(enters1718);
+    //console.log(enters1718);
     
 
     
@@ -164,22 +166,230 @@ Promise.all([
     drawBarChart(d3.select('.overview').node(), mobstab_sch);
     drawMap(d3.select('.map').node(),geodata);
     
+    
+    enters1718Network = enters1718.filter(d =>d.gradeCfg_dest == 'H').filter(d => d.schcode_dest!= '00000').filter(d => d.schcode_origin != '00000');
+    console.log(enters1718Network);
+    
     const nodesData = networkSetup(enters1718)[0];
     const linksData = networkSetup(enters1718)[1]; //doesn't seem like the most efficient way to do this, but seems to work...
     
     console.log(nodesData);
     console.log(linksData);
     
+    myNetwork('.network',nodesData,linksData.filter(d => d.target.schcode != '00000').filter(d => d.source.schcode != '00000')//.filter(d => d.value != 1)
+             );
     
+    myNetwork('.network2',networkSetup(enters1718Network)[0],networkSetup(enters1718Network)[1]);
+    
+    //myNetwork('.network3',networkSetup(enters1718Network.filter(d => d.distcode_dest =='28'))[0],networkSetup(enters1718Network.filter(d => d.distcode_dest =='28'))[1]);
+    
+    myDistrictNetwork('.network3',enters1718,'28');
 }
     
 )
+
+
+
+
+// okay, trying a network
+// may add force layout stuff later (I think I can?) to spread stuff if needed, but it seems to not handle what I want specifically enough so trying this by scratch first.
+
+function myNetwork(rootDom,nodesData,linksData){
+    const w = rootDom.clientWidth;
+    
+    /*linksData.forEach(d => {  //not necessary for this version but might need to remember this format for something else
+        if(d.source.xy){
+            d.x = [d.source.xy[0]];
+            d.y = [d.source.xy[1]];
+        }else{
+            d.x = [];
+            d.y = [];
+        };
+        if(d.target.xy){
+            d.x.push(d.target.xy[0]);
+            d.y.push(d.target.xy[1]);
+        };
+    });
+    
+    const lineGenerator = d3.line()
+		.x(d => d.x)
+		.y(d => d.y)
+    
+    console.log(linksData);*/
+    
+    const plot = d3.select(rootDom)
+        .append('svg')
+        .attr('width',750)
+        .attr('height',1000);
+    
+    const links = plot
+        .selectAll('.link')
+        .data(linksData);
+    const linksEnter = links.enter().append('line').attr('class','link')
+        .style('stroke-opacity',0.05)
+		.style('stroke-width','1px')
+		.style('stroke','black');
+    
+    //console.log(links.merge(linksEnter).selectAll('.link'));
+    
+    links.merge(linksEnter)
+        .attr('x1', d=> {
+            if(d.target.xy){
+                return d.target.xy[0];
+            }else{
+                return 0;
+            }
+        })
+        .attr('y1', d=> {
+            if(d.target.xy){
+                return d.target.xy[1];
+            }else{
+                return 0;
+            }
+        })
+        .attr('x2', d=> {
+            if(d.source.xy){
+                return d.source.xy[0];
+            }else{
+                return 0;
+            }
+        })
+        .attr('y2', d=> {
+            if(d.source.xy){
+                return d.source.xy[1];
+            }else{
+                return 0;
+            }
+        })
+        //.style('stroke-width', d=>{
+        //return (d.value.toString() + 'px');
+        //})
+        .style('stroke-opacity',d => {return (d.value * 0.05)});
+    
+    
+    //console.log(nodesData);
+    
+    const nodes = plot.selectAll('.node')
+        .data(nodesData);
+    const nodesEnter = nodes.enter().append('g').attr('class','node');
+
+    nodesEnter.append('circle')
+        .style('fill-opacity',.1)
+		.style('stroke','#333')
+		.style('stroke-width','2px');
+
+	nodes.merge(nodesEnter)
+        .attr('r',d=> d.value.totalEnters)
+		.attr('transform', d => `translate(${d.xy[0]}, ${d.xy[1]})`);
+    
+    console.log(nodes.merge(nodesEnter));
+    
+}
+
+
+// District-specific version - in progress, not very far
+
+function myDistrictNetwork(rootDom,data,district){
+    
+    //console.log(district);
+    districtData = data.filter(d => d.distcode_dest === district);
+    
+    districtData.forEach(d => {
+        delete d.xy_dest;
+        delete d.xy_origin;});
+    
+    console.log(districtData);
+    
+    myProjection2(rootDom,districtData,90000); 
+    
+    console.log(districtData);
+    
+    
+    //const w = rootDom.clientWidth;
+    
+    
+    
+
+    
+    //console.log(linksData);
+    
+    /*const plot = d3.select(rootDom)
+        .append('svg')
+        .attr('width',750)
+        .attr('height',1000);
+    
+    const links = plot
+        .selectAll('.link')
+        .data(linksData);
+    const linksEnter = links.enter().append('line').attr('class','link')
+        .style('stroke-opacity',0.05)
+		.style('stroke-width','1px')
+		.style('stroke','black');
+    
+    //console.log(links.merge(linksEnter).selectAll('.link'));
+    
+    links.merge(linksEnter)
+        .attr('x1', d=> {
+            if(d.target.xy){
+                return d.target.xy[0];
+            }else{
+                return 0;
+            }
+        })
+        .attr('y1', d=> {
+            if(d.target.xy){
+                return d.target.xy[1];
+            }else{
+                return 0;
+            }
+        })
+        .attr('x2', d=> {
+            if(d.source.xy){
+                return d.source.xy[0];
+            }else{
+                return 0;
+            }
+        })
+        .attr('y2', d=> {
+            if(d.source.xy){
+                return d.source.xy[1];
+            }else{
+                return 0;
+            }
+        })
+        //.style('stroke-width', d=>{
+        //return (d.value.toString() + 'px');
+        //})
+        .style('stroke-opacity',d => {return (d.value * 0.05)});
+    
+    
+    //console.log(nodesData);
+    
+    const nodes = plot.selectAll('.node')
+        .data(nodesData);
+    const nodesEnter = nodes.enter().append('g').attr('class','node');
+
+    nodesEnter.append('circle')
+        .style('fill-opacity',.1)
+		.style('stroke','#333')
+		.style('stroke-width','2px');
+
+	nodes.merge(nodesEnter)
+        .attr('r',d=> d.value.totalEnters)
+		.attr('transform', d => `translate(${d.xy[0]}, ${d.xy[1]})`);
+    
+    console.log(nodes.merge(nodesEnter));*/
+    
+}
+
+
 
 
 // broke the prep of nodes and links out into its own function
 
 function networkSetup(data){
     
+    //console.log(data);
     const nodesData = new Map();
     const linksData = [];
     
@@ -193,7 +403,8 @@ function networkSetup(data){
                 schcode: d.schcode_dest,
                 xy: d.xy_dest,
                 totalEnters: newLink.value
-            };
+            }; 
+            
             nodesData.set(d.schcode_dest,newNode);
             newLink.target = newNode;
         }else{
@@ -268,7 +479,7 @@ function drawBarChart(rootDom,data){
 
 // returns xy, added to the objects for an array data, with ojbect property lndLat, baed on rootDom specifications
 
-function myProjection(rootDom,data){
+function myProjection(rootDom,data,myScale){
     const w = rootDom.clientWidth;
     const h = rootDom.clientHeight;
     
@@ -288,7 +499,7 @@ function myProjection(rootDom,data){
     })
     
     const projection = d3.geoMercator()
-        .scale(45000)
+        .scale(myScale)
         .center([(maxLng+minLng)/2,(maxLat+minLat)/2+.2])
         //.center(289,127)
         .translate([w/2,h/2]);
@@ -297,6 +508,45 @@ function myProjection(rootDom,data){
     
     data.forEach(d=>
                  {d.xy = projection(d.lngLat);
+                 }
+    );
+    //console.log(data);
+    return(data);
+    
+}
+
+//// in progress
+function myProjection2(rootDom,data,myScale){
+    const w = rootDom.clientWidth;
+    const h = rootDom.clientHeight;
+    
+    const projection_tm = d3.geoMercator()
+    
+    console.log(data);
+    
+    const minLng = d3.min(data, function(d){
+        return d.lngLat_dest[0];
+    })
+    const maxLng = d3.max(data, function(d){
+        return d.lngLat_dest[0];
+    })
+    const minLat = d3.min(data, function(d){
+        return d.lngLat_dest[1];
+    })
+    const maxLat = d3.max(data, function(d){
+        return d.lngLat_dest[1];
+    })
+    
+    const projection = d3.geoMercator()
+        .scale(myScale)
+        .center([(maxLng+minLng)/2,(maxLat+minLat)/2+.2])
+        //.center(289,127)
+        .translate([w/2,h/2]);
+    
+    //console.log(data);
+    
+    data.forEach(d=>
+                 {d.xy_dest = projection(d.lngLat_dest);
                  }
     );
     //console.log(data);
@@ -316,16 +566,24 @@ function drawMap(rootDom,data){
     const projection_tm = d3.geoMercator()
     
     const minLng = d3.min(data, function(d){
-        return d.lngLat[0];
+        if(d.lngLat){
+            return d.lngLat[0];
+        }
     })
     const maxLng = d3.max(data, function(d){
-        return d.lngLat[0];
+        if(d.lngLat){
+            return d.lngLat[0];
+        }
     })
     const minLat = d3.min(data, function(d){
-        return d.lngLat[1];
+        if(d.lngLat){
+            return d.lngLat[1];
+        }
     })
     const maxLat = d3.max(data, function(d){
-        return d.lngLat[1];
+        if(d.lngLat){
+            return d.lngLat[1];
+        }
     })
     
     const projection = d3.geoMercator()
@@ -363,56 +621,4 @@ function drawMap(rootDom,data){
 		.style('stroke-width', '1px')
 		.style('stroke-opacity', .2) ;
 }
-
-
-
-
-
-//// original nodes and links work - it was in the main promise section
-
-    /*enters1718.forEach(d => {
-        const newLink ={
-            value:d.enters
-        }
-        
-        if(!nodesData18.get(d.schcode_dest)){ //undefined is false
-            const newNode = {
-                schcode: d.schcode_dest
-                //incoming: [newLink],
-                //incomingTotal: newLink.value
-            };
-            
-            nodesData18.set(d.schcode_dest, newNode); //add it to the map
-            newLink.dest = newNode
-            ;
-        }else{
-            const existingNode = nodesData18.get(d.schcode_dest);
-            //existingNode.schcode = d.schcode_dest,
-            //existingNode.incoming.push(newLink);
-            //existingNode.incomingTotal += newLink.value;
-            newLink.dest = existingNode;
-        }
-        
-        if(!nodesData18.get(d.schcode_origin)){
-            const newNode = {
-                schcode: d.schcode_origin
-            };
-            
-            nodesData18.set(d.schcode_origin, newNode);
-            newLink.origin = newNode;
-        }else{
-            const existingNode = nodesData18.get(d.schcode_origin);
-            //existingNode.schcode = 
-            newLink.origin = existingNode;
-        }
-        
-        
-        linksData18.push(newLink);
-        
-        //if present, then modify the existing node
-        //if not present, create a new node
-    })*/
-    
-    //console.log(nodesData18);
-    //console.log(linksData18);
 
