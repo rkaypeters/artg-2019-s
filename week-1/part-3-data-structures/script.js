@@ -57,20 +57,20 @@ console.log(data[0].city);
 //Using array.map, compute the population density of these 4 cities (population divided by area)
 //add population density as a property to each object, and return the array
 
-//I probably wouldn't use density for this... maybe I don't fully understand all of the uses for map; I tried and didn't see a way to use it to add a property to elements in an existing array.
+//I probably wouldn't use map for this... maybe I don't fully understand all of the uses for map; I tried and didn't see a way to use it to add a property to elements in an existing array. Possibly I could if I changed the initial const defining data above to be able to reassign it. However, it seems like map is what we use to treat the initial data as immutable and forEach is more appropriate for changing the original data.
 
 console.log('#4:');
 
 const density = data.map(d => d.population/d.land_area);
 
-console.log(density);
+//console.log(density);
 
 const density2 = data.map(d=>
     {return{city: d.city,
             state: d.state,
             population: d.population,
             land_area: d.land_area,
-            density: d.population/d.land_area
+            density: Math.round(d.population/d.land_area)
            }
 });
 

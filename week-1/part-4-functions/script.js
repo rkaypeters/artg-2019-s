@@ -19,14 +19,29 @@ d3.csv('../../data/world-bank/cb704cf4-fe8f-4f1b-ae0c-2a51c26f295f_Data.csv', pa
 		function filterByCountrySeries(rows, country, series){
 			//YOUR CODE HERE
             
-            return rows.filter(d => d.countryCode == country).filter(d=> d.series = series);
+            return rows.filter(d => d.countryCode == country).filter(d=> d.series == series).sort((a,b)=>
+         {return (a.year - b.year);
+         });
 		}
 
 		//Now test this function
 		console.log(filterByCountrySeries(rows, "BHR", "Population, total"));
 
 		//Can the function definition live somewhere else?
+        //Yes; for example, filterByCountrySeries2 below.
+    
+        console.log(filterByCountrySeries2(rows, "BHR", "Population, total"));
 	});
+
+
+function filterByCountrySeries2(rows, country, series){
+    //YOUR CODE HERE 
+    return rows.filter(d => d.countryCode == country).filter(d=> d.series == series).sort((a,b)=>
+        {return (a.year - b.year);
+    });
+};
+
+
 
 //You don't have to do anything here, but try to understand what these functions are doing
 function parse(d){
